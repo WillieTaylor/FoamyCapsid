@@ -1,0 +1,65 @@
+\section{Conclusions}
+
+\subsection{Structure comparison}
+
+\subsubsection{Pairwise significance}
+
+The comparison of small domains that are largely composed of \AHs\ presents a challenging problem in how
+to interpret the significance of the RMSD values.  As the individual helical secondary structure elements
+(SSEs) constitute a sizeable fraction of the domain, it takes only the chance alignment of a few helices
+to result in a low RMSD over a large proportion of the structure, giving an apparently meaingful result.  
+
+The use of
+the customised decoy sets attempts to avoided this problem by recreating a large number of possible folds
+that were generated using the same (reconnected) SSEs.   Moreover, to avoid any chance recreation of native fragments,
+each comparison always involved the comparison of a native (forward) chain direction with a reversed chain.
+Using these models, a background distribution of decoy/decoy comparisons allowed us to calculate Z-scores
+for each native/native comparison with the advantage that every comparison in the background distribution
+involved two models with the same length, density and secondary composition as the native pair.
+These values indicated a clearly significant relationship between the foamy and ortho structures.   
+
+\subsubsection{Direct or transposed domain order?}
+
+However, the Z-scores did not point to a clear resolution of whether the domains should have a direct
+correspondance (NN and CC match) or a transposed relationship (NC and CN) with significant individual
+matches found across all pairings.  Testing for a bias towards more significant like-domain pairings (NN,CC)
+in the list of similarities ranked by Z-score confirmed the visual bias towards a direct correspondance
+but only at a marginal level of significance (around 0.05).  By contrast, the application of a T-test on the
+combined raw comparison data returned a very clear distinction between the direct and the transposed
+relationships, clearly favouring the more natural forward order.  
+
+Although the `astronomic' probabilities calculated by the T-test seem very convincing, they
+must be viewed in the light of the much lower probabilities calculated from the asymmetry
+statistics.   Both calculations involve assumptions and are limited by the small number of known
+structures so neither can be taken as definitive.    It would seem likely that the ``true'' level of 
+significance may lie somewhere between the two results but as both point in the direction of the NN and CC 
+domain order, there is no reason to adopt the more unexpected transposed domain order. 
+
+\subsection{Evolutionary implications}
+
+On the basis of these structural comparisons, and a variety of functional assays described elsewhere, we can
+conclude that the central domain of the spumavirus Gag gene encodes a polypeptide sequence related to that of
+the corresponding region of orthoretroviruses, CA. It therefore seems reasonable to suppose that the last
+common ancestor of orthoretroviruses and spumaviruses possessed such a sequence. Moreover this region appears
+to be made up from two related subdomains suggesting a gene duplication event in a common precursor.
+
+In our initial search of the foamy virus capsid using the DALI program, we made
+the curious observation that the strongest similarity of the foamy virus capsid
+was with the ARC protein (Activity-Regulated Cytoskeleton-associated protein) that
+is active in neural synaptic growth and activity (and several other developmental associated functions).
+The ARC protein has widespread and clear (non-gag) sequence homologues as far back as insects and probably
+deeper, giving it a very ancient origin somewhere close to the metazoan root \cite{CampillosMet06}.
+If ARC is considered to be a relic of an ancient Ty3/Gypsy retrotransposon \cite{ZhangWet15}, preserved
+as a 'living fossil' in the genomes of metazoa, this relationship would suggest an equally
+ancient origin for the foamy virus. 
+
+Alternatively,
+the foamy viruses may have co-opted an ARC protein to facilitate budding and their escape from the cell.
+As it is believed that the Ty3/Gypsy family of intracellular retrotransposons gave rise to retroviruses
+\cite{LlorensCet08}, 
+it will therefore be of considerable interest to determine whether such elements possess CA proteins with
+a two-domain structure. Finally, it is worth noting that the Gag protein of Ty3 is significantly shorter 
+that that of the retroviruses and it is possible that the N-terminal domains of the orthoretroviruses 
+and spumaviruses were co-opted at different times to facilitate budding from the cell surface. 
+If so, the very different structures of this region in the orthoretroviruses and spumaviruses might suggest 
+independent acquisition events. 

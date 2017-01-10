@@ -1,0 +1,77 @@
+Protein 1 is HIV6_C
+found
+Protein 2 is foamC
+found
+Directory is HIV6_CfoamC
+COMPND   
+SOURCE   
+ apct = 53.333332 bpct = 3.333333
+ n = 60
+ k = 200 iend = 3 jend = 59 cost = 650.154846
+ nout = 4
+COMPND   
+SOURCE   
+ apct = 53.333332 bpct = 3.333333
+ n = 60
+ k = 200 iend = 3 jend = 59 cost = 650.154846
+ nout = 4
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ n = 94
+ k = 491 iend = 1 jend = 87 cost = 1509.756104
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ n = 94
+ k = 491 iend = 1 jend = 87 cost = 1509.756104
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 53.333332 bpct = 3.333333
+ a = 11 b = 15 c = 38 d = 39 e = 56 f = 58
+ ad = 10.347625 eb = 6.590762 cf = 11.051020
+ dsum = 27.989407 spare = 4
+ n = 60
+ k = 199 iend = 3 jend = 59 cost = 635.487122
+ nout = 4
+COMPND   
+SOURCE   
+ apct = 53.333332 bpct = 3.333333
+ a = 11 b = 15 c = 38 d = 39 e = 56 f = 58
+ ad = 10.347625 eb = 6.590762 cf = 11.051020
+ dsum = 27.989407 spare = 4
+ n = 60
+ k = 199 iend = 3 jend = 59 cost = 635.487122
+ nout = 4
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ a = 14 b = 18 c = 44 d = 45 e = 86 f = 87
+ ad = 8.122690 eb = 5.592104 cf = 8.670487
+ dsum = 22.385281 spare = 3
+ n = 94
+ k = 491 iend = 1 jend = 86 cost = 1430.448486
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ a = 14 b = 18 c = 44 d = 45 e = 86 f = 87
+ ad = 8.122690 eb = 5.592104 cf = 8.670487
+ dsum = 22.385281 spare = 3
+ n = 94
+ k = 491 iend = 1 jend = 86 cost = 1430.448486
+ nout = 5
+60 residues in str1
+94 residues in str2
+nat1 vs rev2
+nat2 vs rev1
+nta1 vs rev2
+nta2 vs rev1
+nat1 vs rve2
+nat2 vs rve1
+nta1 vs rve2
+nta2 vs rve1
+pdb1 vs pdb2
+pdb2 vs pdb1

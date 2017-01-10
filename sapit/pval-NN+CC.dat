@@ -1,0 +1,33 @@
+BLV6_N/BLV_NfoamN
+ damp = 30.000000 margin = 10
+ n = 300 mean = 1.326750 stdv = 0.190064 y = 0.552619 mean-y = 0.774131 n = 300 better = 0 b = 0.000000 z = 4.072995
+BLV_N/BLV_NfoamN
+ damp = 30.000000 margin = 10
+ n = 251 mean = 1.315207 stdv = 0.170234 y = 0.550254 mean-y = 0.764954 n = 251 better = 0 b = 0.000000 z = 4.493551
+BLV_C/BLV_CfoamC
+ damp = 30.000000 margin = 10
+ n = 204 mean = 1.305845 stdv = 0.185196 y = 0.556341 mean-y = 0.749504 n = 204 better = 0 b = 0.000000 z = 4.047075
+HIV1_N/HIV1_NfoamN
+ damp = 30.000000 margin = 10
+ n = 312 mean = 1.387546 stdv = 0.219740 y = 0.573903 mean-y = 0.813643 n = 312 better = 0 b = 0.000000 z = 3.702746
+HIV1_C/HIV1_CfoamC
+ damp = 30.000000 margin = 10
+ n = 174 mean = 1.291238 stdv = 0.174192 y = 0.705527 mean-y = 0.585711 n = 174 better = 0 b = 0.000000 z = 3.362449
+HML2_N/HML2_NfoamN
+ damp = 30.000000 margin = 10
+ n = 264 mean = 1.265025 stdv = 0.225198 y = 0.777153 mean-y = 0.487873 n = 264 better = 2 b = 0.007576 z = 2.166418
+HML2_C/HML2_CfoamC
+ damp = 30.000000 margin = 10
+ n = 184 mean = 1.291423 stdv = 0.157803 y = 0.676068 mean-y = 0.615355 n = 184 better = 0 b = 0.000000 z = 3.899511
+HTLV_N/HTLV_NfoamN
+ damp = 30.000000 margin = 10
+ n = 400 mean = 1.324345 stdv = 0.181467 y = 0.592956 mean-y = 0.731389 n = 400 better = 0 b = 0.000000 z = 4.030429
+HTLV_C/HTLV_CfoamC
+ damp = 30.000000 margin = 10
+ n = 163 mean = 1.259457 stdv = 0.201546 y = 0.693736 mean-y = 0.565720 n = 163 better = 0 b = 0.000000 z = 2.806904
+RSV_N/RSV_NfoamN
+ damp = 30.000000 margin = 10
+ n = 204 mean = 1.299841 stdv = 0.242518 y = 0.542528 mean-y = 0.757312 n = 204 better = 0 b = 0.000000 z = 3.122707
+RSV_C/RSV_CfoamC
+ damp = 30.000000 margin = 10
+ n = 235 mean = 1.300217 stdv = 0.179102 y = 0.403158 mean-y = 0.897059 n = 235 better = 0 b = 0.000000 z = 5.008660

@@ -1,0 +1,192 @@
+\begin{thebibliography}{}
+
+\bibitem[Asz\'{o}di \& Taylor, 1994]{AszodiAet94a}
+Asz\'{o}di, A. \& Taylor, W.~R. (1994{\em{}}).
+\newblock Folding polypeptide $\alpha$-carbon backbones by distance geometry
+  methods.
+\newblock {\em Biopolymers, } {\bf 34}, 489--506.
+
+\bibitem[Asz\'{o}di \& Taylor, 1997]{AszodiAet97a}
+Asz\'{o}di, A. \& Taylor, W.~R. (1997{\em{}}).
+\newblock Hierarchical inertial projection: a fast distance matrix embedding
+  algorithm.
+\newblock {\em Computers Chem.} {\bf 21}, 13--23.
+
+\bibitem[Bailey {\em et~al.}, 2009]{BaileyGDet09}
+Bailey, G., Hyun, J., Mitra, A.  \& Kingston, R. (2009{\em{}}).
+\newblock Proton-linked dimerization of a retroviral capsid protein initiates
+  capsid assembly.
+\newblock {\em Structure, } {\bf 17}, 737--748.
+\newblock DOI: 10.1016/j.str.2009.03.010.
+
+\bibitem[Ball {\em et~al.}, 2016]{BallNJet16}
+Ball, N., Nicastro, G., Dutta, M., Pollard, D., Goldstone, D., Sanz-Ramos, M.,
+  Ramos, A., Müllers, E., Stirnnagel, K., Stanke, N., Lindemann, D., Stoye, J.,
+  Taylor, W., Rosenthal, P.  \& Taylor, I. (2016{\em{}}).
+\newblock Structure of a spumaretrovirus gag central domain reveals an ancient
+  retroviral capsid.
+\newblock {\em {PLoS} Path.} {\bf ?}, ?
+\newblock submitted.
+
+\bibitem[Brown {\em et~al.}, 1996]{BrownNPet96}
+Brown, N.~P., Orengo, C.~A.  \& Taylor, W.~R. (1996{\em{}}).
+\newblock A protein structure comparison methodology.
+\newblock {\em Computers Chem.} {\bf 20}, 359--380.
+
+\bibitem[Campillos {\em et~al.}, 2006]{CampillosMet06}
+Campillos, M., Doerks, T., Shah, P.  \& Bork, P. (2006{\em{}}).
+\newblock Computational characterization of multiple gag-like human proteins.
+\newblock {\em Trends in Genetics, } {\bf 22}, 285--589.
+
+\bibitem[Cohen \& Sternberg, 1980]{CohenFEet80d}
+Cohen, F.~E. \& Sternberg, M. J.~E. (1980{\em{}}).
+\newblock On the prediction of protein structure: the significance of the
+  root-mean-square deviation.
+\newblock {\em J. Molec. Biol.} {\bf 138}, 321--333.
+
+\bibitem[Gamble {\em et~al.}, 1996]{GambleTRet96}
+Gamble, T., Vajdos, F., Yoo, S., Worthylake, D., Houseweart, M., Sundquist, W.
+  \& Hill, C. (1996{\em{}}).
+\newblock Crystal structure of human cyclophilin {A} bound to the
+  amino-terminal domain of {HIV-1} capsid.
+\newblock {\em Cell, } {\bf 87}, 1285--1294.
+
+\bibitem[Goldstone {\em et~al.}, 2010]{GoldstoneDCet10}
+Goldstone, D.~C., Yap, M.~W., Robertson, L.~E., Haire, L.~F., Taylor, W.~R.,
+  Katzourakis, A., Stoye, J.~P.  \& Taylor, I.~A. (2010{\em{}}).
+\newblock Structural and functional analysis of prehistoric lentiviruses
+  uncovers an ancient molecular interface.
+\newblock {\em Cell Host Microbe, } {\bf 8}, 248--259.
+
+\bibitem[Holm \& Sander, 1993]{HolmLet93a}
+Holm, L. \& Sander, C. (1993{\em{}}).
+\newblock Protein-structure comparison by alignment of distance matrices.
+\newblock {\em J. Molec. Biol.} {\bf 233}, 123--138.
+
+\bibitem[Khorasanizadeh {\em et~al.}, 1999]{KhorasanizadehSet99}
+Khorasanizadeh, S., Campos-Olivas, R., Clark, C.  \& Summers, M. (1999{\em{}}).
+\newblock Sequence-specific {1H, 13C and 15N} chemical shift assignment and
+  secondary structure of the {HTLV-I} capsid protein.
+\newblock {\em J. Biomol. NMR, } {\bf 14}, 199--200.
+
+\bibitem[Levitt \& Gerstein, 1998]{LevittMet98}
+Levitt, M. \& Gerstein, M. (1998{\em{}}).
+\newblock A unified statistical framework for sequence comparison and structure
+  comparison.
+\newblock {\em Proc Natl Acad Sci USA, } {\bf 95}, 5913--5920.
+
+\bibitem[Llorens {\em et~al.}, 2008]{LlorensCet08}
+Llorens, C., Fares, M.  \& Moya, A. (2008{\em{}}).
+\newblock Relationships of gag-pol diversity between {Ty3/Gypsy} and
+  retroviridae {LTR} retroelements and the three kings hypothesis.
+\newblock {\em BMC Evol. Biol.} {\bf 8}, e276.
+
+\bibitem[Macek {\em et~al.}, 2009]{MacekPet09}
+Macek, P., Chmelik, J., Krizova, I., Kaderavek, P., Padrta, P., Zidek, L.,
+  Wildova, M., Hadravova, R., Chaloupkova, R., Pichova, I., Ruml, T., Rumlova,
+  M.  \& Sklenar, V. (2009{\em{}}).
+\newblock {NMR} structure of the {N}-terminal domain of capsid protein from the
+  mason-pfizer monkey virus.
+\newblock {\em J. Mol. Biol.} {\bf 392}, 100--114.
+\newblock DOI: 10.1016/j.jmb.2009.06.029.
+
+\bibitem[Maiorov \& Crippen, 1994]{MaiorovVNet94}
+Maiorov, V.~N. \& Crippen, G.~M. (1994{\em{}}).
+\newblock Significance of root-mean-square deviation in comparing
+  three-dimensional structures of globular proteins.
+\newblock {\em J. Mol. Biol.} {\bf 235}, 625--634.
+
+\bibitem[McLachlan, 1984]{McLachlanAD84}
+McLachlan, A.~D. (1984{\em{}}).
+\newblock How alike are the shapes of two random chains?
+\newblock {\em Biopolymers, } {\bf 23}, 1325--1331.
+
+\bibitem[Mortuza {\em et~al.}, 2008]{MortuzaGBet08}
+Mortuza, G., Dodding, M., Goldstone, D., Haire, L., Stoye, J.  \& Taylor, I.
+  (2008{\em{}}).
+\newblock Structure of {B}-tropic {MLV} capsid {N}-terminal domain.
+\newblock {\em J. Mol. Biol.} {\bf 376}, 1493--1508.
+
+\bibitem[Mortuza {\em et~al.}, 2009]{MortuzaGBet09}
+Mortuza, G.~B., Goldstone, D.~C., Pashley, C., Haire, L.~F., Palmarini, M.,
+  Taylor, W.~R., Stoye, J.~P.  \& Taylor, I.~A. (2009{\em{}}).
+\newblock Structure of the capsid amino terminal domain from the
+  betaretrovirus, {J}aagsiekte sheep retrovirus.
+\newblock {\em J. Molec. Biol.} {\bf 386}, 1179--1192.
+
+\bibitem[Mortuza {\em et~al.}, 2004]{MortuzaGBet04}
+Mortuza, G.~B., Haire, L.~F., Stevens, A., Smerdon, S.~J., Stoye, J.~P.  \&
+  Taylor, I.~A. (2004{\em{}}).
+\newblock High-resolution structure of a retroviral capsid hexameric
+  amino-terminal domain.
+\newblock {\em Nature, } {\bf 431}, 481--485.
+
+\bibitem[Obal {\em et~al.}, 2015]{ObalGet15}
+Obal, G., Trajtenberg, F., Carrion, F., Tome, L., Larrieux, N., Zhang, X.,
+  Pritsch, O.  \& Buschiazzo, A. (2015{\em{}}).
+\newblock Conformational plasticity of a native retroviral capsid revealed by
+  {X}-ray crystallography.
+\newblock {\em Science, } {\bf 349}, 95--98.
+\newblock DOI: 10.1126/science.aaa5182.
+
+\bibitem[Pornillos {\em et~al.}, 2009]{PornillosOet09}
+Pornillos, O., Ganser-Pornillos, B., Kelly, B., Hua, Y., Whitby, F., Stout, C.,
+  Sundquist, W., Hill, C.  \& Yeager, M. (2009{\em{}}).
+\newblock {X}-ray structures of the hexameric building block of the {HIV}
+  capsid.
+\newblock {\em Cell, } {\bf 137}, 1282--1292.
+\newblock DOI: 10.1016/j.cell.2009.04.063.
+
+\bibitem[Press {\em et~al.}, 1986]{PressWHet86}
+Press, W.~H., Flannery, B.~P., Teukolsky, S.~A.  \& Vetterling, W.~T.
+  (1986{\em{}}).
+\newblock {\em Numerical Recipes: The Art of Scientific Computing}.
+\newblock Cambridge Univ. Press (Cambridge, UK).
+
+\bibitem[Rippmann \& Taylor, 1991]{RippmannFet91a}
+Rippmann, F. \& Taylor, W.~R. (1991{\em{}}).
+\newblock Visualization of structural similarity in proteins.
+\newblock {\em J. Molec. Graph.} {\bf 9}, 3--16.
+
+\bibitem[Taylor, 1999{\em{a}}]{TaylorWR99a}
+Taylor, W.~R. (1999{\em{a}}).
+\newblock Protein structure alignment using iterated double dynamic
+  programming.
+\newblock {\em Prot. Sci, } {\bf 8}, 654--665.
+
+\bibitem[Taylor, 1999{\em{b}}]{TaylorWR99b}
+Taylor, W.~R. (1999{\em{b}}).
+\newblock Protein structure domain identification.
+\newblock {\em Prot. Engng.} {\bf 12}, 203--216.
+
+\bibitem[Taylor, 2006]{TaylorWR06a}
+Taylor, W.~R. (2006{\em{}}).
+\newblock Decoy models for protein structure score normalisation.
+\newblock {\em J. Molec. Biol.} {\bf 357}, 676--699.
+
+\bibitem[Taylor {\em et~al.}, 2009]{TaylorWRet09a}
+Taylor, W.~R., Chelliah, V., Hollup, S.~M., MacDonald, J.~T.  \& Jonassen, I.
+  (2009{\em{}}).
+\newblock Probing the ``dark matter'' of protein fold-space.
+\newblock {\em Structure, } {\bf 17}, 1244--1252.
+
+\bibitem[Taylor {\em et~al.}, 2001]{TaylorWRet01b}
+Taylor, W.~R., May, A. C.~W., Brown, N.~P.  \& Asz\'odi, A. (2001{\em{}}).
+\newblock Protein structure: geometry, topology and classification.
+\newblock {\em Rep. Prog. Phys.} {\bf 64}, 517--590.
+
+\bibitem[Worthylake {\em et~al.}, 1999]{WorthylakeDKet99}
+Worthylake, D., Wang, H., Yoo, S., Sundquist, W.  \& Hill, C. (1999{\em{}}).
+\newblock Structures of the {HIV-1} capsid protein dimerization domain at
+  2.6\aa\ resolution.
+\newblock {\em Acta Crystallogr.,Sect.D, } {\bf 55}, 85--92.
+\newblock DOI: 10.1107/S0907444998007689.
+
+\bibitem[Zhang {\em et~al.}, 2015]{ZhangWet15}
+Zhang, W., Wu, J., Ward, M., Yang, S., Chuang, Y., Xiao, M., Li, R., Leahy, D.
+  \& Worley, P. (2015{\em{}}).
+\newblock Structural basis of arc binding to synaptic proteins: implications
+  for cognitive disease.
+\newblock {\em Neuron, } {\bf 86}, 490--500.
+
+\end{thebibliography}

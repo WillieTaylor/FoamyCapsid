@@ -1,0 +1,6 @@
+Mark Gerstein	Mark.Gersteini@Yale.edu		structure comparison (stats)
+Mark Johnson	johnson4@abo.fi			structure comparison (on Doolittle origin of retrovirus paper '89)
+Liisa Holm	liisa.holm@helsinki.fi		structure comparison (DALI)
+Peer Bork	Peer.Bork@EMBL.DE		on the Arc/Ty paper
+Alexey Murzin	agm@mrc-lmb.cam.ac.uk		structure comparison (SCOP)
+Dave Stuart	stuart-pa@strubi.ox.ac.uk       virus structure

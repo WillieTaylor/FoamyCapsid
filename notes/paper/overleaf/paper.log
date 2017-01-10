@@ -1,0 +1,346 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.5.31)  2 NOV 2016 09:27
+entering extended mode
+ %&-line parsing enabled.
+**paper
+(./paper.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(./elsarticle.cls
+Document Class: elsarticle 2009/09/17, 1.20b: Elsevier Ltd
+\@bls=\dimen102
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texmf-texlive/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@tnote=\count87
+\c@fnote=\count88
+\c@cnote=\count89
+\c@ead=\count90
+\c@author=\count91
+\@eadauthor=\toks15
+\c@affn=\count92
+\absbox=\box26
+\keybox=\box27
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box28
+\els@boxb=\box29
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+ (./paper.spl)
+(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
+Package: natbib 2009/07/16 8.31 (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count93
+)
+\splwrite=\write3
+\openout3 = `paper.spl'.
+
+\appnamewidth=\dimen109
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)) (./lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count94
+\output=\toks18
+\linenoprevgraf=\count95
+\linenumbersep=\dimen110
+\linenumberwidth=\dimen111
+\c@linenumber=\count96
+\c@pagewiselinenumber=\count97
+\c@LN@truepage=\count98
+\c@internallinenumber=\count99
+\c@internallinenumbers=\count100
+\quotelinenumbersep=\dimen112
+\bframerule=\dimen113
+\bframesep=\dimen114
+\bframebox=\box30
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(./subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen115
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen116
+\subfiglabelskip=\skip50
+\c@subfigure=\count101
+\c@lofdepth=\count102
+\c@subtable=\count103
+\c@lotdepth=\count104
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+) (./fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count105
+\FV@InFile=\read1
+\FV@TabBox=\box31
+\c@FancyVerbLine=\count106
+\FV@StepNumber=\count107
+\FV@OutFile=\write4
+) (./paper.aux
+
+LaTeX Warning: Label `Fig:daliNR90' multiply defined.
+
+
+LaTeX Warning: Label `sub@Fig:daliNR90' multiply defined.
+
+
+LaTeX Warning: Label `Fig:daliFULL' multiply defined.
+
+
+LaTeX Warning: Label `sub@Fig:daliFULL' multiply defined.
+
+)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Try loading font information for U+msa on input line 154.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 154.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Overfull \hbox (1.4073pt too wide) in paragraph at lines 164--173
+[]\OT1/cmr/m/n/12 Taxonomically, the \OT1/cmr/m/it/12 Or-thoretro-viri-nae \OT1
+/cmr/m/n/12 (or-thoretro-viruses) and \OT1/cmr/m/it/12 Spumaretro-
+ []
+
+[1
+
+
+] [2]
+File: full3nte-super.eps Graphic file (type eps)
+ <full3nte-super.eps>
+File: plotrms.eps Graphic file (type eps)
+ <plotrms.eps>
+
+LaTeX Warning: Float too large for page by 31.62108pt on input line 232.
+
+[3] [4]
+File: full4x3x-super.eps Graphic file (type eps)
+ <full4x3x-super.eps>
+File: full3g29-super.eps Graphic file (type eps)
+ <full3g29-super.eps> [5] [6]
+File: dali-daliFULL-DALIhitROC.eps Graphic file (type eps)
+
+<dali-daliFULL-DALIhitROC.eps>
+File: dali-daliNR90-DALIhitROC.eps Graphic file (type eps)
+ <dali-daliNR90-DALIhitROC.eps> [7] [8]
+File: dali-daliFULL-rawDALIdom.eps Graphic file (type eps)
+
+<dali-daliFULL-rawDALIdom.eps>
+File: dali-daliNR90-rawDALIdom.eps Graphic file (type eps)
+ <dali-daliNR90-rawDALIdom.eps> [9] [10]
+File: twoN.eps Graphic file (type eps)
+
+<twoN.eps>
+File: twoC.eps Graphic file (type eps)
+ <twoC.eps> [11]
+File: sapitNN.eps Graphic file (type eps)
+ <sapitNN.eps>
+File: sapitNC.eps Graphic file (type eps)
+ <sapitNC.eps>
+File: sapitCN.eps Graphic file (type eps)
+ <sapitCN.eps>
+File: sapitCC.eps Graphic file (type eps)
+
+<sapitCC.eps>
+File: fitsCN-plothiv.eps Graphic file (type eps)
+ <fitsCN-plothiv.eps>
+File: fitsCN-plotall.eps Graphic file (type eps)
+ <fitsCN-plotall.eps> [12] [13] [14]
+File: splitALL.eps Graphic file (type eps)
+
+<splitALL.eps>
+File: split5+5.eps Graphic file (type eps)
+ <split5+5.eps> [15] [16] [17]
+Overfull \hbox (13.09323pt too wide) in paragraph at lines 765--791
+ [][] 
+ []
+
+[18]
+File: foamyNC-sapit.eps Graphic file (type eps)
+ <foamyNC-sapit.eps>
+File: foamyNC-fits.eps Graphic file (type eps)
+ <foamyNC-fits.eps>
+File: orthoNCall-sapit.eps Graphic file (type eps)
+ <orthoNCall-sapit.eps>
+File: orthoNCall-fits.eps Graphic file (type eps)
+
+<orthoNCall-fits.eps>
+File: orthoNCall-ortho.eps Graphic file (type eps)
+ <orthoNCall-ortho.eps>
+File: orthoNCall-foamy.eps Graphic file (type eps)
+ <orthoNCall-foamy.eps> [19]
+[20] [21]
+File: foldspace-space.eps Graphic file (type eps)
+ <foldspace-space.eps> [22]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [23]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [24]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1010
+.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1010.
+
+
+Overfull \hbox (6.84245pt too wide) in paragraph at lines 1015--1016
+[]\OT1/cmr/bx/n/12 HTLV\OT1/cmr/m/n/12 : hu-man T-cell leukemia virus (deltaret
+ro-virus) \OT1/cmtt/m/n/12 1QRJ \OT1/cmr/m/n/12 (both dom.s)
+ []
+
+
+Overfull \hbox (0.28691pt too wide) in paragraph at lines 1017--1018
+[]\OT1/cmr/bx/n/12 MLV\OT1/cmr/m/n/12 : murine leukemia virus (gam-maretro-viru
+s) \OT1/cmtt/m/n/12 1U7K \OT1/cmr/m/n/12 (N-ter.dom) [[]], 
+ []
+
+
+Overfull \hbox (2.8704pt too wide) in paragraph at lines 1018--1019
+[]\OT1/cmr/bx/n/12 MPMV\OT1/cmr/m/n/12 : Mason-Pfizer mon-key virus (betaretro-
+virus) \OT1/cmtt/m/n/12 2KGF \OT1/cmr/m/n/12 (N-ter.dom)
+ []
+
+
+Overfull \hbox (36.33505pt too wide) in paragraph at lines 1028--1034
+\OT1/cmr/m/n/12 ac-cesed via the server at: \OT1/cmtt/m/n/12 http://ekhidna.bio
+center.helsinki.fi/dali[]server\OT1/cmr/m/n/12 .
+ []
+
+[25] [26] [27] [28] [29] (./paper.bbl
+Missing character: There is no √ in font cmr12!
+Missing character: There is no º in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no º in font cmr12!
+ [30]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no º in font cmr12!
+ [31] [32]
+Underfull \hbox (badness 1048) in paragraph at lines 258--268
+[]\OT1/cmr/m/n/12 T. Gam-ble, F. Va-j-dos, S. Yoo, D. Wor-thy-lake, M. House-we
+art,
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 302--310
+[]\OT1/cmr/m/n/12 S. Kho-rasanizadeh, R. Campos-Olivas, C. Clark, M. Sum-mers,
+ []
+
+[33] [34]) [35] (./paper.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2453 strings out of 495062
+ 31401 string characters out of 1182644
+ 100297 words of memory out of 3000000
+ 5595 multiletter control sequences out of 15000+50000
+ 13435 words of font info for 52 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 32i,8n,30p,1092b,309s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on paper.dvi (35 pages, 110132 bytes).

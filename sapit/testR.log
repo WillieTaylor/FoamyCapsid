@@ -1,0 +1,645 @@
+
+R version 2.14.1 (2011-12-22)
+Copyright (C) 2011 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> t <- scan('set0.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9879, p-value = 0.07653
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0632, p-value = 0.3804
+alternative hypothesis: two-sided 
+
+> t <- scan('set1.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9635, p-value = 0.001519
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0865, p-value = 0.2894
+alternative hypothesis: two-sided 
+
+> t <- scan('set2.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9875, p-value = 0.04475
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0769, p-value = 0.1376
+alternative hypothesis: two-sided 
+
+> t <- scan('set3.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9926, p-value = 0.1633
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0462, p-value = 0.5727
+alternative hypothesis: two-sided 
+
+> t <- scan('set4.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9777, p-value = 0.003356
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0881, p-value = 0.09677
+alternative hypothesis: two-sided 
+
+> t <- scan('set5.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9585, p-value = 0.0002112
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.1083, p-value = 0.06359
+alternative hypothesis: two-sided 
+
+> t <- scan('set6.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9738, p-value = 0.003093
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0656, p-value = 0.4732
+alternative hypothesis: two-sided 
+
+> t <- scan('set7.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.989, p-value = 0.05688
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0397, p-value = 0.8287
+alternative hypothesis: two-sided 
+
+> t <- scan('set8.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9859, p-value = 0.09834
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0492, p-value = 0.8254
+alternative hypothesis: two-sided 
+
+> t <- scan('set9.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9683, p-value = 0.002326
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.086, p-value = 0.2479
+alternative hypothesis: two-sided 
+
+> t <- scan('set10.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9899, p-value = 0.04058
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0441, p-value = 0.6189
+alternative hypothesis: two-sided 
+
+> t <- scan('set11.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9678, p-value = 0.0002518
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0794, p-value = 0.1867
+alternative hypothesis: two-sided 
+
+> t <- scan('set12.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9861, p-value = 0.01184
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0537, p-value = 0.4342
+alternative hypothesis: two-sided 
+
+> t <- scan('set13.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9842, p-value = 0.05042
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0599, p-value = 0.5758
+alternative hypothesis: two-sided 
+
+> t <- scan('set14.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.971, p-value = 0.0008445
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0695, p-value = 0.3497
+alternative hypothesis: two-sided 
+
+> t <- scan('set15.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9902, p-value = 0.2288
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0576, p-value = 0.5603
+alternative hypothesis: two-sided 
+
+> t <- scan('set16.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9956, p-value = 0.5231
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0301, p-value = 0.9367
+alternative hypothesis: two-sided 
+
+> t <- scan('set17.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9814, p-value = 0.02458
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0956, p-value = 0.09418
+alternative hypothesis: two-sided 
+
+> t <- scan('set18.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9854, p-value = 0.07721
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0545, p-value = 0.7042
+alternative hypothesis: two-sided 
+
+> t <- scan('set19.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9839, p-value = 0.04014
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0469, p-value = 0.8327
+alternative hypothesis: two-sided 
+
+> t <- scan('set20.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9831, p-value = 0.009071
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0886, p-value = 0.06022
+alternative hypothesis: two-sided 
+
+> t <- scan('set21.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9722, p-value = 0.005192
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0841, p-value = 0.2643
+alternative hypothesis: two-sided 
+
+> t <- scan('set22.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9932, p-value = 0.7519
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0426, p-value = 0.9636
+alternative hypothesis: two-sided 
+
+> t <- scan('set23.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9578, p-value = 6.217e-07
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.1014, p-value = 0.008952
+alternative hypothesis: two-sided 
+
+> t <- scan('set24.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9962, p-value = 0.4687
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0261, p-value = 0.9495
+alternative hypothesis: two-sided 
+
+> t <- scan('set25.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9782, p-value = 0.008385
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0774, p-value = 0.2547
+alternative hypothesis: two-sided 
+
+> t <- scan('set26.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.984, p-value = 0.01305
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0737, p-value = 0.1796
+alternative hypothesis: two-sided 
+
+> t <- scan('set27.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9821, p-value = 0.02648
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0769, p-value = 0.2638
+alternative hypothesis: two-sided 
+
+> t <- scan('set28.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9852, p-value = 0.002293
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0751, p-value = 0.05412
+alternative hypothesis: two-sided 
+
+> t <- scan('set29.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9787, p-value = 0.009403
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0826, p-value = 0.1884
+alternative hypothesis: two-sided 
+
+> t <- scan('set30.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9774, p-value = 0.0003087
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0713, p-value = 0.1321
+alternative hypothesis: two-sided 
+
+> t <- scan('set31.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9711, p-value = 0.0002439
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.09, p-value = 0.06448
+alternative hypothesis: two-sided 
+
+> t <- scan('set32.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9786, p-value = 0.0003227
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0685, p-value = 0.143
+alternative hypothesis: two-sided 
+
+> t <- scan('set33.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.996, p-value = 0.8114
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0526, p-value = 0.5441
+alternative hypothesis: two-sided 
+
+> t <- scan('set34.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9892, p-value = 0.08252
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0605, p-value = 0.367
+alternative hypothesis: two-sided 
+
+> t <- scan('set35.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9186, p-value = 5.673e-10
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.1408, p-value = 0.000203
+alternative hypothesis: two-sided 
+
+> t <- scan('set36.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9568, p-value = 0.0001417
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.1244, p-value = 0.02049
+alternative hypothesis: two-sided 
+
+> t <- scan('set37.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9886, p-value = 0.07231
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0533, p-value = 0.5451
+alternative hypothesis: two-sided 
+
+> t <- scan('set38.dat')
+> shapiro.test(t)
+
+	Shapiro-Wilk normality test
+
+data:  t 
+W = 0.9708, p-value = 0.001589
+
+> ks.test(t, pnorm, mean = mean(t), sd = sqrt(var(t)))
+
+	One-sample Kolmogorov-Smirnov test
+
+data:  t 
+D = 0.0815, p-value = 0.2295
+alternative hypothesis: two-sided 
+
+> 

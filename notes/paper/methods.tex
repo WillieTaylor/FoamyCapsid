@@ -1,0 +1,231 @@
+\section{Methods}
+
+\subsection{Structural data}
+
+The foamy virus structures were obtained from the Protein Structure Databank
+(PDB code:{\tt 5M1G}) \cite{BallNJet16}.
+
+%wtaylor@wt:~/ianpdbs/notes$ cat pdbid.ian
+%
+%N-terminal orthoretroviral CA domains
+%1) Ortho-HIV1_NtD.pdb – (Lentivirus) Taken from HIV-Cyp structure. PDB code 1AK4.
+%2) Ortho_HML2_NtD.pdb – (Betaretrovirus) crystal structure of NtD of human endogenous virus HML2, our unpublished structure.
+%3) Ortho_HTLV_NtD.pdb – (Deltaretrovirus) NMR structure of HTLV CA-NtD. Resolution a bit poor and N-terminal beta hairpin not correctly modelled. PDB code 1G03.
+%4) Ortho_JSRV_NtD.pdb – (Betaretrovirus) Our X-ray structure of CA-NtD from JSRV. PDB code 2V4X
+%5) Ortho_MLV_NtD – (gammaretrovirus) one monomer taken from our X-ray structure of N-MLV. PDB code 1U7K
+%6) Ortho_MPMV_NtD – (betaretrovirus) NMR structure of CA NtD domain from MPMV. PDB code 2KGF
+%7) Ortho_RSV_NtD.pdb – (alpharetrovirus) One Ntd Monomer taken from RSV CA –NtD crystal dimer. PDB code 1EM9
+%8) Ortho_BLV_NtD.pdb – (Deltaretrovirus) One NtD monomer taken from a BLV NtD crystal dimer. PDB code 4PH2
+%9) Ortho_RELIC_NtD.pdb – (Lentivirus, ancient) One Ntd monomer Taken from our X-ray structure of a RELIK crystal dimer. PDB code 2XGU.
+%10) ortho_PSIV_NtD.pdb – (Lentivirus, ancient) Ntd monomer in our X-ray crystal structure of PSIV. PDB code 2XGU.
+%
+%C-terminal orthoretroviral CA domains
+%1) Ortho_HIV1_CtD – (Lentivirus) One CtD monomer taken from an HIV1 crystal dimer crystal. PDB code 1A43
+%2) Ortho_RSV_CtD.pdb – (Alpharetrovirus) One Ctd Monomer taken from RSV CtD crystal dimer. PDB code 3G1I. This dimer was neural pH. There are other forms at high and low pH.
+%3) BLV_CA_CtD.pdb – (Deltaretrovirus) One CtD monomer taken from a BLV CtD crystal trimer. PDB code 4PH1.
+%4) Ortho_HML2_CtD.pdb – (Betaretrovirus) Our NMR structure of CtD of human endogenous virus HML2, our unpublished structure.
+%Orthoretroviral CA domains
+%1) Ortho_HIV1_CA_hex_P6.pdb – (Lentivirus) One CA monomer out of a P6 disk. PDB code 3H47.
+%2) Ortho_HIV1_CA_hex_P212121 – (Lentivirus) One CA monomer extracted out of a hexameric disk. PDB code 3H4E.
+%3) Ortho_HTLV_CA.pdb _ (Deltaretrovirus) NMR structure of HTLV CA. PDB code 1QRJ.
+%4) Ortho_BLV_CA_Hex_P65.pdb. – (Deltaretrovirus) One CA monomer extracted out of a hexameric disk. PDB code 4PH0.
+
+The ortho virus structures used, with their shorthand code in bold and PDB code in teletype, were:
+\begin{itemize}
+\item {\bf BLV}:  bovine leukemia virus (deltaretrovirus) {\tt 4PH1} (N-ter.dom) and {\tt 4PH2} (C-ter.dom) \cite{ObalGet15},
+\item {\bf BLV6}: bovine leukemia virus (hexameric) {\tt 4PH0} (both dom.s) \cite{ObalGet15},
+\item {\bf HIV1}: human immunodeficiency virus 1 (lentivirus) {\tt 1AK4} (N-ter.dom) \cite{GambleTRet96} and {\tt 1A43} (C-ter.dom) \cite{WorthylakeDKet99},
+\item {\bf HIV6}: human immunodeficiency virus 1 {\tt 3H47} (both dom.s) \cite{PornillosOet09},
+\item {\bf HML2}: human endogenous retrovirus type-K (betaretrovirus) {\tt } \cite{MortuzaGBet08},
+\item {\bf HTLV}: human T-cell leukemia virus (deltaretrovirus) {\tt 1QRJ} (both dom.s) \cite{KhorasanizadehSet99},
+\item {\bf JSRV}: jaagsiekte sheep Retrovirus (betaretrovirus) {\tt 2V4X} (N-ter.dom) \cite{MortuzaGBet09},
+\item {\bf MLV}:  murine leukemia virus (gammaretrovirus) {\tt 1U7K} (N-ter.dom) \cite{MortuzaGBet04},
+\item {\bf MPMV}: Mason-Pfizer monkey virus (betaretrovirus) {\tt 2KGF} (N-ter.dom) \cite{MacekPet09},
+\item {\bf PSIV}: prosimian immunodefficiency virus (ancient lentivirus) {\tt 2XGV} (N-ter.dom) \cite{GoldstoneDCet10},
+\item {\bf RELIK}: rabbit endogenous lentivirus type-K (ancient lentivirus) {\tt 2XGU} (N-ter.dom) \cite{GoldstoneDCet10},
+\item {\bf RSV}:  Rous sarcoma virus (alpharetrovirus) {\tt 3G1I} (both dom.s) \cite{BaileyGDet09}.
+\end{itemize}
+
+\subsection{Structure comparison}
+
+\subsubsection{\DALI}
+
+The \DALI\ method for searching the PDB with a structural query \cite{HolmLet93a}
+was accesed via the server at:
+{\tt http://ekhidna.biocenter.helsinki.fi/dali\_server}.
+The \DALI\ method reports the significance of each match with an estimated Z-score
+which is the raw comparison score, normalised by the combined length of the proteins.
+Z-scores down to a value of 2 are reported by the program.
+
+The list of \DALI\ hits (ranked by Z-score) were assessed by how many high-scoring capsid structures had
+been identified.    These true/false (T/F) hits were defined simply by protein descriptions that contained the
+words "CAPSID", "GAG" or "P24".   This may have misclassified a few (low scoring) hits to the matrix protein
+and missed some hits where the primary description refers to a cyclophilin structure solved in complex 
+with the capsid. 
+
+\DALI\ reports structural hits in both the full PDB and a reduced collection of structures that
+have no pair of proteins with over 90\% sequence identity, referred to as the 90\% non-redundant or PDB-90 collection.
+It was found, however, that some hits, seen in the full PDB were not found in the PDB-90, for example in \Fig{revs},
+all of the top 31 hits of the N-domain against the full PDB are missing in the PDB-90 hits.
+The most likely explanation is that the PDB-90 secection has not been updated at the same time
+as the full collection.    For this reason, hits to both databases were monitored.
+
+\subsubsection{\SAP}
+
+The \SAP\ method for structure comparison \cite{TaylorWR99a} was run as local copy which can
+be accessed at: {\tt mathbio}.   As part of determining the alignment between two structures,
+the \SAP\ program calculates a similarity score for each pair of matched positions which is
+how similar the rest of the structure looks from the viewing-frame of the superposed residues.
+This value can be used both to weight the importance of positions when calculating the
+(rigid-body) RMSD superposition and to colour positions in the superposed structures.
+\cite{RippmannFet91a}. (As in \Fig{top2}).
+
+If the matched positions are ranked by this value, then RMSD values can be calculated over
+increasingly larger subsets to high-light the extent of a well matched core before
+the contribution of variable loops, or domain shifts, leads to higher RMSD values.
+(As in \Fig{fullRMS}).
+
+\subsection{Decoy structure construction}
+
+\subsubsection{Reversed structure decoys}
+
+Simple structural decoys were generated from native PDB structures by reversing the order
+of the \CA\ atoms in the PDB file using the Unix command line:
+\begin{verbatim}
+cat native.pdb | grep ' CA ' | sort -nr -k2 > reverse.pdb
+\end{verbatim}
+The reversal of a protein chain does not alter the chirality of the alpha helix and
+these decoys can be used directly in \SAP.   However, \DALI\ requires all main-chain atoms
+and these must be regenerated for the reversed decoys.   This was done using the simple
+{\tt ca2main} program which can also be found at: {\tt  mathbio}.
+
+\subsubsection{Customised decoys}
+
+Customised structural decoys were generated for each comparison using each of the
+pair of structures being compared to create two pools of decoys then comparing all
+decoys in the first pool against all decoys from the second but with their chain
+reversed as described in the previous section.
+
+The decoys were created as described by Taylor \cite{TaylorWR06a}, starting by cyclising the
+chain then introducing new termini in each surface loop to create cyclic permutations.
+In addition, when three loop regions lie in close proximity, their ends are also 
+swapped.   That is: if a chain runs from amino (N) to carboxy (C) termini through
+three adjacent loop regions {\tt a-b}, {\tt c-d} and {\tt e-f} as: N,{\tt a-b,c-d,e-f},C
+then the swapped chain runs: N,{\tt a-d,e-b,c-f},C with each switch being made at the
+least disruptive point.   This swap does not create any reversed segments which would
+otherwise form regions of local matching when the whole chain is reversed.
+
+In a pair of structures, if each have four surface loops where breaks can be made, then
+including the native termini, this gives five cyclic permutations and if two groups of 
+loops can be reconnected then a total of 15 distinct decoys can be made from each native
+starting structure.   As these can be compared pairwise, a pool of 225 decoy derived
+data points is generated that constitutes the random background against which the native/native
+comparison can be assessed.
+
+For example, in \Fig{sapit}, the 36 data
+points marked by a solid circle come from the comparison of six cyclic permutations of a 
+native ortho domain compared with six permutations of a reversed foamy domain that includes
+a single loop reconnection.  
+
+Every pair drawn from this pool will have the same lengths as the two native structures
+as well as the same secondary structure composition, surface exposure and inertial properties
+but each decoy will have a different chain fold.
+
+
+\subsection{Statistical tests}
+
+\subsubsection{RMSD length normalisation}
+
+The quality of structure comparisons can be characterised by a combination of their
+RMSD value and the number of matched (superposed) positions.  How to combine these values has
+been the subject of much discussion over the years and central to this is the expected random
+RMSD value for two proteins of a given length \cite{McLachlanAD84,CohenFEet80d,MaiorovVNet94}.   However,
+when reviewed \cite{TaylorWR06a}, all these measures were approximations of a simple square-root function of
+the protein length (as originally proposed by McLachlan on theoretical grounds \cite{McLachlanAD84})
+but with an added term to depress the RMSD values obtained with small units or structure
+that are dominated by secondary structure elements (and super-secondary structure motifs) 
+giving a lower than expected RMSD value.   The formula that best captures this is:
+$R = \surd N (1-\exp(-N^2/s^2))$,
+where,
+$R$ is the expected random RMSD for $N$ matched positions and $s$ is the damping factor in the inverted
+Gaussian term (equivalent to the standard deviation in the Normal distribution).  
+
+Any point that lies on this line can be considered "exactly" random
+with those above it being "more" random and those below it "less" random.  This can be quantified
+as a single number which is the value of a scaling factor ($a$), which when applied to the curve, makes it
+pass through any given point.   If a comparison has an RMSD of $R$ over $N$ positions, then
+$R = a\surd N (1-\exp(-N^2/s^2))$ and when
+\begin{equation}
+\label{Eqn:fit}
+a = R/(\surd N (1-\exp(-N^2/s^2))), 
+\end{equation}
+the line will pass through the data point.  This reduces the pair of values ($R,N$) to a
+single value $a$ that is a simpler quantity for statistical analysis.
+
+The best value for $s$ is slightly dependent on the nature of the proteins being compared.
+For artifical (random-walk)  models with no secondary structure, no modification will be needed but the
+proteins considered here have segments of packed alpha helices that can be locally similar
+over two to three helices.   To correct for this, a value of $s=30$ was used (or $1/s^2 = 0.11$)
+which is higher than the value of $1/s^2 = 0.03$ used previously.
+That this is a reasonable fit to the data can be seen in the way the dashed blue lines
+in \Fig{sapit} track the upper and lower boundary of the decoy comparison results.
+
+When $a=1$, the point lies on the random line and when $a=0$, the RMSD is zero, so values of
+$a$ that approach this lower bound will be of interest when evaluating similarity. 
+
+\subsubsection{Frequency plots}
+
+The $a$-values obtained using \Eqn{fit} were plotted as frequency histograms using using
+only data points that had a length of $N\pm 10$, where $N$ is the maximum number of matched
+positions.   Previously, a cumulative plot of RMSD was used to select an optimal value for
+$N$ (giving the minimum $a$-value).   This can be important if the full set of matched
+positions is dominated by a high deviations from variable loop regions.   However, in the
+current application, the small length of the foamy virus loops meant that this was not
+an important aspect and the full number of matched positions was taken.   Otherwise, the
+same correction would have to be applied to all decoy comparisons to maintain a fair
+comparison.  (See \Fig{sapit}, where the black dot marks the minimum $a$-value length).
+
+The mean and standard deviation of the $a$-values in the $N\pm10$ region were calculated
+and the corresponding Normal distribution used to calculate Z-scores for the associated
+native comparison. (See \Fig{normHIV}, for an example).
+
+\subsubsection{T-tests}
+
+Data from separate native/native comparisons, with their customised decoy data, were combined
+giving not only a much larger background decoy derived population of scores but also a smaller
+distribution of native comparison scores that can be tested to calculate the probability that
+they were drawn from the same population as the decoy data.  To do this, a T-test was used which
+takes the size, mean, and standard deviation of each distribution and calculates a probability.
+The implementaion of this test was taken from the Numerical Reicpies collection \cite{PressWHet86}
+which implements one of two variants of the test depending on whether the distributions
+have statistically distinct standard deviations. (Routines {\tt ttest()} and {\tt tutest()}).  
+The choice of routine is based on a preapplication of an F-test on the standard-deviations. 
+(Using the routine {\tt ftest()}).
+
+The values quoted in the Results section are for a two-tailed T-test, however, as it is expected
+that the native comparisons should always be more similar than comparisons between random models,
+then a one-tailed T-test would be valid, which gives half the probability.   As the values
+in the Tables are so significant and only the relative relationships are of interest,
+then the choice is unimportant.
+
+\subsection{Fold-space clustering}
+
+The results of the pairwise similarity within a set of structures can be visualised by treating the
+RMSD values as Euclidean distances\footnote{In theory, pairwise RMSD values are guaranteed to constitute 
+a consistent Euclidean metric, but only in N-1 dimensions (where N is the number of structures compared).
+} and reducing their dimensionality to sufficiently few dimensions to be visualised: usually 2D or, 
+better 3D, to visualise the space with less distortion.
+Rather than use a simple multi-dimensional scaling (MDS) method (\cite{BrownNPet96}), the more complicated 
+method of multi-dimensional projection was used (\cite{AszodiAet97a}, see \cite{TaylorWRet01b} for a
+simpler exposition).  
+
+This method reduces the dimensionality of the projection in gradual stages
+with each step employing triangle-inequality balancing and hyper-dimensional real-space refinement.
+In the real-space refinement stages, a weight can be applied to pairwise distances. (This cannot be
+done in direct MDS projection, which can only assign a mass to each point).  
+Weights were assigned to distances as a function of their inverse RMSD, up to a maximum value of 1.
+
+The method is robust and
+has been widely applied to rough models (\cite{TaylorWRet09a}) and predicted inter-residue distances that 
+constitute highly non-metric data sets (\cite{AszodiAet94a}).
+

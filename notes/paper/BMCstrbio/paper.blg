@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: paper.aux
+The style file: bmc-mathphys.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 472446405560.
+Database file #1: newrefs.bib
+Database file #2: jonrefs.bib
+Repeated entry---line 9 of file jonrefs.bib
+ : @article{CampillosMet06
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15 of file jonrefs.bib
+ : @article{LlorensCet08
+ :                      ,
+I'm skipping whatever remains of this entry
+Database file #3: pdbrefs.bib
+Repeated entry---line 1 of file pdbrefs.bib
+ : @article{ZhangWet15
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 60 of file pdbrefs.bib
+ : @article{GoldstoneDCet10
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 76 of file pdbrefs.bib
+ : @article{MortuzaGBet04
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 84 of file pdbrefs.bib
+ : @article{MortuzaGBet09
+ :                       ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 47 entries,
+            7128 wiz_defined-function locations,
+            1513 strings with 19729 characters,
+and the built_in function-call counts, 326765 in all, are:
+= -- 41551
+> -- 2097
+< -- 1210
++ -- 11729
+- -- 507
+* -- 24668
+:= -- 63782
+add.period$ -- 53
+call.type$ -- 47
+change.case$ -- 495
+chr.to.int$ -- 2600
+cite$ -- 47
+duplicate$ -- 5404
+empty$ -- 17928
+format.name$ -- 2274
+if$ -- 73748
+int.to.chr$ -- 1
+int.to.str$ -- 111
+missing$ -- 1788
+newline$ -- 1543
+num.names$ -- 235
+pop$ -- 2287
+preamble$ -- 1
+purify$ -- 204
+quote$ -- 94
+skip$ -- 19646
+stack$ -- 0
+substring$ -- 43884
+swap$ -- 1902
+text.length$ -- 685
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 2057
+warning$ -- 0
+while$ -- 1904
+width$ -- 0
+write$ -- 2283
+(There were 6 error messages)

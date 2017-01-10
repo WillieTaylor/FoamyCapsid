@@ -1,0 +1,77 @@
+Protein 1 is RSV_N
+found
+Protein 2 is foamN
+found
+Directory is RSV_NfoamN
+COMPND   
+SOURCE   
+ apct = 59.863945 bpct = 6.122449
+ n = 147
+ k = 1248 iend = 1 jend = 143 cost = 955.258423
+ nout = 10
+COMPND   
+SOURCE   
+ apct = 59.863945 bpct = 6.122449
+ n = 147
+ k = 1248 iend = 1 jend = 143 cost = 955.258423
+ nout = 10
+COMPND   
+SOURCE   
+ apct = 58.139534 bpct = 6.976744
+ n = 86
+ k = 411 iend = 3 jend = 82 cost = 1265.470459
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 58.139534 bpct = 6.976744
+ n = 86
+ k = 411 iend = 3 jend = 82 cost = 1265.470459
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 59.863945 bpct = 6.122449
+ a = 9 b = 10 c = 47 d = 49 e = 122 f = 126
+ ad = 11.768057 eb = 6.547443 cf = 7.800678
+ dsum = 26.116179 spare = 4
+ n = 147
+ k = 1250 iend = 1 jend = 143 cost = 951.477600
+ nout = 10
+COMPND   
+SOURCE   
+ apct = 59.863945 bpct = 6.122449
+ a = 9 b = 10 c = 47 d = 49 e = 122 f = 126
+ ad = 11.768057 eb = 6.547443 cf = 7.800678
+ dsum = 26.116179 spare = 4
+ n = 147
+ k = 1250 iend = 1 jend = 143 cost = 951.477600
+ nout = 10
+COMPND   
+SOURCE   
+ apct = 58.139534 bpct = 6.976744
+ a = 22 b = 26 c = 59 d = 60 e = 78 f = 79
+ ad = 7.207079 eb = 7.327272 cf = 8.721660
+ dsum = 23.256012 spare = 3
+ n = 86
+ k = 410 iend = 3 jend = 82 cost = 1275.121216
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 58.139534 bpct = 6.976744
+ a = 22 b = 26 c = 59 d = 60 e = 78 f = 79
+ ad = 7.207079 eb = 7.327272 cf = 8.721660
+ dsum = 23.256012 spare = 3
+ n = 86
+ k = 410 iend = 3 jend = 82 cost = 1275.121216
+ nout = 5
+147 residues in str1
+86 residues in str2
+nat1 vs rev2
+nat2 vs rev1
+nta1 vs rev2
+nta2 vs rev1
+nat1 vs rve2
+nat2 vs rve1
+nta1 vs rve2
+nta2 vs rve1
+pdb1 vs pdb2
+pdb2 vs pdb1

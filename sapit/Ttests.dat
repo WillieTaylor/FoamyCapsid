@@ -1,0 +1,22 @@
+T-tests
+
+N+foamN
+ argv[1] = combineNN damp = 30.000000
+ in1 = 10 maln = 66 naln = 86 mean1 = 0.667678 stdv1 = 0.160947 in2 = 3019 mean2 = 1.317964 stdv2 = 0.202986
+Avg: 6.68e-01 < 1.32e+00 Tprob=1.07e-23 **
+StD: 1.61e-01 = 2.03e-01 Fprob=2.27e-01 
+N+foamC
+ argv[1] = combineNC damp = 30.000000
+ in1 = 10 maln = 73 naln = 93 mean1 = 0.492444 stdv1 = 0.101901 in2 = 2645 mean2 = 1.296885 stdv2 = 0.214274
+Avg: 4.92e-01 < 1.30e+00 Tprob=8.27e-10 **
+StD: 1.02e-01 < 2.14e-01 Fprob=9.14e-03 **
+C+foamN
+ argv[1] = combineCN damp = 30.000000
+ in1 = 7 maln = 56 naln = 76 mean1 = 0.654600 stdv1 = 0.119954 in2 = 1231 mean2 = 1.257948 stdv2 = 0.194651
+Avg: 6.55e-01 < 1.26e+00 Tprob=6.46e-16 **
+StD: 1.20e-01 = 1.95e-01 Fprob=1.08e-01 
+C+foamC
+ argv[1] = combineCC damp = 30.000000
+ in1 = 7 maln = 60 naln = 80 mean1 = 0.626231 stdv1 = 0.111797 in2 = 1189 mean2 = 1.308755 stdv2 = 0.178663
+Avg: 6.26e-01 < 1.31e+00 Tprob=4.83e-23 **
+StD: 1.12e-01 = 1.79e-01 Fprob=1.15e-01 

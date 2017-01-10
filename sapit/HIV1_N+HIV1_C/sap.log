@@ -1,0 +1,94 @@
+ file1 = HIV1_N
+ prot1->Compound = 
+ file2 = HIV1_C
+ prot2->Compound = 
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Cycle 1, 15 residues selected
+Cycle 2, 20 residues selected
+Cycle 3, 25 residues selected
+Cycle 4, 30 residues selected
+Cycle 5, 35 residues selected
+
+ score = 125.385025
+
+Percent sel on aln =    8.57
+Percent aln in sel =    4.92
+  T    1   0.1  23 W**
+ *S    2   0.0  24 V* 
+ *I    3   0.3  25 K* 
+ *L    4   0.3  26 V* 
+  D    5   0.3  27 V* 
+ *I    6   0.1  28 E  
+ *R    7   0.1  29 E  
+ *Q    8   0.1  30 K* 
+ *G    9   0.1  31 A* 
+  P   10   0.1  32 F* 
+  K   11   0.0  33 S* 
+ *E   12   0.0  34 P  
+ *P   13   0.2  35 E  
+**F   14   5.2  36 V**
+  R   15   3.8  37 I**
+  D   16   3.1  38 P  
+**Y   17   2.4  39 M* 
+ *V   18   2.5  40 F* 
+ *D   19   2.2  41 S* 
+  R   20   2.7  42 A  
+**F   21   3.4  43 L* 
+ *Y   22   2.6  44 S**
+ *K   23   0.6  45 E* 
+  E   33   0.0  46 G* 
+  V   34   0.0  47 A**
+ *K   35   0.2  48 T**
+  N   36   2.3  49 P**
+  W   37   7.3  50 Q* 
+ *M   38   8.9  51 D* 
+**T   39  13.1  52 L**
+**E   40  11.9  53 N* 
+  T   41   1.8  54 T  
+**L   42   1.5  55 M* 
+**L   43   1.9  56 L* 
+**V   44   2.5  57 N  
+  Q   45   2.2  58 T* 
+ *N   46   0.2  59 V**
+**A   47   0.1  60 G* 
+**N   48   0.1  61 G  
+  P   49   0.0  62 H  
+  D   50   3.4  63 Q* 
+**C   51   2.7  64 A  
+**K   52   2.7  65 A* 
+  T   53   2.2  66 M  
+ *I   54   2.1  67 Q  
+ *L   55   2.2  68 M* 
+  K   56   2.7  69 L**
+  A   57   3.7  70 K  
+  L   58   2.9  71 E  
+  G   59   0.1  72 T* 
+  P   60   0.1  73 I**
+  G   61   0.1  74 N* 
+ *A   62   0.0  75 E  
+ *T   63   0.0  76 E* 
+ *L   64   2.4  77 A**
+  E   65   1.8  78 A  
+  E   66   1.2  79 E  
+ *M   67   1.0  80 W* 
+ *M   68   1.5  81 D* 
+  T   69   1.8  82 R  
+  A   70   2.3  83 L  
+HIV1_C Weighted RMSd =   5.572 over 61 atoms 39.984653 121.029427   4.9 50.984478 47.449253 54.177971 60.047150
+HIV1_C Un-weighted RMSd =   3.145 over best 25 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   4.405 over best 30 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   4.405 over best 30 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   5.092 over best 32 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.233 over best 41 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.565 over best 45 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.841 over best 54 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.830 over best 59 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.782 over best 60 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.762 over best 61 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.762 over best 61 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.762 over best 61 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.762 over best 61 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.762 over best 61 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.762 over best 61 atoms ( 121.029427    4.9 )
+HIV1_C Un-weighted RMSd =   6.762 over all 61 matched atoms 39.984653 121.029427    4.9 50.984478 47.449253 54.177971 60.047150

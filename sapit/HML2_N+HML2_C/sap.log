@@ -1,0 +1,106 @@
+ file1 = HML2_N
+ prot1->Compound = 
+ file2 = HML2_C
+ prot2->Compound = 
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Cycle 1, 15 residues selected
+Cycle 2, 21 residues selected
+Cycle 3, 26 residues selected
+Cycle 4, 32 residues selected
+Cycle 5, 37 residues selected
+
+ score = 287.186157
+
+Percent sel on aln =  100.00
+Percent aln in sel =   50.68
+  P    1   0.0  15 I  
+ *S    2   0.7  16 K  
+ *F    3   0.5  17 M  
+  N    4   0.6  18 L**
+ *T    5   0.4  19 K* 
+ *V    6   0.1  20 D  
+ *R    7   0.2  21 M* 
+**Q    8  10.0  22 K* 
+  G    9   1.9  23 E* 
+  S   10   0.1  24 G* 
+  K   11   0.1  25 V**
+ *E   12   0.0  26 K  
+  P   13   0.8  27 Q  
+ *Y   14   0.0  28 Y* 
+ *P   15   0.2  29 G  
+  D   16   0.2  30 P**
+**F   17   0.4  31 N* 
+**V   18   0.7  32 S* 
+  A   19   5.0  33 P  
+ *R   20   5.1  34 Y  
+**L   21   6.5  35 M**
+ *Q   22   5.0  36 R* 
+  D   23   4.4  37 T  
+ *V   24   4.8  38 L  
+**A   25   5.8  39 L  
+ *Q   26   4.8  40 D* 
+  K   27   6.8  41 S* 
+ *S   28   7.5  42 I* 
+ *I   29   6.0  43 A**
+  A   30   0.3  44 H  
+ *D   31   0.1  45 G  
+  E   32   0.0  46 H* 
+  K   33   0.7  47 R* 
+  A   34   0.0  48 L**
+**R   35   0.1  49 I**
+  K   36   1.3  50 P**
+ *V   37   4.7  51 Y* 
+ *I   38   4.2  52 D**
+**V   39   3.2  53 W**
+ *E   40   2.9  54 E* 
+  L   41   3.2  55 I* 
+**M   42   3.8  56 L* 
+**A   43   4.8  57 A* 
+**Y   44   5.6  58 K* 
+  E   45   5.2  59 S  
+ *N   46   8.9  60 S**
+ *A   47  22.1  61 L**
+**N   48  25.3  62 S  
+  P   49  10.3  63 P  
+  E   50   4.8  64 S  
+ *C   51   8.4  65 Q* 
+ *Q   52  16.6  66 F* 
+**S   53  15.2  67 L  
+**A   54  18.7  68 Q* 
+**I   55  24.1  69 F**
+ *K   56  19.2  70 K  
+ *P   57  18.5  71 T  
+ *L   58  18.2  72 W* 
+ *K   59   0.1  73 W* 
+  G   60   0.3  74 I* 
+ *K   61   1.1  75 D  
+ *V   62   0.4  76 G**
+ *P   63   0.2  77 V**
+  A   64   0.1  78 Q  
+  G   65   0.1  79 E  
+ *S   66   0.1  80 Q**
+ *D   67   0.1 128 R* 
+ *V   68  18.3 129 A**
+**I   69  20.5 130 W* 
+  S   70  19.9 131 E  
+ *E   71  14.9 132 K* 
+**Y   72  20.2 133 I**
+**V   73   0.0 134 Q  
+HML2_C Weighted RMSd =   3.364 over 73 atoms 45.779991 425.220184   6.8 59.670197 58.867435 65.667946 71.136696
+HML2_C Un-weighted RMSd =   2.878 over best 25 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   3.570 over best 37 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   3.851 over best 39 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.075 over best 43 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.300 over best 51 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.345 over best 56 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.358 over best 58 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.452 over best 66 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.578 over best 67 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.623 over best 69 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.703 over best 70 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.714 over best 71 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.714 over best 71 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.714 over best 71 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.768 over best 73 atoms ( 425.220184    6.8 )
+HML2_C Un-weighted RMSd =   4.768 over all 73 matched atoms 45.779991 425.220184    6.8 59.670197 58.867435 65.667946 71.136696

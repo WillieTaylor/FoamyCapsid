@@ -1,0 +1,77 @@
+Protein 1 is HML2_N
+found
+Protein 2 is HML2_C
+found
+Directory is HML2_NHML2_C
+COMPND   
+SOURCE   
+ apct = 61.194031 bpct = 7.462687
+ n = 134
+ k = 1062 iend = 1 jend = 130 cost = 753.417847
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 61.194031 bpct = 7.462687
+ n = 134
+ k = 1062 iend = 1 jend = 130 cost = 753.417847
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 65.591400 bpct = 2.150538
+ n = 93
+ k = 496 iend = 7 jend = 93 cost = 1229.587036
+ nout = 6
+COMPND   
+SOURCE   
+ apct = 65.591400 bpct = 2.150538
+ n = 93
+ k = 496 iend = 7 jend = 93 cost = 1229.587036
+ nout = 6
+COMPND   
+SOURCE   
+ apct = 61.194031 bpct = 7.462687
+ a = 29 b = 31 c = 64 d = 65 e = 130 f = 134
+ ad = 10.058528 eb = 7.616421 cf = 9.757008
+ dsum = 27.431957 spare = 4
+ n = 134
+ k = 1050 iend = 1 jend = 129 cost = 915.636414
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 61.194031 bpct = 7.462687
+ a = 29 b = 31 c = 64 d = 65 e = 130 f = 134
+ ad = 10.058528 eb = 7.616421 cf = 9.757008
+ dsum = 27.431957 spare = 4
+ n = 134
+ k = 1050 iend = 1 jend = 129 cost = 915.636414
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 65.591400 bpct = 2.150538
+ a = 3 b = 4 c = 20 d = 24 e = 42 f = 43
+ ad = 5.425704 eb = 7.800787 cf = 10.234206
+ dsum = 23.460697 spare = 3
+ n = 93
+ k = 474 iend = 4 jend = 89 cost = 1534.547119
+ nout = 6
+COMPND   
+SOURCE   
+ apct = 65.591400 bpct = 2.150538
+ a = 3 b = 4 c = 20 d = 24 e = 42 f = 43
+ ad = 5.425704 eb = 7.800787 cf = 10.234206
+ dsum = 23.460697 spare = 3
+ n = 93
+ k = 474 iend = 4 jend = 89 cost = 1534.547119
+ nout = 6
+135 residues in str1
+93 residues in str2
+nat1 vs rev2
+nat2 vs rev1
+nta1 vs rev2
+nta2 vs rev1
+nat1 vs rve2
+nat2 vs rve1
+nta1 vs rve2
+nta2 vs rve1
+pdb1 vs pdb2
+pdb2 vs pdb1

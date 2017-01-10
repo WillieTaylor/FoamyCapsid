@@ -1,0 +1,53 @@
+    No:  Chain   Z    rmsd lali nres  %id PDB  Description
+
+   1:  3n0r-A  4.5  3.6   77   258    9 PDB  MOLECULE: RESPONSE REGULATOR;                                        
+   4:  4m57-A  4.4  3.0   61   702    7 PDB  MOLECULE: CHLOROPLAST PENTATRICOPEPTIDE REPEAT PROTEIN 10;           
+  12:  3bge-B  4.3  3.8   87   163    8 PDB  MOLECULE: PREDICTED ATPASE;                                          
+  22:  2r9g-J  4.2  3.5   87   181    1 PDB  MOLECULE: AAA ATPASE, CENTRAL REGION;		(same as 12)
+  37:  1qzx-B  4.2  3.3   75   425   19 PDB  MOLECULE: SIGNAL RECOGNITION 54 KDA PROTEIN;                         
+  41:  2x2d-E  4.1  3.5   82   136   15 PDB  MOLECULE: PEPTIDYL-PROLYL CIS-TRANS ISOMERASE A;   (capsid)      
+  72:  2gol-D  4.1  3.3   82   135   13 PDB  MOLECULE: MATRIX PROTEIN P17 (MA);                                   
+  73:  1qrj-B  4.1  4.3   79   199   16 PDB  MOLECULE: HIS TAG;                                                   
+  74:  3iko-B  4.1  7.8   86   434   12 PDB  MOLECULE: PROTEIN TRANSPORT PROTEIN SEC13;                           
+ 121:  1a5t-A  3.9  5.6   86   323    9 PDB  MOLECULE: DELTA PRIME;                                               
+ 122:  2ff4-A  3.8  5.7   62   379    6 PDB  MOLECULE: PROBABLE REGULATORY PROTEIN EMBR;                          
+ 124:  4eqf-A  3.8  5.6   60   281    7 PDB  MOLECULE: PEX5-RELATED PROTEIN;                                      
+ 144:  2r5s-B  3.8  4.7   74   171   11 PDB  MOLECULE: UNCHARACTERIZED PROTEIN VP0806;                            
+ 146:  3a9c-B  3.7  4.2   85   325    6 PDB  MOLECULE: TRANSLATION INITIATION FACTOR EIF-2B, DELTA SUBUN          
+ 149:  4onr-A  3.7  4.2   82   147    2 PDB  MOLECULE: DECORIN-BINDING PROTEIN DBPA;                              
+ 150:  2r5s-A  3.7  4.0   62   171   10 PDB  MOLECULE: UNCHARACTERIZED PROTEIN VP0806;                            
+ 151:  4uqx-A  3.7  4.8   60   262    7 PDB  MOLECULE: HSIE1;                                                     
+ 163:  2dys-R  3.7  3.2   68   105   10 PDB  MOLECULE: CYTOCHROME C OXIDASE SUBUNIT 1;                            
+ 183:  4fjo-A  3.7  3.3   69    97    4 PDB  MOLECULE: DNA REPAIR PROTEIN REV1;                                   
+ 193:  3b57-A  3.6  3.4   62   180    3 PDB  MOLECULE: LIN1889 PROTEIN;                                           
+ 194:  3lpz-A  3.6  2.8   57   314   16 PDB  MOLECULE: GET4 (YOR164C HOMOLOG);                                    
+ 195:  2c74-A  3.6  3.7   63   235   13 PDB  MOLECULE: 14-3-3 PROTEIN ETA;                                        
+ 196:  2x3m-A  3.6  2.0   48   166    8 PDB  MOLECULE: HYPOTHETICAL PROTEIN ORF239;                               
+ 212:  1xxh-J  3.6  5.5   87   334   10 PDB  MOLECULE: DNA POLYMERASE III, DELTA SUBUNIT;                         
+ 218:  3jro-A  3.6  5.4   74   701   12 PDB  MOLECULE: FUSION PROTEIN OF PROTEIN TRANSPORT PROTEIN SEC13          
+ 220:  2ybb-P  3.6  3.3   68   109   10 PDB  MOLECULE: NADH-QUINONE OXIDOREDUCTASE SUBUNIT 1;                     
+ 224:  2kcv-A  3.6  5.3   68    99    9 PDB  MOLECULE: TETRATRICOPEPTIDE REPEAT DOMAIN PROTEIN;                   
+ 242:  1jr3-E  3.5  5.7   88   334   10 PDB  MOLECULE: DNA POLYMERASE III SUBUNIT GAMMA;                          
+ 244:  1w3b-B  3.5  5.7   63   368    2 PDB  MOLECULE: UDP-N-ACETYLGLUCOSAMINE--PEPTIDE N-                        
+ 247:  2vgx-B  3.5  6.1   60   145    3 PDB  MOLECULE: CHAPERONE SYCD;                                            
+ 253:  4cxf-A  3.5  5.1   81   154    7 PDB  MOLECULE: RNA POLYMERASE SIGMA FACTOR CNRH;                          
+ 254:  4usn-D  3.5  3.5   83   210   11 PDB  MOLECULE: P24;                                                       
+ 276:  4eoz-D  3.5  4.7   64   301   11 PDB  MOLECULE: SPECKLE-TYPE POZ PROTEIN;                                  
+ 282:  3qou-A  3.5  5.2   80   282    6 PDB  MOLECULE: PROTEIN YBBN;                                              
+ 287:  4ap2-B  3.4  2.9   60   359   12 PDB  MOLECULE: KELCH-LIKE PROTEIN 11;                                     
+ 288:  4cgu-A  3.4  5.7   63   112    6 PDB  MOLECULE: TPR REPEAT-CONTAINING PROTEIN ASSOCIATED WITH HSP          
+ 313:  1ffh-A  3.4  3.2   73   287   10 PDB  MOLECULE: FFH;                                                       
+ 321:  4l22-A  3.3  3.4   58   753   14 PDB  MOLECULE: PHOSPHORYLASE;                                             
+ 322:  4ui9-J  3.3  4.8   63   504    8 PDB  MOLECULE: ANAPHASE-PROMOTING COMPLEX SUBUNIT 1;                      
+ 323:  3nf1-A  3.3  5.0   60   283    7 PDB  MOLECULE: KINESIN LIGHT CHAIN 1;                                     
+ 324:  1ihg-A  3.3  3.5   59   364    0 PDB  MOLECULE: CYCLOPHILIN 40;                                            
+ 318:  2kvc-A  3.3  9.3   63   103   13 PDB  MOLECULE: PUTATIVE UNCHARACTERIZED PROTEIN;                          
+ 325:  4aez-C  3.3  4.4   60   215    7 PDB  MOLECULE: WD REPEAT-CONTAINING PROTEIN SLP1;                         
+ 326:  3k9i-A  3.3  4.0   56   110    7 PDB  MOLECULE: BH0479 PROTEIN;                                            
+ 327:  2kc7-A  3.3  5.4   64    99    3 PDB  MOLECULE: BFR218_PROTEIN;                                            
+ 328:  4gpk-J  3.3  5.6   60   347    8 PDB  MOLECULE: NPRR;                                                      
+ 329:  3qdn-A  3.3  4.2   60   285    5 PDB  MOLECULE: PUTATIVE THIOREDOXIN PROTEIN;                              
+ 330:  4i2w-A  3.3  6.2   65   904    3 PDB  MOLECULE: PROTEIN UNC-45;                                            
+ 331:  1zbp-A  3.3  5.5   62   266    5 PDB  MOLECULE: HYPOTHETICAL PROTEIN VPA1032;                              
+ 332:  1wao-1  3.3  5.8   62   471   10 PDB  MOLECULE: SERINE/THREONINE PROTEIN PHOSPHATASE 5;                    
+ 346:  2ffh-C  3.3  3.0   75   407    9 PDB  MOLECULE: PROTEIN (FFH);                                             

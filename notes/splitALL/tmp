@@ -1,0 +1,13 @@
+/*
+c++ unbias.cpp -o makeres sims/util.o -lm
+
+*/
+
+#include "sims/util.hpp"
+
+int main (int argc, char** argv) {
+int s[20] = { 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0 };
+long seed = (long)time(0);
+        srand48(seed);
+        DO { in
+

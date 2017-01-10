@@ -1,0 +1,26 @@
+> Reviewer's Responses to Questions
+> 
+> Part I - Summary
+> 
+> Reviewer #3:
+> The suggestion that the Spumaretrovirus Gag central domain arose from a common double domain ancestor is based on a selective comparison of a small number of known structures, and perhaps not as strongly grounded as the rest of the data in the manuscript. Parts of the manuscript discussing this aspect could be deemphasized or clarified to reflect this.
+> 
+We have added some clarifying test in the structure comparison section to clarify the nature of these similarities.
+
+
+> Specific comments:
+> 1)
+> A more sophisticated comparison involving decoy models and the structural alignment program also fails to convincingly discriminate structural similarity between the PFV-NtDcen and -CtDcen domains with corresponding NTD and CTD domains of orthoretroviral capsids (Table 2). This analysis suggests that the PFV-CtDcen has comparable similarity to both NTD- and CTD- domains of HTLV-1, and a greater similarity to HML2 NTD. Only combining the Z-scores across all five viruses and then computing a difference-probability does a hint of similarity of corresponding NTD-NTD and CTD-CTD structures appear. This result obviously depends on the retroviral genera (based on available structures) included in this analysis. For example, table S1 showed that PFV-CtDcen had the highest alignment score with MLV-NTD. Thus, the assertion that PFV central domain as well as orthoretroviral capsid domains have evolved from a common, two domain ancestor is not as clear, as has been presented.
+> 
+The referee is correct in noting that the values in Table 2 do not provide a definitive identification of the domain relationships and we have 
+ammended the text to reflect this.   While the overall similarity of both ortho virus domains to both spuma is clear, the differential difference
+is less clear and we have summarised this by noting that of the top 5 Z-values in the Table, 4 are from the conventional NN+CC domain equivalence.
+This is confirmed more strongly by the T-test statistics which but we now only mention as supporting the trend, rather than absolute 'proof'. 
+
+> Part II – Major Issues: Key Experiments Required for Acceptance
+> 
+> Reviewer #2:
+> (2) The structural comparisons with orthoretroviral CA protein structures did not seem straightforward, and the structural superpositions in Fig 2 (at least to this reviewer) indicate that PFV CtD superimposes better with the ortho CA NtD. Although I would agree that the structural similarities are there, I'm not sure if these analysis justify the assertion that the data "strongly support" the conclusions in page 10, par. 2. I agree with the statements, but I think the authors should make it clear that the evidence, especially for the 2nd sentence is really not that strong.
+> 
+
+See above response to Referee 3.

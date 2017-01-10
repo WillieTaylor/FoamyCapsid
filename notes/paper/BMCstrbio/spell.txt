@@ -1,0 +1,10 @@
+However, an intriguing aspect of this relationship was an ambiguity in the degree of relatedness between the CA domains
+of the Gag proteins, with the Spumaretroviral CA domains, NtDCEN and CtDCEN, appearing almost equally similar to either
+the amino- (CA-NtD) or carboxy-terminal (CA-CtD) domains of the orthoretroviruses. 
+With small domains that share a high degree of backgound similarity, particularly those composes entirely of \AHs,
+it is very difficult to evaluate the significance of their structural similarity as chance combinations of a few
+helices can give rise to an apparently convincing overlap with a low RMSD.
+
+In this paper, we now investigate and clarify the nature of the relationship ibetween these capsid domains and discuss 
+its evolutionary implications.  Our work provides a demonstration of a general approach to the resolution of
+difficult comparison problems in which the proteins share a high intrinsic level of similarity.

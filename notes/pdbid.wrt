@@ -1,0 +1,283 @@
+BLVn
+
+HEADER    VIRAL PROTEIN                           03-MAY-14   4PH2              
+TITLE     MATURE N-TERMINAL DOMAIN OF CAPSID PROTEIN FROM BOVINE LEUKEMIA VIRUS             
+
+same ref as BLV6
+-------------------------------------------------------------------------------
+
+BLVc
+
+HEADER    VIRAL PROTEIN                           03-MAY-14   4PH1              
+TITLE     C-TERMINAL DOMAIN OF CAPSID PROTEIN FROM BOVINE LEUKEMIA VIRUS        
+
+
+same ref as BLV6
+-------------------------------------------------------------------------------
+
+BLV6
+HEADER    VIRAL PROTEIN                           03-MAY-14   4PH0              
+TITLE     CAPSID PROTEIN FROM BOVINE LEUKEMIA VIRUS                   
+Conformational plasticity of a native retroviral capsid revealed by x-ray crystallography.
+
+Obal, G., Trajtenberg, F., Carrion, F., Tome, L., Larrieux, N., Zhang, X., Pritsch, O., Buschiazzo, A.
+
+(2015) Science 349: 95-98
+
+    PubMed: 26044299 Search on PubMed
+    DOI: 10.1126/science.aaa5182
+    Primary Citation of Related Structures: 4PH0   4PH1   4PH2   4PH3 
+
+-------------------------------------------------------------------------------
+
+HML2
+3BP9
+Structure of B-tropic MLV capsid N-terminal domain
+
+Mortuza, G.B., Dodding, M.P., Goldstone, D.C., Haire, L.F., Stoye, J.P., Taylor, I.A.
+
+(2008) J Mol Biol 376:1493-1508
+
+-------------------------------------------------------------------------------
+
+HIV1n
+HEADER    COMPLEX (CAPSID PROTEIN/CYCLOSPORIN)    28-MAY-97   1AK4              
+TITLE     HUMAN CYCLOPHILIN A BOUND TO THE AMINO-TERMINAL DOMAIN OF             
+TITLE    2 HIV-1 CAPSID  
+
+ortho_HIV1_NtD.cas:ATOM   3093  CA  PRO C 401      -7.841 -10.520   8.389  1.00 35.32           C 
+wtaylor@wt:~/ianpdbs/pdb/ortho$ ~/util/sap ../../sapit/pdb/HIV1_N ortho_HIV1_NtD.pdb | tail -1
+Un-weighted RMSd =   0.000 over all 145 matched atoms 137.242004 39307.972656  100.0 100.000000
+
+Crystal structure of human cyclophilin A bound to the amino-terminal domain of HIV-1 capsid.
+
+Gamble, T.R., Vajdos, F.F., Yoo, S., Worthylake, D.K., Houseweart, M., Sundquist, W.I., Hill, C.P.
+
+(1996) Cell(Cambridge,Mass.) 87: 1285-1294 
+
+-------------------------------------------------------------------------------
+
+HIV1c
+HEADER    VIRAL PROTEIN                           10-FEB-98   1A43              
+TITLE     STRUCTURE OF THE HIV-1 CAPSID PROTEIN DIMERIZATION DOMAIN            
+
+ATOM      2  CA  THR A 148      26.829  40.029  -4.204  1.00100.00           C
+wtaylor@wt:~/ianpdbs/pdb/ortho$ ~/util/sap ../../sapit/pdb/HIV1_C ortho_HIV1_CtD.pdb | tail -1
+Un-weighted RMSd =   0.000 over all 72 matched atoms 69.891914 12307.603516  100.0 100.000000
+
+Structures of the HIV-1 capsid protein dimerization domain at 2.6 A resolution.
+
+Worthylake, D.K., Wang, H., Yoo, S., Sundquist, W.I., Hill, C.P.
+
+(1999) Acta Crystallogr.,Sect.D 55: 85-92
+
+    PubMed: 10089398 Search on PubMed
+    DOI: 10.1107/S0907444998007689
+    Primary Citation of Related Structures: 1A43   1BAJ      
+
+-------------------------------------------------------------------------------
+                                    
+HIV6nc
+
+3H47=use, 3H4e=alt
+
+wtaylor@wt:~/ianpdbs/pdb/ortho$ head ortho_HIV1_CA_hex_P6.pdb
+HEADER    VIRAL PROTEIN                           18-APR-09   3H47              
+TITLE     X-RAY STRUCTURE OF HEXAMERIC HIV-1 CA                                 
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: CAPSID PROTEIN P24;                                        
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 FRAGMENT: UNP RESIDUES 133-363;                                      
+COMPND   5 SYNONYM: CA;                                                         
+COMPND   6 ENGINEERED: YES;                                                     
+COMPND   7 MUTATION: YES                                                        
+SOURCE    MOL_ID: 1;                                                            
+
+wtaylor@wt:~/ianpdbs/pdb/ortho$ head ortho_HIV1_CA_hex_P212121.pdb
+HEADER    VIRAL PROTEIN                           19-APR-09   3H4E              
+TITLE     X-RAY STRUCTURE OF HEXAMERIC HIV-1 CA                                 
+CRYST1  136.062  136.657  208.454  90.00  90.00  90.00 P 21 21 21   48          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.007350  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.007318  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.004797        0.00000                         
+ATOM      1  N   PRO A   1     -15.041 -61.550 -35.792  1.00 40.09           N  
+
+
+~/util/sap ../../sapit/pdb/HIV6_C ortho_HIV1_CA_hex_P6.cas | tail -1
+Un-weighted RMSd =   0.000 over all 58 matched atoms 55.759167 7364.144531  100.0 100.000000
+
+wtaylor@wt:~/ianpdbs/pdb/ortho$ ~/util/sap ortho_HIV1_CA_hex_P6.cas 3h47.pdb | tail -1
+Un-weighted RMSd =   0.000 over all 201 matched atoms 188.578293 51152.722656  100.0 100.000000
+
+X-ray structures of the hexameric building block of the HIV capsid.
+
+Pornillos, O., Ganser-Pornillos, B.K., Kelly, B.N., Hua, Y., Whitby, F.G., Stout, C.D., Sundquist, W.I., Hill, C.P., Yeager, M.
+
+(2009) Cell(Cambridge,Mass.) 137: 1282-1292
+
+    PubMed: 19523676 Search on PubMed
+    PubMedCentral: PMC2840706
+    DOI: 10.1016/j.cell.2009.04.063
+    Primary Citation of Related Structures: 3GV2   3H47   3H4E      
+
+
+-------------------------------------------------------------------------------
+                                    
+RSVn
+
+HEADER    VIRAL PROTEIN                           16-MAR-00   1EM9              
+TITLE     ROUS SARCOMA VIRUS CAPSID PROTEIN: N-TERMINAL DOMAIN                  
+
+Structure and self-association of the Rous sarcoma virus capsid protein.
+
+Kingston, R.L., Fitzon-Ostendorp, T., Eisenmesser, E.Z., Schatz, G.W., Vogt, V.M., Post, C.B., Rossmann, M.G.
+
+(2000) Structure Fold.Des. 8: 617-628
+
+    PubMed: 10873863 Search on PubMed
+    Primary Citation of Related Structures: 1EM9   1EOQ      
+
+
+-------------------------------------------------------------------------------
+
+RSVc
+                                    
+HEADER    VIRAL PROTEIN                           29-JAN-09   3G1I              
+TITLE     CRYSTAL STRUCTURE OF THE C-TERMINAL DOMAIN OF THE ROUS                
+TITLE    2 SARCOMA VIRUS CAPSID PROTEIN: INTERMEDIATE PH                           
+
+Proton-linked dimerization of a retroviral capsid protein initiates capsid assembly
+
+Bailey, G.D., Hyun, J.K., Mitra, A.K., Kingston, R.L.
+
+(2009) Structure 17: 737-748
+
+    PubMed: 19446529 Search on PubMed
+    DOI: 10.1016/j.str.2009.03.010
+    Primary Citation of Related Structures: 3G0V   3G1G   3G1I   3G21   3G26   3G28   3G29      
+
+
+-------------------------------------------------------------------------------
+                                    
+RELIK
+
+2XGU
+
+Structural and Functional Analysis of Prehistoric Lentiviruses Uncovers an Ancient Molecular Interface.
+
+Goldstone, D.C., Yap, M.W., Robertson, L.E., Haire, L.F., Taylor, W.R., Katzourakis, A., Stoye, J.P., Taylor, I.A.
+
+(2010) Cell Host Microbe 8: 248-259
+
+    PubMed: 20833376 Search on PubMed
+    DOI: 10.1016/j.chom.2010.08.006
+    Primary Citation of Related Structures: 2XGU   2XGV   2XGY      
+
+
+-------------------------------------------------------------------------------
+                                    
+PSIV
+
+HEADER    VIRAL PROTEIN                           07-JUN-10   2XGV              
+TITLE     STRUCTURE OF THE N-TERMINAL DOMAIN OF CAPSID PROTEIN FROM             
+TITLE    2 RABBIT ENDOGENOUS LENTIVIRUS (RELIK)                                 
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: PSIV CAPSID N-TERMINAL DOMAIN;                             
+
+same ref as RELIK
+
+                                    
+-------------------------------------------------------------------------------
+
+MPMV
+
+HEADER    VIRAL PROTEIN                           10-MAR-09   2KGF              
+TITLE     N-TERMINAL DOMAIN OF CAPSID PROTEIN FROM THE MASON-PFIZER             
+TITLE    2 MONKEY VIRUS                                                         
+
+NMR structure of the N-terminal domain of capsid protein from the mason-pfizer monkey virus
+
+Macek, P., Chmelik, J., Krizova, I., Kaderavek, P., Padrta, P., Zidek, L., Wildova, M., Hadravova, R., Chaloupkova, R., Pichova, I., Ruml, T., Rumlova, M., Sklenar, V.
+
+(2009) J.Mol.Biol. 392: 100-114
+
+    PubMed: 19527730 Search on PubMed
+    DOI: 10.1016/j.jmb.2009.06.029
+
+-------------------------------------------------------------------------------
+
+MLV
+
+HEADER    VIRAL PROTEIN                           04-AUG-04   1U7K              
+TITLE     STRUCTURE OF A HEXAMERIC N-TERMINAL DOMAIN FROM MURINE                
+TITLE    2 LEUKEMIA VIRUS CAPSID                                           
+
+High-resolution structure of a retroviral capsid hexameric amino-terminal domain.
+
+Mortuza, G.B., Haire, L.F., Stevens, A., Smerdon, S.J., Stoye, J.P., Taylor, I.A.
+
+(2004) Nature 431: 481-485
+
+    PubMed: 15386017 Search on PubMed
+    DOI: 10.1038/nature02915
+
+
+-------------------------------------------------------------------------------
+
+JSRV
+
+HEADER    VIRAL PROTEIN                           30-SEP-08   2V4X              
+TITLE     CRYSTAL STRUCTURE OF JAAGSIEKTE SHEEP RETROVIRUS CAPSID N-            
+TITLE    2 TERMINAL DOMAIN                                                      
+
+Structure of the Capsid Amino-Terminal Domain from the Betaretrovirus, Jaagsiekte Sheep Retrovirus.
+
+Mortuza, G.B., Goldstone, D.C., Pashley, C., Haire, L.F., Palmarini, M., Taylor, W.R., Stoye, J.P., Taylor, I.A.
+
+(2009) J.Mol.Biol. 386: 1179
+
+    PubMed: 19007792 Search on PubMed
+    DOI: 10.1016/j.jmb.2008.10.066
+
+
+-------------------------------------------------------------------------------
+
+HTLVn
+
+HEADER    VIRAL PROTEIN                           05-OCT-00   1G03              
+TITLE     NMR STRUCTURE OF N-TERMINAL DOMAIN OF HTLV-I CA1-134                  
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: HTLV-I CAPSID PROTEIN;                                     
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 FRAGMENT: N-TERMINAL DOMAIN OF MAJOR CORE PROTEIN P24;       
+
+Structural analysis of the N-terminal domain of the human T-cell leukemia virus capsid protein.
+
+Cornilescu, C.C., Bouamr, F., Yao, X., Carter, C., Tjandra, N.
+
+(2001) J.Mol.Biol. 306: 783-797
+
+    PubMed: 11243788 Search on PubMed
+    DOI: 10.1006/jmbi.2000.4395
+
+
+-------------------------------------------------------------------------------
+
+HTLVnc
+
+HEADER    VIRAL PROTEIN                           14-JUN-99   1QRJ              
+TITLE     SOLUTION STRUCTURE OF HTLV-I CAPSID PROTEIN                           
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: HTLV-I CAPSID PROTEIN;                                     
+
+Sequence-specific 1H, 13C and 15N chemical shift assignment and secondary structure of the HTLV-I capsid protein.
+
+Khorasanizadeh, S., Campos-Olivas, R., Clark, C.A., Summers, M.F.
+
+(1999) J.Biomol.NMR 14: 199-200
+
+    PubMed: 10427751 Search on PubMed
+

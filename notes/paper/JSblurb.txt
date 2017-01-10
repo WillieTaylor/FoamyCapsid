@@ -1,0 +1,14 @@
+INTRODUCTION
+
+Taxonomically, the Orthoretrovirinae (orthoretroviruses) and Spumaretrovirinae (spumaviruses) make up the two subfamilies of Retroviridae. They share many similarities, including overall genome structures with gag, pol and env genes encoding proteins for replication and life cycles involving reverse transcription and integration into the chromosomes of infected cells. However, there are also a number of differences distinguishing the viral subfamilies. These include finer details of genome organisation, the absence of a Gag-Pol fusion protein in spumaviruses and the timing of reverse transcription.
+
+Gag is the major structural protein of both orthoretroviruses and spumaviruses and also displays both important differences and similarities. Ortho- and Spumaretroviral Gag are required for particle assembly, budding from the cell, reverse transcription and delivery of the viral nucleic acid into the newly infected cell. However, there are a number of striking differences including how the Gag precursor is targeted to the cell membrane, the absence of a Major Homology Region and Cys-His box in spumaviruses and very different patterns of processing during viral maturation. In all orthoretroviruses, Gag is proteolytically cleaved to form distinct, well-studied proteins, matrix (MA), capsid (CA) and nucleocapsid (NC), found in mature virions but in spumaviruses Gag processing does not occur. 
+
+
+DISCUSSION
+
+Structural comparisons present a number of challenges…..
+
+On the basis of these structural comparisons, and a variety of functional assays described elsewhere, we can conclude that the central domain of the spumavirus Gag gene encodes a polypeptide sequence related to that of the corresponding region of orthoretroviruses, CA. It therefore seems reasonable to suppose that the last common ancestor of orthoretroviruses and spumaviruses possessed such a sequence. Moreover this region appears to be made up from two related subdomains suggesting a gene duplication event in a common precursor. It is believed that the Ty3/Gypsy family of intracellular retrotransposons gave rise to retroviruses. It will therefore be of considerable interest to determine whether such elements possess CA proteins with such a two-domain structure. Finally, it is worth noting that the Gag protein of Ty3 is significantly shorter that that of the retroviruses. It is tempting to speculate that the N-terminal domains of the orthoretroviruses and spumaviruses were co-opted to facilitate budding from the cell surface thereby allowing cell-to cell spread. If so, the very different structures of this region in the orthoretroviruses and spumaviruses might suggest independent acquisition events. 
+
+

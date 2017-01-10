@@ -1,0 +1,424 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.5.31)  13 OCT 2016 15:45
+entering extended mode
+ %&-line parsing enabled.
+**paper
+(./paper.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./latex/ntgclass/a4.sty
+
+LaTeX Warning: You have requested package `latex/ntgclass/a4',
+               but the package provides `a4'.
+
+Package: a4 2004/04/15 v1.2g A4 based page layout
+) (/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(./latex/subfigure/subfigure.sty
+
+LaTeX Warning: You have requested package `latex/subfigure/subfigure',
+               but the package provides `subfigure'.
+
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen107
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen108
+\subfiglabelskip=\skip46
+\c@subfigure=\count87
+\c@lofdepth=\count88
+\c@subtable=\count89
+\c@lotdepth=\count90
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+) (./latex/multirow/multirow.sty
+\bigstrutjot=\dimen109
+) (./latex/setspace/setspace.sty
+
+LaTeX Warning: You have requested package `latex/setspace/setspace',
+               but the package provides `setspace'.
+
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+Package: `setspace' 6.7 <2000/12/01>
+) (./latex/fancyvrb.sty
+
+LaTeX Warning: You have requested package `latex/fancyvrb',
+               but the package provides `fancyvrb'.
+
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count91
+\FV@InFile=\read1
+\FV@TabBox=\box26
+\c@FancyVerbLine=\count92
+\FV@StepNumber=\count93
+\FV@OutFile=\write3
+) (./latex/caption.sty
+
+LaTeX Warning: You have requested package `latex/caption',
+               but the package provides `caption'.
+
+Package: caption 2015/09/20 v3.3-118 Customizing captions (AR)
+(./latex/caption3.sty
+
+LaTeX Warning: You have requested package `latex/caption3',
+               but the package provides `caption3'.
+
+Package: caption3 2015/09/20 v1.7-117 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen110
+\captionmargin@=\dimen111
+\captionwidth=\dimen112
+\caption@tempdima=\dimen113
+\caption@indent=\dimen114
+\caption@parindent=\dimen115
+\caption@hangindent=\dimen116
+)
+\c@ContinuedFloat=\count94
+)
+\@input{latex/header.aux}
+\openout2 = `latex/header.aux'.
+
+(./latex/header.tex) (/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (./paper.aux
+(./abstract.aux) (./intro.aux) (./results.aux
+
+LaTeX Warning: Label `Fig:daliNR90' multiply defined.
+
+
+LaTeX Warning: Label `sub@Fig:daliNR90' multiply defined.
+
+
+LaTeX Warning: Label `Fig:daliFULL' multiply defined.
+
+
+LaTeX Warning: Label `sub@Fig:daliFULL' multiply defined.
+
+) (./conclude.aux) (./methods.aux))
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 24.
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 43.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 43.
+
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 43.
+
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 43.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 43.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 43.
+ [1
+
+
+
+]
+\openout2 = `abstract.aux'.
+
+
+No file abstract.tex.
+\openout2 = `intro.aux'.
+
+(./intro.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 6.
+) [2
+
+
+
+
+
+] [3]
+\openout2 = `results.aux'.
+
+ (./results.tex
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 7.
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+File: figs/full3nte.super.eps Graphic file (type eps)
+
+<figs/full3nte.super.eps>
+File: figs/plotrms.eps Graphic file (type eps)
+ <figs/plotrms.eps> [4
+
+
+
+] [5]
+File: figs/full4x3x.super.eps Graphic file (type eps)
+ <figs/full4x3x.super.eps>
+File: figs/full3g29.super.eps Graphic file (type eps)
+
+<figs/full3g29.super.eps> [6] [7]
+File: figs/dali/daliFULL/DALIhitROC.ps Graphic file (type eps)
+ <figs/dali/daliFULL/DALIhitROC.ps>
+File: figs/dali/daliNR90/DALIhitROC.ps Graphic file (type eps)
+
+<figs/dali/daliNR90/DALIhitROC.ps> [8] [9] [10]
+File: figs/dali/daliFULL/rawDALIdom.ps Graphic file (type eps)
+
+<figs/dali/daliFULL/rawDALIdom.ps>
+File: figs/dali/daliNR90/rawDALIdom.ps Graphic file (type eps)
+ <figs/dali/daliNR90/rawDALIdom.ps> [11]
+[12]
+File: figs/twoN.eps Graphic file (type eps)
+ <figs/twoN.eps>
+File: figs/twoC.eps Graphic file (type eps)
+ <figs/twoC.eps> [13]
+File: figs/sapitNN.ps Graphic file (type eps)
+ <figs/sapitNN.ps>
+File: figs/sapitNC.ps Graphic file (type eps)
+ <figs/sapitNC.ps>
+File: figs/sapitCN.ps Graphic file (type eps)
+
+<figs/sapitCN.ps>
+File: figs/sapitCC.ps Graphic file (type eps)
+ <figs/sapitCC.ps>
+File: figs/fitsCN/plothiv.ps Graphic file (type eps)
+ <figs/fitsCN/plothiv.ps>
+File: figs/fitsCN/plotall.ps Graphic file (type eps)
+
+<figs/fitsCN/plotall.ps> [14] [15] [16]
+File: figs/splitALL.eps Graphic file (type eps)
+ <figs/splitALL.eps>
+File: figs/split5+5.eps Graphic file (type eps)
+
+<figs/split5+5.eps> [17] [18] [19] [20] [21]
+File: figs/foamyNC/sapit.ps Graphic file (type eps)
+ <figs/foamyNC/sapit.ps>
+File: figs/foamyNC/fits.ps Graphic file (type eps)
+
+<figs/foamyNC/fits.ps>
+File: figs/orthoNCall/sapit.ps Graphic file (type eps)
+ <figs/orthoNCall/sapit.ps>
+File: figs/orthoNCall/fits.ps Graphic file (type eps)
+ <figs/orthoNCall/fits.ps>
+File: figs/orthoNCall/ortho.eps Graphic file (type eps)
+
+<figs/orthoNCall/ortho.eps>
+File: figs/orthoNCall/foamy.eps Graphic file (type eps)
+ <figs/orthoNCall/foamy.eps> [22] [23] [24]
+File: figs/foldspace/space.eps Graphic file (type eps)
+
+<figs/foldspace/space.eps>) [25]
+\openout2 = `conclude.aux'.
+
+ (./conclude.tex [26
+
+
+
+] [27])
+Overfull \hbox (15.58344pt too wide) in paragraph at lines 56--52
+\OT1/lmr/m/n/12 fam-ily of in-tra-cel-lu-lar retro-trans-posons gave rise to re
+tro-viruses [[]],
+ []
+
+[28]
+\openout2 = `methods.aux'.
+
+ (./methods.tex
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 35.
+ (/usr/share/texmf/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 35.
+
+Overfull \hbox (24.6452pt too wide) in paragraph at lines 36--37
+[]\OT1/lmr/bx/n/12 BLV6\OT1/lmr/m/n/12 : bovine leukemia virus (hex-am-eric) \T
+1/lmtt/m/n/12 4PH0 \OT1/lmr/m/n/12 (both dom.s) [[]], 
+ []
+
+
+Overfull \hbox (36.97723pt too wide) in paragraph at lines 38--39
+[]\OT1/lmr/bx/n/12 HIV6\OT1/lmr/m/n/12 : hu-man im-mun-od-e-fi-ciency virus 1 \
+T1/lmtt/m/n/12 3H47 \OT1/lmr/m/n/12 (both dom.s) [[]], 
+ []
+
+
+Overfull \hbox (53.37509pt too wide) in paragraph at lines 39--40
+[]\OT1/lmr/bx/n/12 HML2\OT1/lmr/m/n/12 : hu-man en-doge-nous retro-virus type-K
+ (betaretro-virus)  [[]], 
+ []
+
+
+Overfull \hbox (86.04222pt too wide) in paragraph at lines 41--42
+[]\OT1/lmr/bx/n/12 JSRV\OT1/lmr/m/n/12 : jaagsiekte sheep Retro-virus (betaretr
+o-virus) \T1/lmtt/m/n/12 2V4X \OT1/lmr/m/n/12 (N-ter.dom) [[]], 
+ []
+
+
+Overfull \hbox (70.70486pt too wide) in paragraph at lines 42--43
+[]\OT1/lmr/bx/n/12 MLV\OT1/lmr/m/n/12 : murine leukemia virus (gam-maretro-viru
+s) \T1/lmtt/m/n/12 1U7K \OT1/lmr/m/n/12 (N-ter.dom) [[]], 
+ []
+
+
+Overfull \hbox (39.35649pt too wide) in paragraph at lines 46--47
+[]\OT1/lmr/bx/n/12 RSV\OT1/lmr/m/n/12 : Rous sar-coma virus (al-pharetro-virus)
+ \T1/lmtt/m/n/12 3G1I \OT1/lmr/m/n/12 (both dom.s) [[]]. 
+ []
+
+[29
+
+
+
+]
+Overfull \hbox (28.53674pt too wide) in paragraph at lines 53--59
+\OT1/lmr/m/n/12 The \T1/lmtt/m/n/12 DALI \OT1/lmr/m/n/12 method for search-ing 
+the PDB with a struc-tural query [[]]
+ []
+
+
+Overfull \hbox (37.40544pt too wide) in paragraph at lines 53--59
+\OT1/lmr/m/n/12 was ac-cesed via the server at: \T1/lmtt/m/n/12 http://ekhidna.
+biocenter.helsinki.fi/dali_server\OT1/lmr/m/n/12 .
+ []
+
+
+Overfull \hbox (9.2217pt too wide) in paragraph at lines 75--82
+\OT1/lmr/m/n/12 tion and to colour po-si-tions the su-per-posed struc-tures. [[
+]].
+ []
+
+[30] [31] [32] [33] [34]
+Overfull \hbox (51.45833pt too wide) in paragraph at lines 228--231
+[]\OT1/lmr/m/n/12 The method is ro-bust and has been widely ap-plied to rough m
+od-els ([[]])
+ []
+
+) [35] (./paper.bbl [36
+
+
+] [37]) [38] (./paper.aux (./abstract.aux) (./intro.aux) (./results.aux) (./con
+clude.aux) (./methods.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2664 strings out of 495062
+ 40128 string characters out of 1182644
+ 107902 words of memory out of 3000000
+ 5766 multiletter control sequences out of 15000+50000
+ 52244 words of font info for 47 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 36i,8n,39p,1120b,376s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on paper.dvi (38 pages, 95480 bytes).

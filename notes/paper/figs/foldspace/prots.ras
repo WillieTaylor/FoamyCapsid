@@ -1,0 +1,13 @@
+wireframe off
+cpk 100
+select *D
+colour cyan
+select *C
+colour green
+select *B
+colour magenta
+select *A
+colour red
+select
+label %r
+set picking monitor

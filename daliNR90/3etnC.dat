@@ -1,0 +1,187 @@
+   1:  3lqi-C  3.4  3.5   66   181    3 PDB  MOLECULE: MLL1 PHD3-BROMO;                                           
+   2:  4e2p-A  3.3  3.5   56   370    7 PDB  MOLECULE: CYTOCHROME P450 107B1 (P450CVIIB1);                        
+   3:  2y5n-B  3.3  3.4   55   400    9 PDB  MOLECULE: P-450-LIKE PROTEIN;                                        
+   4:  3j9p-A  3.3  3.5   57   560    7 PDB  MOLECULE: MALTOSE-BINDING PERIPLASMIC PROTEIN, TRANSIENT RE          
+   5:  4kp3-D  3.2  2.7   46    82    7 PDB  MOLECULE: UNCONVENTIONAL MYOSIN-VA;                                  
+   6:  3c28-A  3.2  3.3   63   299    3 PDB  MOLECULE: RECOMBINASE CRE;                                           
+   7:  1nzb-A  3.2  3.4   62   332    2 PDB  MOLECULE: CRE RECOMBINASE;                                           
+   8:  1yoz-B  3.1  2.7   58   116    7 PDB  MOLECULE: HYPOTHETICAL PROTEIN AF0941;                               
+   9:  3q2e-A  3.1  3.2   56   107    9 PDB  MOLECULE: BROMODOMAIN AND WD REPEAT-CONTAINING PROTEIN 1;            
+  10:  1cl6-A  3.1  3.5   58   399   10 PDB  MOLECULE: CYTOCHROME P450;                                           
+  11:  2a3v-B  3.0  3.1   57   320    5 PDB  MOLECULE: SITE-SPECIFIC RECOMBINASE INTI4;                           
+  12:  4uw9-A  2.9  3.1   54   228    6 PDB  MOLECULE: BETA-PHOSPHOGLUCOMUTASE;                                   
+  13:  3iu6-A  2.9  3.4   66   143    2 PDB  MOLECULE: PROTEIN POLYBROMO-1;                                       
+  14:  1e6i-A  2.9  3.2   57   110    7 PDB  MOLECULE: TRANSCRIPTIONAL ACTIVATOR GCN5;                            
+  15:  3b6a-A  2.9  5.9   46   213    7 PDB  MOLECULE: ACTR PROTEIN;                                              
+  16:  3bes-R  2.9  3.2   48   250    2 PDB  MOLECULE: INTERFERON GAMMA;                                          
+  17:  2flq-A  2.9  4.1   45   359    4 PDB  MOLECULE: NITRIC OXIDE SYNTHASE;                                     
+  18:  2wzk-A  2.9  3.4   64   369    6 PDB  MOLECULE: CULLIN-5;                                                  
+  19:  1vb5-B  2.9  2.9   55   275   13 PDB  MOLECULE: TRANSLATION INITIATION FACTOR EIF-2B;                      
+  20:  4n4g-A  2.8  3.4   57   209    9 PDB  MOLECULE: ZINC FINGER MYND DOMAIN-CONTAINING PROTEIN 11;             
+  21:  2ptm-A  2.8  2.4   39   192    8 PDB  MOLECULE: HYPERPOLARIZATION-ACTIVATED (IH) CHANNEL;                  
+  22:  3i4r-B  2.7  3.6   63   528    6 PDB  MOLECULE: NUCLEAR PORE COMPLEX PROTEIN NUP107;                       
+  23:  3abb-A  2.7  3.4   56   383    7 PDB  MOLECULE: CYTOCHROME P450 HYDROXYLASE;                               
+  24:  4v2r-B  2.7  3.1   54   618   15 PDB  MOLECULE: PHENYLALANINE AMINOMUTASE (L-BETA-PHENYLALANINE F          
+  25:  5czg-A  2.7  3.7   59   115    8 PDB  MOLECULE: HYPOTHETICAL BROMODOMAIN;                                  
+  26:  4c3o-A  2.7  3.7   61   583    3 PDB  MOLECULE: HYDROGENASE-1 LARGE SUBUNIT;                               
+  27:  2ff4-A  2.7  2.9   50   379    8 PDB  MOLECULE: PROBABLE REGULATORY PROTEIN EMBR;                          
+  28:  4z5q-A  2.7  3.4   54   363    7 PDB  MOLECULE: CYTOCHROME P450 HYDROXYLASE;                               
+  29:  1pd3-A  2.7  3.4   43    54    2 PDB  MOLECULE: NONSTRUCTURAL PROTEIN NS2;                                 
+  30:  5c4q-A  2.6  3.4   55   118   11 PDB  MOLECULE: BROMODOMAIN;                                               
+  31:  3mb3-A  2.6  3.1   54   116    9 PDB  MOLECULE: PH-INTERACTING PROTEIN;                                    
+  32:  4l3u-A  2.6  3.2   61   123   11 PDB  MOLECULE: UNCHARACTERIZED PROTEIN;                                   
+  33:  3tyw-D  2.6  3.4   57   399    7 PDB  MOLECULE: PUTATIVE CYTOCHROME P450;                                  
+  34:  2kd1-A  2.6  3.4   60   118    5 PDB  MOLECULE: DNA INTEGRATION/RECOMBINATION/INVERTION PROTEIN;           
+  35:  3nxb-A  2.6  3.3   54   101    7 PDB  MOLECULE: CAT EYE SYNDROME CRITICAL REGION PROTEIN 2;                
+  36:  4ubs-A  2.6  4.0   56   393    9 PDB  MOLECULE: PENTALENIC ACID SYNTHASE;                                  
+  37:  4xdi-A  2.6  3.2   60   127   13 PDB  MOLECULE: CHLAMYDOMONAS REINHARDTII THB1;                            
+  38:  4hh0-A  2.6  3.5   53   383    8 PDB  MOLECULE: APPA PROTEIN;                                              
+  39:  1ug3-A  2.6  2.8   49   323   14 PDB  MOLECULE: EUKARYOTIC PROTEIN SYNTHESIS INITIATION FACTOR             
+  40:  3dkq-A  2.6  3.4   41   230   12 PDB  MOLECULE: PKHD-TYPE HYDROXYLASE SBAL_3634;                           
+  41:  2rgo-A  2.6  2.9   47   557    6 PDB  MOLECULE: ALPHA-GLYCEROPHOSPHATE OXIDASE;                            
+  42:  2db7-A  2.6  2.9   42    57    2 PDB  MOLECULE: HAIRY/ENHANCER-OF-SPLIT RELATED WITH YRPW MOTIF            
+  43:  3d7c-A  2.6  3.4   59   111    2 PDB  MOLECULE: GENERAL CONTROL OF AMINO ACID SYNTHESIS PROTEIN 5          
+  44:  2dvv-A  2.6  3.5   57   112   16 PDB  MOLECULE: BROMODOMAIN-CONTAINING PROTEIN 2;                          
+  45:  3kz4-B  2.6  3.0   44   810    5 PDB  MOLECULE: INNER CAPSID PROTEIN VP2;                                  
+  46:  2k3o-A  2.5  2.8   54   129    6 PDB  MOLECULE: TUSP1;                                                     
+  47:  3o59-X  2.5  3.0   54   244    4 PDB  MOLECULE: DNA POLYMERASE II LARGE SUBUNIT;                           
+  48:  2khq-A  2.5  3.7   61   110   10 PDB  MOLECULE: INTEGRASE;                                                 
+  49:  1m62-A  2.5  3.1   52    87    8 PDB  MOLECULE: BAG-FAMILY MOLECULAR CHAPERONE REGULATOR-4;                
+  50:  4chc-A  2.5  2.9   54   162    2 PDB  MOLECULE: POLYMERASE ACIDIC PROTEIN;                                 
+  51:  2rgo-B  2.5  3.5   49   530    6 PDB  MOLECULE: ALPHA-GLYCEROPHOSPHATE OXIDASE;                            
+  52:  4he8-A  2.5  3.4   41    92    7 PDB  MOLECULE: NADH-QUINONE OXIDOREDUCTASE SUBUNIT 7;                     
+  53:  4hse-A  2.5  4.1   41   369    5 PDB  MOLECULE: CHAPERONE PROTEIN CLPB;                                    
+  54:  1jm4-B  2.5  3.5   59   118    2 PDB  MOLECULE: HIV-1 TAT PEPTIDE;                                         
+  55:  2odm-B  2.5  3.3   49    83    8 PDB  MOLECULE: UPF0358 PROTEIN MW0995;                                    
+  56:  4jin-A  2.5  3.2   55   254   15 PDB  MOLECULE: RIO-TYPE SERINE/THREONINE-PROTEIN KINASE RIO1;             
+  57:  2d9e-A  2.4  3.3   54   121    7 PDB  MOLECULE: PEREGRIN;                                                  
+  58:  2e7n-A  2.4  3.4   55   117   18 PDB  MOLECULE: BROMODOMAIN-CONTAINING PROTEIN 3;                          
+  59:  3k2j-A  2.4  2.8   51   121    4 PDB  MOLECULE: PROTEIN POLYBROMO-1;                                       
+  60:  5ame-A  2.4  3.3   54   123    4 PDB  MOLECULE: BROMODOMAIN-CONTAINING PROTEIN 1;                          
+  61:  3vkh-B  2.4  3.3   60  1788    7 PDB  MOLECULE: DYNEIN HEAVY CHAIN, CYTOPLASMIC;                           
+  62:  2ikb-A  2.4  3.5   55   163    9 PDB  MOLECULE: HYPOTHETICAL PROTEIN NMB1012;                              
+  63:  3lys-D  2.4  3.5   58   107    5 PDB  MOLECULE: PROPHAGE PI2 PROTEIN 01, INTEGRASE;                        
+  64:  1wa5-C  2.4  3.9   54   937    2 PDB  MOLECULE: GTP-BINDING NUCLEAR PROTEIN RAN;                           
+  65:  4gib-A  2.4  3.4   56   226    7 PDB  MOLECULE: BETA-PHOSPHOGLUCOMUTASE;                                   
+  66:  3j9x-1  2.4  3.0   50   128    6 PDB  MOLECULE: COAT PROTEIN;                                              
+  67:  4aqf-B  2.4  3.1   48   474    6 PDB  MOLECULE: NUCLEOPROTEIN;                                             
+  68:  2ckz-C  2.4  3.2   51   124    8 PDB  MOLECULE: DNA-DIRECTED RNA POLYMERASE III 18 KD                      
+  69:  2wxl-A  2.4  3.2   46   823    4 PDB  MOLECULE: PHOSPHATIDYLINOSITOL-4,5-BISPHOSPHATE 3-KINASE CA          
+  70:  2d8e-A  2.4  3.4   43    88    5 PDB  MOLECULE: PHOSPHO-2-DEHYDRO-3-DEOXYHEPTONATE ALDOLASE/CHORI          
+  71:  3qu5-B  2.4  3.2   52   229    2 PDB  MOLECULE: INORGANIC PYROPHOSPHATASE;                                 
+  72:  4iqj-D  2.4  4.2   57  1185   11 PDB  MOLECULE: DNA (5'-                                                   
+  73:  1ysm-A  2.4  3.1   42    55   14 PDB  MOLECULE: CALCYCLIN-BINDING PROTEIN;                                 
+  74:  3fkm-X  2.4  3.4   57   120    7 PDB  MOLECULE: SIGNALING PROTEIN;                                         
+  75:  2f6j-A  2.4  3.3   55   168    2 PDB  MOLECULE: BROMODOMAIN PHD FINGER TRANSCRIPTION FACTOR;               
+  76:  3htk-C  2.4  2.9   47   254    9 PDB  MOLECULE: STRUCTURAL MAINTENANCE OF CHROMOSOMES PROTEIN 5;           
+  77:  2wp1-A  2.4  3.3   54   123   15 PDB  MOLECULE: BROMODOMAIN TESTIS-SPECIFIC PROTEIN;                       
+  78:  3hzn-H  2.4  2.9   46   220    7 PDB  MOLECULE: OXYGEN-INSENSITIVE NAD(P)H NITROREDUCTASE;                 
+  79:  2pke-A  2.4  3.3   48   233    8 PDB  MOLECULE: HALOACID DELAHOGENASE-LIKE FAMILY HYDROLASE;               
+  80:  1tmx-A  2.4  3.2   42   291    0 PDB  MOLECULE: HYDROXYQUINOL 1,2-DIOXYGENASE;                             
+  81:  2z36-B  2.3  3.0   57   404    5 PDB  MOLECULE: CYTOCHROME P450 TYPE COMPACTIN 3'',4''-                    
+  82:  1wvu-B  2.3  2.9   59   253    3 PDB  MOLECULE: CHITINASE C;                                               
+  83:  2lpi-A  2.3  3.2   61   137    8 PDB  MOLECULE: MAJOR AMPULLATE SPIDROIN 1;                                
+  84:  3vkh-A  2.3  3.4   59  1924    5 PDB  MOLECULE: DYNEIN HEAVY CHAIN, CYTOPLASMIC;                           
+  85:  1eyv-B  2.3  3.6   58   133    7 PDB  MOLECULE: N-UTILIZING SUBSTANCE PROTEIN B HOMOLOG;                   
+  86:  3iu5-A  2.3  3.2   54   114   15 PDB  MOLECULE: PROTEIN POLYBROMO-1;                                       
+  87:  4miw-A  2.3  3.3   59   170    8 PDB  MOLECULE: RNA-DIRECTED RNA POLYMERASE L;                             
+  88:  3r9c-A  2.3  3.8   55   400    9 PDB  MOLECULE: CYTOCHROME P450 164A2;                                     
+  89:  3zqg-A  2.3  5.3   51   208   10 PDB  MOLECULE: TETRACYCLINE REPRESSOR PROTEIN CLASS B FROM TRANS          
+  90:  3fbl-A  2.3  3.2   48    82    4 PDB  MOLECULE: PUTATIVE UNCHARACTERIZED PROTEIN;                          
+  91:  1bdg-A  2.3  2.8   49   444    8 PDB  MOLECULE: HEXOKINASE;                                                
+  92:  2ykg-A  2.3  4.5   57   636    2 PDB  MOLECULE: PROBABLE ATP-DEPENDENT RNA HELICASE DDX58;                 
+  93:  3jsb-B  2.3  3.2   58   194    5 PDB  MOLECULE: RNA-DIRECTED RNA POLYMERASE;                               
+  94:  4msp-A  2.3  3.6   52   189   13 PDB  MOLECULE: PEPTIDYL-PROLYL CIS-TRANS ISOMERASE FKBP14;                
+  95:  1qqe-A  2.3  2.8   46   281    7 PDB  MOLECULE: VESICULAR TRANSPORT PROTEIN SEC17;                         
+  96:  3zq6-B  2.3  4.2   52   288    6 PDB  MOLECULE: PUTATIVE ARSENICAL PUMP-DRIVING ATPASE;                    
+  97:  2r17-D  2.3  3.7   56   276   11 PDB  MOLECULE: VACUOLAR PROTEIN SORTING-ASSOCIATED PROTEIN 29;            
+  98:  2ve7-B  2.3  5.0   43   303    2 PDB  MOLECULE: KINETOCHORE PROTEIN HEC1, KINETOCHORE PROTEIN SPC          
+  99:  3hme-B  2.3  3.2   56   114    5 PDB  MOLECULE: BROMODOMAIN-CONTAINING PROTEIN 9;                          
+ 100:  1rm1-C  2.3  3.1   43   116    5 PDB  MOLECULE: TATA-BOX BINDING PROTEIN;                                  
+ 101:  3dkq-B  2.3  5.2   43   207   12 PDB  MOLECULE: PKHD-TYPE HYDROXYLASE SBAL_3634;                           
+ 102:  2pfd-A  2.3  4.8   68   540    9 PDB  MOLECULE: FORMIMIDOYLTRANSFERASE-CYCLODEAMINASE;                     
+ 103:  4y8w-C  2.2  3.5   60   442    7 PDB  MOLECULE: CYTOCHROME P450 21-HYDROXYLASE;                            
+ 104:  3wh1-A  2.2  3.1   63   203    5 PDB  MOLECULE: CHITINASE A;                                               
+ 105:  1ngk-B  2.2  3.3   55   127    2 PDB  MOLECULE: HEMOGLOBIN-LIKE PROTEIN HBO;                               
+ 106:  4nr9-A  2.2  3.1   51   117    6 PDB  MOLECULE: BROMODOMAIN ADJACENT TO ZINC FINGER DOMAIN PROTEI          
+ 107:  3mqm-A  2.2  3.3   55   126    5 PDB  MOLECULE: PROBABLE HISTONE-LYSINE N-METHYLTRANSFERASE ASH1L          
+ 108:  2i7k-A  2.2  2.9   52   117    4 PDB  MOLECULE: BROMODOMAIN-CONTAINING PROTEIN 7;                          
+ 109:  2g7g-A  2.2  7.9   58   197    5 PDB  MOLECULE: RHA04620, PUTATIVE TRANSCRIPTIONAL REGULATOR;              
+ 110:  4nxj-A  2.2  3.6   58   118    5 PDB  MOLECULE: BROMODOMAIN PROTEIN;                                       
+ 111:  4cr2-P  2.2  3.2   52   415    8 PDB  MOLECULE: PROTEASOME COMPONENT PRE3;                                 
+ 112:  4qns-A  2.2  2.8   49   106    4 PDB  MOLECULE: HISTONE ACETYLTRANSFERASE GCN5, PUTATIVE;                  
+ 113:  1ued-A  2.2  4.4   52   391    4 PDB  MOLECULE: P450 MONOOXYGENASE;                                        
+ 114:  2ef8-A  2.2  3.3   48    84   13 PDB  MOLECULE: PUTATIVE TRANSCRIPTION FACTOR;                             
+ 115:  3uva-C  2.2  3.0   52   405    6 PDB  MOLECULE: L-RHAMNOSE ISOMERASE;                                      
+ 116:  2vqg-B  2.2  3.1   50    77   10 PDB  MOLECULE: UNCHARACTERIZED PROTEIN CGL0972;                           
+ 117:  3u5m-E  2.2  3.8   56   173   13 PDB  MOLECULE: E3 UBIQUITIN-PROTEIN LIGASE TRIM33;                        
+ 118:  3fbz-C  2.2  3.5   46   124   11 PDB  MOLECULE: PUTATIVE UNCHARACTERIZED PROTEIN;                          
+ 119:  3tbk-A  2.2  4.6   58   524   10 PDB  MOLECULE: RIG-I HELICASE DOMAIN;                                     
+ 120:  1lvh-A  2.2  3.6   53   221    6 PDB  MOLECULE: BETA-PHOSPHOGLUCOMUTASE;                                   
+ 121:  4gzr-C  2.2  3.2   41    61    7 PDB  MOLECULE: ESAT-6-LIKE PROTEIN 6;                                     
+ 122:  3zhw-A  2.2  3.9   45   154    7 PDB  MOLECULE: NON-SYMBIOTIC HEMOGLOBIN 1;                                
+ 123:  4am6-A  2.2  7.5   47   623    9 PDB  MOLECULE: ACTIN-LIKE PROTEIN ARP8;                                   
+ 124:  2a26-A  2.2  4.1   41    48   10 PDB  MOLECULE: CALCYCLIN-BINDING PROTEIN;                                 
+ 125:  3jsz-A  2.2  3.8   57   520    9 PDB  MOLECULE: PUTATIVE UNCHARACTERIZED PROTEIN;                          
+ 126:  1r6t-A  2.2  3.4   43   440    5 PDB  MOLECULE: TRYPTOPHANYL-TRNA SYNTHETASE;                              
+ 127:  2wvi-A  2.2  3.8   51   160   10 PDB  MOLECULE: MITOTIC CHECKPOINT SERINE/THREONINE-PROTEIN                
+ 128:  2ehw-C  2.2  4.2   48   117    8 PDB  MOLECULE: HYPOTHETICAL PROTEIN TTHB059;                              
+ 129:  2x2e-A  2.2  4.8   53   341    8 PDB  MOLECULE: DYNAMIN-1;                                                 
+ 130:  4aup-B  2.2  3.0   56   123   11 PDB  MOLECULE: PHOSPHOLIPASE A2 GROUP XIII;                               
+ 131:  3eps-A  2.2  3.3   55   566   13 PDB  MOLECULE: ISOCITRATE DEHYDROGENASE KINASE/PHOSPHATASE;               
+ 132:  2vsu-C  2.2  3.1   47   251   11 PDB  MOLECULE: P-HYDROXYCINNAMOYL COA HYDRATASE/LYASE;                    
+ 133:  4pqz-A  2.2  3.4   58   136    2 PDB  MOLECULE: TRANSCRIPTIONAL PROTEIN SWT1;                              
+ 134:  2gsc-B  2.1  4.1   56   117    7 PDB  MOLECULE: PUTATIVE UNCHARACTERIZED PROTEIN XCC0516;                  
+ 135:  3mc1-A  2.1  3.3   52   216    8 PDB  MOLECULE: PREDICTED PHOSPHATASE, HAD FAMILY;                         
+ 136:  3mgx-B  2.1  3.5   60   391   10 PDB  MOLECULE: PUTATIVE P450 MONOOXYGENASE;                               
+ 137:  4ln7-A  2.1  2.5   55   202    7 PDB  MOLECULE: POLYMERASE PA;                                             
+ 138:  4yyl-A  2.1  2.4   55   181    7 PDB  MOLECULE: POLYMERASE ACIDIC PROTEIN;                                 
+ 139:  3fhn-A  2.1  3.6   61   673    7 PDB  MOLECULE: PROTEIN TRANSPORT PROTEIN TIP20;                           
+ 140:  2d2s-A  2.1  2.8   59   217    8 PDB  MOLECULE: EXOCYST COMPLEX COMPONENT EXO84;                           
+ 141:  3wvo-A  2.1  3.1   58   543    9 PDB  MOLECULE: CRISPR-ASSOCIATED PROTEIN, CSE1 FAMILY;                    
+ 142:  3uvd-A  2.1  3.3   54   122    0 PDB  MOLECULE: TRANSCRIPTION ACTIVATOR BRG1;                              
+ 143:  3ibp-A  2.1  4.1   54   283    6 PDB  MOLECULE: CHROMOSOME PARTITION PROTEIN MUKB;                         
+ 144:  3nbx-X  2.1  3.5   54   481    9 PDB  MOLECULE: ATPASE RAVA;                                               
+ 145:  1zat-A  2.1  3.6   55   248    4 PDB  MOLECULE: L,D-TRANSPEPTIDASE;                                        
+ 146:  4cid-A  2.1  3.5   55   497    9 PDB  MOLECULE: EH DOMAIN-CONTAINING PROTEIN 2;                            
+ 147:  3b4q-B  2.1  3.4   55    90    5 PDB  MOLECULE: UNCHARACTERIZED PROTEIN;                                   
+ 148:  3ig3-A  2.1  3.3   50   561    0 PDB  MOLECULE: PLXNA3 PROTEIN;                                            
+ 149:  1rdf-A  2.1  3.4   51   263    6 PDB  MOLECULE: PHOSPHONOACETALDEHYDE HYDROLASE;                           
+ 150:  2yx8-A  2.1  3.3   51    81   10 PDB  MOLECULE: RECEPTOR ACTIVITY-MODIFYING PROTEIN 1;                     
+ 151:  2hsz-A  2.1  2.6   48   225    8 PDB  MOLECULE: NOVEL PREDICTED PHOSPHATASE;                               
+ 152:  3nas-A  2.1  3.2   50   207    4 PDB  MOLECULE: BETA-PHOSPHOGLUCOMUTASE;                                   
+ 153:  3un9-A  2.1  4.0   46   294    9 PDB  MOLECULE: NLR FAMILY MEMBER X1;                                      
+ 154:  4jvy-A  2.1  4.1   40   191    3 PDB  MOLECULE: FEMALE GERMLINE-SPECIFIC TUMOR SUPPRESSOR GLD-1;           
+ 155:  3dby-C  2.1  4.0   65   267    2 PDB  MOLECULE: UNCHARACTERIZED PROTEIN;                                   
+ 156:  3lku-E  2.1  3.7   59   292    3 PDB  MOLECULE: UPF0363 PROTEIN YOR164C;                                   
+ 157:  2wp2-A  2.1  3.7   56   114    2 PDB  MOLECULE: BROMODOMAIN TESTIS-SPECIFIC PROTEIN;                       
+ 158:  2bde-A  2.1  3.7   50   458   10 PDB  MOLECULE: CYTOSOLIC IMP-GMP SPECIFIC 5'-NUCLEOTIDASE;                
+ 159:  2uv9-D  2.1  3.7   47  1467    6 PDB  MOLECULE: FATTY ACID SYNTHASE ALPHA SUBUNITS;                        
+ 160:  2rfj-A  2.1  3.6   55   108    4 PDB  MOLECULE: BROMODOMAIN TESTIS-SPECIFIC PROTEIN;                       
+ 161:  1dg3-A  2.1  3.4   55   540    5 PDB  MOLECULE: PROTEIN (INTERFERON-INDUCED GUANYLATE-BINDING              
+ 162:  4ip8-A  2.1  3.0   53   105    0 PDB  MOLECULE: SERUM AMYLOID A-1 PROTEIN;                                 
+ 163:  3c64-A  2.1  4.3   53   152    4 PDB  MOLECULE: PFEMP1 VARIANT 2 OF STRAIN MC;                             
+ 164:  2zxq-A  2.1  8.2   52  1178    2 PDB  MOLECULE: ENDO-ALPHA-N-ACETYLGALACTOSAMINIDASE;                      
+ 165:  1is1-A  2.1  4.2   56   185    5 PDB  MOLECULE: RIBOSOME RECYCLING FACTOR;                                 
+ 166:  2fi1-A  2.0  2.9   47   187    4 PDB  MOLECULE: HYDROLASE, HALOACID DEHALOGENASE-LIKE FAMILY;              
+ 167:  2vn0-A  2.0  3.8   61   464    8 PDB  MOLECULE: CYTOCHROME P450 2C8;                                       
+ 168:  4dxy-A  2.0  3.2   55   406    7 PDB  MOLECULE: CYTOCHROME P450;                                           
+ 169:  3wec-A  2.0  3.5   58   401    2 PDB  MOLECULE: CYTOCHROME P450;                                           
+ 170:  4nuu-B  2.0  3.0   58   292    0 PDB  MOLECULE: DUFFY RECEPTOR;                                            
+ 171:  2o8p-A  2.0  3.2   53   220    6 PDB  MOLECULE: 14-3-3 DOMAIN CONTAINING PROTEIN;                          
+ 172:  4h3t-A  2.0  2.9   54   517   11 PDB  MOLECULE: CRISPR-ASSOCIATED PROTEIN, CSE1 FAMILY;                    
+ 173:  2ksc-A  2.0  3.3   57   123    5 PDB  MOLECULE: CYANOGLOBIN;                                               
+ 174:  4edg-A  2.0  3.2   51   321    8 PDB  MOLECULE: DNA PRIMASE;                                               
+ 175:  3gde-A  2.0  3.4   59   551   12 PDB  MOLECULE: DNA LIGASE;                                                
+ 176:  1v32-A  2.0  3.4   54   101   13 PDB  MOLECULE: HYPOTHETICAL PROTEIN RAFL09-47-K03;                        
+ 177:  4g6d-B  2.0  3.6   49   198    4 PDB  MOLECULE: RNA POLYMERASE SIGMA FACTOR RPOD;                          
+ 178:  4uwh-A  2.0  3.7   47   554    2 PDB  MOLECULE: PHOSPHATIDYLINOSITOL 3-KINASE CATALYTIC SUBUNIT T          
+ 179:  4ajw-B  2.0  3.7   47   792    6 PDB  MOLECULE: PHOSPHATIDYLINOSITOL-4,5-BISPHOSPHATE 3-KINASE CA          
+ 180:  1dd3-A  2.0  2.9   53   128   11 PDB  MOLECULE: 50S RIBOSOMAL PROTEIN L7/L12;                              
+ 181:  4ol0-B  2.0  3.2   50   902    4 PDB  MOLECULE: GTP-BINDING NUCLEAR PROTEIN RAN;                           
+ 182:  3h6p-C  2.0  2.9   37    56    8 PDB  MOLECULE: ESAT-6 LIKE PROTEIN ESXS;                                  
+ 183:  2ig3-A  2.0  3.4   59   127    8 PDB  MOLECULE: GROUP III TRUNCATED HAEMOGLOBIN;                           
+ 184:  1obh-A  2.0  3.6   54   764   13 PDB  MOLECULE: LEUCYL-TRNA SYNTHETASE;                                    
+ 185:  2bte-A  2.0  3.6   54   878   13 PDB  MOLECULE: AMINOACYL-TRNA SYNTHETASE;                                 
+ 186:  1gm5-A  2.0  8.6   53   729    6 PDB  MOLECULE: DNA (5'-(*CP*AP*GP*CP*TP*CP*CP*AP*TP*GP*AP*TP*             
+ 187:  2z2s-C  2.0  4.1   45   172    7 PDB  MOLECULE: RPOE, ECF SIGE;                                            

@@ -1,0 +1,16 @@
+ argv[1] = comb4NN damp = 30.000000
+ in1 = 3 maln = 67 naln = 87 mean1 = 0.633770 stdv1 = 0.124735 in2 = 2978 mean2 = 1.318386 stdv2 = 0.202607
+Avg: 6.34e-01 < 1.32e+00 Tprob=5.42e-09 **
+StD: 1.25e-01 = 2.03e-01 Fprob=3.15e-01 
+ argv[1] = comb4NC damp = 30.000000
+ in1 = 3 maln = 69 naln = 89 mean1 = 0.413274 stdv1 = 0.021526 in2 = 2051 mean2 = 1.287176 stdv2 = 0.224337
+Avg: 4.13e-01 < 1.29e+00 Tprob=2.23e-05 **
+StD: 2.15e-02 < 2.24e-01 Fprob=9.16e-03 **
+ argv[1] = comb4CN damp = 30.000000
+ in1 = 3 maln = 61 naln = 81 mean1 = 0.635492 stdv1 = 0.084514 in2 = 978 mean2 = 1.256396 stdv2 = 0.182302
+Avg: 6.35e-01 < 1.26e+00 Tprob=5.15e-09 **
+StD: 8.45e-02 = 1.82e-01 Fprob=1.93e-01 
+ argv[1] = comb4CC damp = 30.000000
+ in1 = 3 maln = 63 naln = 83 mean1 = 0.645979 stdv1 = 0.079013 in2 = 1059 mean2 = 1.305991 stdv2 = 0.173999
+Avg: 6.46e-01 < 1.31e+00 Tprob=8.10e-11 **
+StD: 7.90e-02 = 1.74e-01 Fprob=1.86e-01 

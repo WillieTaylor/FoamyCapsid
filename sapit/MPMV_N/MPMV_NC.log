@@ -1,0 +1,77 @@
+Protein 1 is MPMV_N
+found
+Protein 2 is foamC
+found
+Directory is MPMV_NfoamC
+COMPND   
+SOURCE   
+ apct = 60.000000 bpct = 12.857142
+ n = 140
+ k = 1116 iend = 1 jend = 135 cost = 1066.296631
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 60.000000 bpct = 12.857142
+ n = 140
+ k = 1116 iend = 1 jend = 135 cost = 1066.296631
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ n = 94
+ k = 491 iend = 1 jend = 87 cost = 1509.756104
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ n = 94
+ k = 491 iend = 1 jend = 87 cost = 1509.756104
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 60.000000 bpct = 12.857142
+ a = 36 b = 37 c = 69 d = 73 e = 135 f = 136
+ ad = 9.866063 eb = 5.913455 cf = 8.164953
+ dsum = 23.944471 spare = 3
+ n = 140
+ k = 1102 iend = 1 jend = 135 cost = 1158.210083
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 60.000000 bpct = 12.857142
+ a = 36 b = 37 c = 69 d = 73 e = 135 f = 136
+ ad = 9.866063 eb = 5.913455 cf = 8.164953
+ dsum = 23.944471 spare = 3
+ n = 140
+ k = 1102 iend = 1 jend = 135 cost = 1158.210083
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ a = 14 b = 18 c = 44 d = 45 e = 86 f = 87
+ ad = 8.122690 eb = 5.592104 cf = 8.670487
+ dsum = 22.385281 spare = 3
+ n = 94
+ k = 491 iend = 1 jend = 86 cost = 1430.448486
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ a = 14 b = 18 c = 44 d = 45 e = 86 f = 87
+ ad = 8.122690 eb = 5.592104 cf = 8.670487
+ dsum = 22.385281 spare = 3
+ n = 94
+ k = 491 iend = 1 jend = 86 cost = 1430.448486
+ nout = 5
+140 residues in str1
+94 residues in str2
+nat1 vs rev2
+nat2 vs rev1
+nta1 vs rev2
+nta2 vs rev1
+nat1 vs rve2
+nat2 vs rve1
+nta1 vs rve2
+nta2 vs rve1
+pdb1 vs pdb2
+pdb2 vs pdb1

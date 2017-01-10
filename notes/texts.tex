@@ -1,0 +1,108 @@
+\section{Introduction}
+Foamy virus capsids are of interest.
+
+\section{Results}
+
+\subsection{DALI searches}
+
+\subsubsection{Full chain scan}
+
+A scan of the full-length foamy structure using the DALI server
+{\tt http://ekhidna.biocenter.helsinki.fi/dali_server}
+over the 90\% non-redundant protein structure databank
+identified a wide selection of retroviral capsid structures.  In the ranked list of structue hits,
+capsids identified from position 2 to position 550.
+
+The DAIL search strongly suggested that the Foamy virus structure shares some similarity with the
+capsid structure of the ortho-viruses.   However, the distribution of matches across the N and
+C terminal domains are mixed.   For example; taking the top 12 matches, the N-terminal domain of the Foamy
+structure aligns with 7 C-terminal domains compared to 4 N-terminal domains of the ortho virsuses
+and the best match with the corresponding Foamy C-terminal domain aligns with an ortho N-terminal domain.
+
+\subsubsection{Domain scans}
+
+To clarify the domain match specificity, the two domains of the Foamy virus (as defined by Taylor) 
+were scanned separately using the DALI program.   The results of these scans strengthened the identification
+of the relationship to the ortho capsids (Fig.?) and confirmed a reverse specificity for the N-terminal
+match of the Foamy structure with the C-terminal match of the Ortho virus and {\em vica versa}, with all
+top 12 hits of each domain matching their opposed counterpart.
+The structural superpositions of each domain based on this equivalence are shown in Fig.?
+
+Although domain transposition is not impossible in viral genomes (Ref.?),  it is sufficiently
+unexpected to warant deeper investigation, especially as it is hard to imagine how an ancestral
+capsid protein could tolerate such a large rearrangement and still pack to form a competent shell.
+
+\subsection{Structural alignment significance}
+
+\subsubsection{DALI Z-scores}
+
+For each comparison, the DALI program calculates a Z-score, combining a estimation of significance
+with protein length normalisation.   The program reports all matches over Z=2, however, when the
+proteins are small and especially when the structures being compared are both predominantly
+alpha-helical in nature, then matches over this cutoff includes many functionally unrelated
+hits where the similarity has arisen through the fortuitous alignment of a few helices.
+(For example; the top hit when scanning with the C-terminal domain is a non-capsid structure).
+
+To calculate a stricter cutoff on score, we created a customised decoy probe by reversing the
+alpha-carbon backbone then reconstructing the full atom structure (using a simple algorithm).
+Fig.? plots the ranked Z-scores for the smaller Foamy N domain (red=T, cyan=F) and C domain
+(orange=T, green=F)\footnote{
+NB: True/false (T/F) hits were defined simply by protein descriptions that contained the
+words "CAPSID", "GAG" or "P24".   This may have misclassified a few (low scoring) hits to the matrix protein
+and missed some hits where the primary description referrs to a cyclophilin in complex with the capsid. 
+}.   As would be expected, the larger C-term domain has hits with a higher significance than the
+smaller N-term domain:  the former covers the range Z=5 to Z=3 over the true hits wheras the
+latter tracks a slmilar profile running one Z-value unit lower (4--2).
+
+The equivalent scans with the reversed domain structures (which should have no particular
+relationship to the capsid or any other natural protein) also found hits with high Z-scores,
+which when ranked with the native domains, had a profile that tracked closely, or just above
+the N-terminal native domain.
+ 
+
+\subsubsection{Customised decoys}
+
+The mixed results observed when the original scan was made with the full-length chain showed that
+the matches of each domain had comparable degrees of similarity.    To investigate if a significant
+difference could be detected, we employed a method based on the generation of a population of
+'decoy' models to provide a background distribution of unrelated protein scores \cite{Taylor}.
+This method has the advantage that each comparison that constitutes the random pool is between
+two models of the same size and secondary structure composition as the pair of native structures
+being investigated.
+For this study we collected 10 capsid N-terminal domains and 7 C-terminal domains, each of which 
+were compared with the foamy N-terminal domain and the foamy C-terminal domain.
+(Details of the structures are included in Table ?).
+
+
+The degree of similarity between the domains ranged from less than 2 sigma (Z-score)
+to over 5 sigma, with the latter (highly significant) result being obtained for both
+a reversed (NC) and forward (CC) matching.   However, of the top 10 scores, only
+three came from reversed pairings.  (Table ?).  To obtain a more quantitative consensus
+for the amino/amino (NN) and carboxy/carboxy (CC) versus the reversed domain pairings
+(NC and CN), the raw results were combined for each pairing, giving now not just a
+single value compared to a distribution but two distrubutions.   For these data,
+a significance was calculated using Student's T-test, the values of which are given
+in Table ?.   From this it can be seen that all the four possible pairings are
+highly significant with probabilities ranging from $10^{10}$ to over $10^{20}$.
+It is also clear that the two reversed pairings (NC and CN) have lower probabilities
+than the forward pairings (NN and CC).   Combining the probabilities ($P$) as:
+$\Delta P = \log{_10}(P_{NN} P_{CC}) - log_{10}(P_{NC} P_{CN})$,
+gives a value of 18 (42.7 - 25.0 = 17.7) which means that the reversed pairing is
+a billion,billion times less likely than the forward pairing.  This suggests that
+the reversed pairing, which was indicated originally by the Dali results, seems unlikely. 
+The preferred, and biologically more reasonable, result is that the ortho virus
+domain are related to the foamy virus domains as a result of genetic divergence from
+a common, double domain anscestor. 
+
+The reversed pairing, nevertheless, still has high structural significance and this
+suggests that the two domains are derived from a prior gene-duplication event that has
+been retained more clearly in the foamy viruses.   Comparing the two foamy domins gives
+a Z-score of 2.077 sigma which, although of marginal significance, supports this model.
+A similar comparison in structures of the ortho virsuses with both domain gives a
+similar picture on an individual basis, with Z-scores ranging from 2 to 4.  However,
+as with the comparisons with the foamy virus, these can be pooled to allow a joint
+T-test to be applied.   This cave a probability of $1/10^8$ that the true N/C domain
+comparisons were drawn from the random distribution, adding strong support to the
+hypothesis of an ancient gene duplication occuring before the split of the ortho 
+and foamy virus families.
+

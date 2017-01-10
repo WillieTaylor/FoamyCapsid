@@ -1,0 +1,123 @@
+> Reviewer reports:
+> 
+> Reviewer 1:
+> 
+> * I feel that Figure 2 could be improved immensely. Instead of a screenshot, it would be clearer as a table
+> without the redundant "PDB MOLECULE:" columns. Also, the descriptions of the proteins are currently truncated
+> eg "ACTIVITY-REGULATED CYTOSKELETON-ASSOC....". It would be better to be more descriptive.
+> 
+We were keen to convey the impression that this figure represents the raw output from the DALI server but the
+protein descriptions have been extended.  (The figure is not a screenshot but embedded LaTex text so should
+be quite clear when finally produced).
+
+> * It would be extremely useful to annotate the positions of the helices on the sequence alignment shown in Figure 5. 
+>
+This has been added.
+
+> I also feel that including sequence homologs of the foamy virus would strengthen the proposed structural conservation.
+> 
+Some have been added (although, of course these are just sequence alignments)
+
+> * How does the proposed sequence alignment, based on the superposition shown in Figure 12, differ from that shown in Figure 5? 
+> Does your method give a different alignment or is it simply a more robust statistical evaluation?
+> 
+Fig.12 shows the N/C domain superpositions for (a) ortho and (b) foamy virus structure.
+There is no corresponding alignment in Fig.5 and a note has been added to emphasise that the
+alignment does not run across both domains.
+  
+> * Page 8 line 42 suggested spelt incorrectly.
+> 
+fixed.
+
+> * Table 2 legend - combination spelt incorrectly. 
+>
+fixed. 
+ 
+ 
+> Reviewer 2: MAJOR:
+> 
+> (1) The authors claim that the distributions of alpha are Gaussian
+> I don't see how the validity of the normal approximation can be justified.
+> 
+The referee is correct to point out that the distributions are not perfect Normal distributions.
+This, of course, is a consequence of the small sample size which is limited by the number of distinct
+decoy folds that can be generated from a small protein.   A larger bin size would make the plots smoother
+but a better approach is to compare the CDFs of the distributions as these plots are much smoother but
+would also be less familiar to a typical reader.   The deviation between the sample and ideal CDFs can be
+tested using the Kolmogorov-Smirnov test and when each of almost 40 plots were tested in the statistical
+package R, the null hypothesis (that the sample is drawn from a Normal distribution) could be rejected
+at the p=0.01 level in only 2 cases (or 3 below the 0.05 level).
+
+> The distribution shown In Fig.9A is totally different from normal - it has two peaks to the left and right of the center. 
+> Distribution shown in Fig.9B is also very different from normal - it is asymmetric with a heavy tail.
+> Using the assumption of normal distribution requires at least an approximately symmetric bell-shaped distribution, which is not the case here.
+>
+That these distributions are small samples from an underlying Normal distribution can also be
+seen in the plot in Fig.11d where the data-sets have been combined, producing a close fit to a 
+bell-shaped curve.
+
+> In the case of Fig.9B the inverse extreme value distribution potentially could be used to approximate the background and calculate the p-value.
+> Another possibility is to use log-transformation of the raw values 
+>
+Because of the limited sample sizes, it would not be worth fitting other more complex functions
+(such as the EVD) even though this would have the benefit of modelling some longer tails.   However,
+long tails were not particulary obvious and when they occur, it is always on the side that lies towards
+models that do not fit so well (high RMSD).  Fitting a Gaussian to these will have the effect of
+overestimating the true variance which will in turn lead to a less significant value for both the
+Z-score and the T-test.   So, in effect, deviation from Normality acts in a 'fail-safe' direction. 
+That the T-test values are not unreasonable can be appreciated by estimating the chance in
+a coin-tossing experiment that virtually all the decoys will fall on the higher RMSD side of 
+the native comparison.   Clearly over 200-odd tosses, a very small value would be expected.
+
+Some additional text has been added in the Methods section to clarify these points.
+
+
+> (2) The authors do not use a correction for multiple tests in DALI search and some other applications.
+> With  the z-score cutoff of just 2 the lack of correction will result in many false-positives.
+> Fig.6 shows that even decoys can get high z-score of about 4.5.
+>
+With the DALI results, we simply took the values returned by the server.   The absolute value of
+this Z-score is not really important as it is only used to rank the hits and as we do not use
+it to identify true hits, false-positives do not arise.   That our simple (reversed-native) decoy
+sometimes also got a high score was a concern which is why we turned to the use of the more complex
+customised decoy-sets.
+
+> (3) Applying the t-test to two pooled distributions, each of which may combine different populations,
+> does not seem to be a valid approach.
+> 
+We were faced with the choice of many small decoy samples (with the problems associated with
+small sample size discussed above) or combining these into a few larger distributions.   The
+latter approach has the disadvantage that the structure comparisons now involve structures
+of different length but given the similarity among all the native structures from which they
+were generated, this is not a very serious problem as the SAP program takes account of relative
+indels.   We admit that neither approach is perfect but both types of analysis (multiple individual
+Z-scores and the 4 combined T-tests) both pointed to the same conclusion.
+
+> MINOR:
+> 
+> (1) Conclusions section is too long - almost 2 pages. The conclusions should be short and concise.
+>
+Had we been summarising and discussing just the structural analysis, our conclusions would have
+been shorter.   However, we also included some discussion of the stronger similarity we found for
+the ARC protein (which is non-viral) to the foamy viruses relative to the ortho viruses.   This
+raised some interesting evolutionary implications which we felt would be of considerable interest
+to virologists.
+
+> (2) Explain the reversal and regeneration on page 12 "Reversed structure decoys".
+>
+Reversal is already simply stated as: "reversing the order of the CA atoms in the PDB file". 
+The regeneration of the backbone (using the ca2main code) is based purely on local CA-chain
+geometry using an old observation of Levitt and Greer (1977) which is now cited.
+
+> (3) Where did s=30 come from on page 13?
+>
+This correction was in the original Taylor 2006 method and should be roughly in the range of
+the size of structural fragments that just have a generic similarity (eg an alpha-helical
+hairpin).   As its effect is negligible beyond 2s (cf. sigma), it has almost no effect on the
+current analysis as the distributions were drawn from a sample restricted to the number of
+positions matched in the native pair, +/-10.  Typically, in the range 50--90 pairs.
+
+> (4) All data must be made available as manuscript supplement. Otherwise the results cannot be reproduced/validated.
+>
+A github site has been created and all code and data have been deposited there with 
+unrestricted access.

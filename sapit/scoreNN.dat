@@ -1,0 +1,10 @@
+BLV_N+N damp = 30.000000 margin = 10 n = 251 mean = 1.315207 stdv = 0.170234 y = 0.550254 mean-y = 0.764954 z = 4.493551
+HIV1_N+N damp = 30.000000 margin = 10 n = 312 mean = 1.387546 stdv = 0.219740 y = 0.573903 mean-y = 0.813643 z = 3.702746
+HML2_N+N damp = 30.000000 margin = 10 n = 264 mean = 1.265025 stdv = 0.225198 y = 0.777153 mean-y = 0.487873 z = 2.166418
+HTLV_N+N damp = 30.000000 margin = 10 n = 400 mean = 1.324345 stdv = 0.181467 y = 0.592956 mean-y = 0.731389 z = 4.030429
+JSRV_N+N damp = 30.000000 margin = 10 n = 225 mean = 1.243907 stdv = 0.201215 y = 1.063649 mean-y = 0.180259 z = 0.895854
+MLV_N+N damp = 30.000000 margin = 10 n = 326 mean = 1.312253 stdv = 0.184224 y = 0.751373 mean-y = 0.560880 z = 3.044558
+MPMV_N+N damp = 30.000000 margin = 10 n = 269 mean = 1.304454 stdv = 0.189464 y = 0.565209 mean-y = 0.739246 z = 3.901779
+PSIV_N+N damp = 30.000000 margin = 10 n = 285 mean = 1.341958 stdv = 0.193299 y = 0.620753 mean-y = 0.721205 z = 3.731022
+RELIK_N+N damp = 30.000000 margin = 10 n = 234 mean = 1.377677 stdv = 0.200315 y = 0.639005 mean-y = 0.738672 z = 3.687560
+RSV_N+N damp = 30.000000 margin = 10 n = 204 mean = 1.299841 stdv = 0.242518 y = 0.542528 mean-y = 0.757312 z = 3.122707

@@ -1,0 +1,438 @@
+\begin{thebibliography}{46}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Lindemann and Rethwilm(2011)}]{LindemannDet11}
+\bibinfo{author}{D.~Lindemann}, \bibinfo{author}{A.~Rethwilm},
+\newblock \bibinfo{title}{Foamy virus biology and its application for vector
+  development},
+\newblock \bibinfo{journal}{Viruses} \bibinfo{volume}{3} (\bibinfo{year}{2011})
+  \bibinfo{pages}{561--585}.
+%Type = Article
+\bibitem[{Müllers(2013)}]{MullersEet13}
+\bibinfo{author}{E.~Müllers},
+\newblock \bibinfo{title}{The foamy virus {Gag} proteins: what makes them
+  different?},
+\newblock \bibinfo{journal}{Viruses} \bibinfo{volume}{5} (\bibinfo{year}{2013})
+  \bibinfo{pages}{1023--1041}.
+%Type = Article
+\bibitem[{Flügel and Pfrepper(2003)}]{FlugelRMet03}
+\bibinfo{author}{R.~Flügel}, \bibinfo{author}{K.~Pfrepper},
+\newblock \bibinfo{title}{Proteolytic processing of foamy virus {Gag} and {Pol}
+  proteins},
+\newblock \bibinfo{journal}{Curr. Top. Microbiol. Immunol}
+  \bibinfo{volume}{277} (\bibinfo{year}{2003}) \bibinfo{pages}{63--88}.
+%Type = Article
+\bibitem[{Goldstone et~al.(2013)Goldstone, Flower, Ball, Sanz-Ramos, Yap,
+  Ogrodowicz, Stanke, Reh, Lindemann, Stoye, and Taylor}]{GoldstoneDCet13}
+\bibinfo{author}{D.~Goldstone}, \bibinfo{author}{T.~Flower},
+  \bibinfo{author}{N.~Ball}, \bibinfo{author}{M.~Sanz-Ramos},
+  \bibinfo{author}{M.~Yap}, \bibinfo{author}{R.~Ogrodowicz},
+  \bibinfo{author}{N.~Stanke}, \bibinfo{author}{J.~Reh},
+  \bibinfo{author}{D.~Lindemann}, \bibinfo{author}{J.~Stoye},
+  \bibinfo{author}{I.~Taylor},
+\newblock \bibinfo{title}{A unique spumavirus {Gag} {N}-terminal domain with
+  functional properties of orthoretroviral matrix and capsid},
+\newblock \bibinfo{journal}{PLoS pathogens} \bibinfo{volume}{9}
+  (\bibinfo{year}{2013}) \bibinfo{pages}{e1003376}.
+%Type = Article
+\bibitem[{Ball et~al.(2016)Ball, Nicastro, Dutta, Pollard, Goldstone,
+  Sanz-Ramos, Ramos, Müllers, Stirnnagel, Stanke, Lindemann, Stoye, Taylor,
+  Rosenthal, and Taylor}]{BallNJet16}
+\bibinfo{author}{N.~Ball}, \bibinfo{author}{G.~Nicastro},
+  \bibinfo{author}{M.~Dutta}, \bibinfo{author}{D.~Pollard},
+  \bibinfo{author}{D.~Goldstone}, \bibinfo{author}{M.~Sanz-Ramos},
+  \bibinfo{author}{A.~Ramos}, \bibinfo{author}{E.~Müllers},
+  \bibinfo{author}{K.~Stirnnagel}, \bibinfo{author}{N.~Stanke},
+  \bibinfo{author}{D.~Lindemann}, \bibinfo{author}{J.~Stoye},
+  \bibinfo{author}{W.~Taylor}, \bibinfo{author}{P.~Rosenthal},
+  \bibinfo{author}{I.~Taylor},
+\newblock \bibinfo{title}{Structure of a spumaretrovirus gag central domain
+  reveals an ancient retroviral capsid},
+\newblock \bibinfo{journal}{{PLoS} Path.} \bibinfo{volume}{12}
+  (\bibinfo{year}{2016}) \bibinfo{pages}{e1005981}.
+  \bibinfo{note}{Doi:10.1371/journal.ppat.1005981}.
+%Type = Article
+\bibitem[{Taylor(1999)}]{TaylorWR99a}
+\bibinfo{author}{W.~R. Taylor},
+\newblock \bibinfo{title}{Protein structure alignment using iterated double
+  dynamic programming},
+\newblock \bibinfo{journal}{Prot. Sci} \bibinfo{volume}{8}
+  (\bibinfo{year}{1999}) \bibinfo{pages}{654--665}.
+%Type = Article
+\bibitem[{Holm and Sander(1993)}]{HolmLet93a}
+\bibinfo{author}{L.~Holm}, \bibinfo{author}{C.~Sander},
+\newblock \bibinfo{title}{Protein-structure comparison by alignment of distance
+  matrices},
+\newblock \bibinfo{journal}{J. Molec. Biol.} \bibinfo{volume}{233}
+  (\bibinfo{year}{1993}) \bibinfo{pages}{123--138}.
+%Type = Article
+\bibitem[{Zhang et~al.(2015)Zhang, Wu, Ward, Yang, Chuang, Xiao, Li, Leahy, and
+  Worley}]{ZhangWet15}
+\bibinfo{author}{W.~Zhang}, \bibinfo{author}{J.~Wu}, \bibinfo{author}{M.~Ward},
+  \bibinfo{author}{S.~Yang}, \bibinfo{author}{Y.~Chuang},
+  \bibinfo{author}{M.~Xiao}, \bibinfo{author}{R.~Li},
+  \bibinfo{author}{D.~Leahy}, \bibinfo{author}{P.~Worley},
+\newblock \bibinfo{title}{Structural basis of arc binding to synaptic proteins:
+  implications for cognitive disease.},
+\newblock \bibinfo{journal}{Neuron} \bibinfo{volume}{86} (\bibinfo{year}{2015})
+  \bibinfo{pages}{490--500}.
+%Type = Article
+\bibitem[{Taylor(1999)}]{TaylorWR99b}
+\bibinfo{author}{W.~R. Taylor},
+\newblock \bibinfo{title}{Protein structure domain identification},
+\newblock \bibinfo{journal}{Prot. Engng.} \bibinfo{volume}{12}
+  (\bibinfo{year}{1999}) \bibinfo{pages}{203--216}.
+%Type = Article
+\bibitem[{Taylor(2006)}]{TaylorWR06a}
+\bibinfo{author}{W.~R. Taylor},
+\newblock \bibinfo{title}{Decoy models for protein structure score
+  normalisation},
+\newblock \bibinfo{journal}{J. Molec. Biol.} \bibinfo{volume}{357}
+  (\bibinfo{year}{2006}) \bibinfo{pages}{676--699}.
+%Type = Article
+\bibitem[{Levitt and Gerstein(1998)}]{LevittMet98}
+\bibinfo{author}{M.~Levitt}, \bibinfo{author}{M.~Gerstein},
+\newblock \bibinfo{title}{A unified statistical framework for sequence
+  comparison and structure comparison},
+\newblock \bibinfo{journal}{Proc Natl Acad Sci USA} \bibinfo{volume}{95}
+  (\bibinfo{year}{1998}) \bibinfo{pages}{5913--5920}.
+%Type = Article
+\bibitem[{Campillos et~al.(2006)Campillos, Doerks, Shah, and
+  Bork}]{CampillosMet06}
+\bibinfo{author}{M.~Campillos}, \bibinfo{author}{T.~Doerks},
+  \bibinfo{author}{P.~Shah}, \bibinfo{author}{P.~Bork},
+\newblock \bibinfo{title}{Computational characterization of multiple gag-like
+  human proteins},
+\newblock \bibinfo{journal}{Trends in Genetics} \bibinfo{volume}{22}
+  (\bibinfo{year}{2006}) \bibinfo{pages}{285--589}.
+%Type = Article
+\bibitem[{Chowdhury et~al.(2006)Chowdhury, Shepherd, Okuno, Lyford, Petralia,
+  Plath, Kuhl, Huganir, and Worley}]{ChowdhurySet06}
+\bibinfo{author}{S.~Chowdhury}, \bibinfo{author}{J.~Shepherd},
+  \bibinfo{author}{H.~Okuno}, \bibinfo{author}{G.~Lyford},
+  \bibinfo{author}{R.~Petralia}, \bibinfo{author}{N.~Plath},
+  \bibinfo{author}{D.~Kuhl}, \bibinfo{author}{R.~Huganir},
+  \bibinfo{author}{P.~Worley},
+\newblock \bibinfo{title}{{Arc/Arg3.1} interacts with the endocytic machinery
+  to regulate {AMPA} receptor trafficking},
+\newblock \bibinfo{journal}{Neuron} \bibinfo{volume}{52} (\bibinfo{year}{2006})
+  \bibinfo{pages}{445--459}.
+%Type = Article
+\bibitem[{Park et~al.(2008)Park, Park, Kim, Kim, Shepherd, Smith-Hicks,
+  Chowdhury, Kaufmann, Kuhl, Ryazanov, and et~al.}]{ParkSet08}
+\bibinfo{author}{S.~Park}, \bibinfo{author}{J.~Park}, \bibinfo{author}{S.~Kim},
+  \bibinfo{author}{J.~Kim}, \bibinfo{author}{J.~Shepherd},
+  \bibinfo{author}{C.~Smith-Hicks}, \bibinfo{author}{S.~Chowdhury},
+  \bibinfo{author}{W.~Kaufmann}, \bibinfo{author}{D.~Kuhl},
+  \bibinfo{author}{A.~Ryazanov}, \bibinfo{author}{et~al.},
+\newblock \bibinfo{title}{Elongation factor 2 and fragile {X} mental
+  retardation protein control the dynamic translation of {Arc/Arg3.1} essential
+  for {mGluR-LTD}},
+\newblock \bibinfo{journal}{Neuron} \bibinfo{volume}{59} (\bibinfo{year}{2008})
+  \bibinfo{pages}{70--83}.
+%Type = Article
+\bibitem[{Shepherd et~al.(2006)Shepherd, Rumbaugh, Wu, Chowdhury, Plath, Kuhl,
+  Huganir, and Worley}]{ShepherdJDet06}
+\bibinfo{author}{J.~Shepherd}, \bibinfo{author}{G.~Rumbaugh},
+  \bibinfo{author}{J.~Wu}, \bibinfo{author}{S.~Chowdhury},
+  \bibinfo{author}{N.~Plath}, \bibinfo{author}{D.~Kuhl},
+  \bibinfo{author}{R.~Huganir}, \bibinfo{author}{P.~Worley},
+\newblock \bibinfo{title}{Arc/arg3.1 mediates homeostatic synaptic scaling of
+  {AMPA} receptors},
+\newblock \bibinfo{journal}{Neuron 52, 475-484}  (\bibinfo{year}{2006}).
+%Type = Article
+\bibitem[{Waung et~al.(2008)Waung, Pfeiffer, Nosyreva, Ronesi, and
+  Huber}]{WaungMWet08}
+\bibinfo{author}{M.~Waung}, \bibinfo{author}{B.~Pfeiffer},
+  \bibinfo{author}{E.~Nosyreva}, \bibinfo{author}{J.~Ronesi},
+  \bibinfo{author}{K.~Huber},
+\newblock \bibinfo{title}{Rapid translation of {Arc/Arg3.1} selectively
+  mediates {mGluR}-dependent {LTD} through persistent increases in {AMPAR}
+  endocytosis rate},
+\newblock \bibinfo{journal}{Neuron} \bibinfo{volume}{59} (\bibinfo{year}{2008})
+  \bibinfo{pages}{84--97}.
+%Type = Article
+\bibitem[{Niere et~al.(2012)Niere, Wilkerson, and Huber}]{NiereFet12}
+\bibinfo{author}{F.~Niere}, \bibinfo{author}{J.~Wilkerson},
+  \bibinfo{author}{K.~Huber},
+\newblock \bibinfo{title}{Evidence for a fragile x mental retardation
+  protein-mediated translational switch in metabotropic glutamate
+  receptor-triggered arc translation and long-term depression},
+\newblock \bibinfo{journal}{J. Neurosci.} \bibinfo{volume}{32}
+  (\bibinfo{year}{2012}) \bibinfo{pages}{5924--5936}.
+%Type = Article
+\bibitem[{Volff(2009)}]{VolffJN09}
+\bibinfo{author}{J.~Volff},
+\newblock \bibinfo{title}{Cellular genes derived from {Gypsy/Ty3}
+  retrotransposons in mammalian genomes},
+\newblock \bibinfo{journal}{Annals New York Acad. Sci.} \bibinfo{volume}{1178}
+  (\bibinfo{year}{2009}) \bibinfo{pages}{233--243}.
+%Type = Article
+\bibitem[{Llorens et~al.(2008)Llorens, Fares, and Moya}]{LlorensCet08}
+\bibinfo{author}{C.~Llorens}, \bibinfo{author}{M.~Fares},
+  \bibinfo{author}{A.~Moya},
+\newblock \bibinfo{title}{Relationships of gag-pol diversity between
+  {Ty3/Gypsy} and retroviridae {LTR} retroelements and the three kings
+  hypothesis.},
+\newblock \bibinfo{journal}{BMC Evol. Biol.} \bibinfo{volume}{8}
+  (\bibinfo{year}{2008}) \bibinfo{pages}{e276}.
+%Type = Article
+\bibitem[{Hill et~al.(1996)Hill, Worthylake, Bancroft, Christensen, and
+  Sundquist}]{HillCPet96}
+\bibinfo{author}{C.~Hill}, \bibinfo{author}{D.~Worthylake},
+  \bibinfo{author}{D.~Bancroft}, \bibinfo{author}{A.~Christensen},
+  \bibinfo{author}{W.~Sundquist},
+\newblock \bibinfo{title}{Crystal structures of the trimeric human
+  immunodeficiency virus type 1 matrix protein: implications for membrane
+  association and assembly},
+\newblock \bibinfo{journal}{Proc. Natl. Acad. Sci. U.S.A.} \bibinfo{volume}{93}
+  (\bibinfo{year}{1996}) \bibinfo{pages}{3099--3104}.
+%Type = Article
+\bibitem[{Prchal et~al.(2012)Prchal, Srb, Hunter, Ruml, and
+  Hrabal}]{PrchalJet12}
+\bibinfo{author}{J.~Prchal}, \bibinfo{author}{P.~Srb},
+  \bibinfo{author}{E.~Hunter}, \bibinfo{author}{T.~Ruml},
+  \bibinfo{author}{R.~Hrabal},
+\newblock \bibinfo{title}{The structure of myristoylated mason-pfizer monkey
+  virus matrix protein and the role of phosphatidylinositol-(4,5)-bisphosphate
+  in its membrane binding},
+\newblock \bibinfo{journal}{J. Mol. Biol.} \bibinfo{volume}{423}
+  (\bibinfo{year}{2012}) \bibinfo{pages}{427--438}.
+%Type = Article
+\bibitem[{Rao et~al.(1995)Rao, Belyaev, Fry, Roy, Jones, and Stuart}]{RaoZet95}
+\bibinfo{author}{Z.~Rao}, \bibinfo{author}{A.~Belyaev},
+  \bibinfo{author}{E.~Fry}, \bibinfo{author}{P.~Roy},
+  \bibinfo{author}{I.~Jones}, \bibinfo{author}{D.~Stuart},
+\newblock \bibinfo{title}{Crystal structure of {SIV} matrix antigen and
+  implications for virus assembly},
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{378}
+  (\bibinfo{year}{1995}) \bibinfo{pages}{743--747}.
+%Type = Article
+\bibitem[{Riffel et~al.(2002)Riffel, Harlos, Iourin, Rao, Kingsman, Stuart, and
+  Fry}]{RiffelNet02}
+\bibinfo{author}{N.~Riffel}, \bibinfo{author}{K.~Harlos},
+  \bibinfo{author}{O.~Iourin}, \bibinfo{author}{Z.~Rao},
+  \bibinfo{author}{A.~Kingsman}, \bibinfo{author}{D.~Stuart},
+  \bibinfo{author}{E.~Fry},
+\newblock \bibinfo{title}{Atomic resolution structure of moloney murine
+  leukemia virus matrix protein and its relationship to other retroviral matrix
+  proteins},
+\newblock \bibinfo{journal}{Structure} \bibinfo{volume}{10}
+  (\bibinfo{year}{2002}) \bibinfo{pages}{1627--1636}.
+%Type = Article
+\bibitem[{Song et~al.(1994)Song, Gerasimova, Kurkulos, Boeke, and
+  Corces}]{SongSUet94}
+\bibinfo{author}{S.~Song}, \bibinfo{author}{T.~Gerasimova},
+  \bibinfo{author}{M.~Kurkulos}, \bibinfo{author}{J.~Boeke},
+  \bibinfo{author}{V.~Corces},
+\newblock \bibinfo{title}{An env-like protein encoded by a drosophila
+  retroelement: evidence that gypsy is an infectious retrovirus},
+\newblock \bibinfo{journal}{Gene Dev 8, 2046-2057}  (\bibinfo{year}{1994}).
+%Type = Article
+\bibitem[{Tobaly-Tapiero et~al.(2001)Tobaly-Tapiero, Bittoun, Giron, Neves,
+  Koken, Saib, and de~The}]{TobalyJet01}
+\bibinfo{author}{J.~Tobaly-Tapiero}, \bibinfo{author}{P.~Bittoun},
+  \bibinfo{author}{M.~Giron}, \bibinfo{author}{M.~Neves},
+  \bibinfo{author}{M.~Koken}, \bibinfo{author}{A.~Saib},
+  \bibinfo{author}{H.~de~The},
+\newblock \bibinfo{title}{Human foamy virus capsid formation requires an
+  interaction domain in the {N}-terminus of {Gag}},
+\newblock \bibinfo{journal}{J Virol 75, 4367-4375}  (\bibinfo{year}{2001}).
+%Type = Article
+\bibitem[{Obal et~al.(2015)Obal, Trajtenberg, Carrion, Tome, Larrieux, Zhang,
+  Pritsch, and Buschiazzo}]{ObalGet15}
+\bibinfo{author}{G.~Obal}, \bibinfo{author}{F.~Trajtenberg},
+  \bibinfo{author}{F.~Carrion}, \bibinfo{author}{L.~Tome},
+  \bibinfo{author}{N.~Larrieux}, \bibinfo{author}{X.~Zhang},
+  \bibinfo{author}{O.~Pritsch}, \bibinfo{author}{A.~Buschiazzo},
+\newblock \bibinfo{title}{Conformational plasticity of a native retroviral
+  capsid revealed by {X}-ray crystallography.},
+\newblock \bibinfo{journal}{Science} \bibinfo{volume}{349}
+  (\bibinfo{year}{2015}) \bibinfo{pages}{95--98}. \bibinfo{note}{DOI:
+  10.1126/science.aaa5182}.
+%Type = Article
+\bibitem[{Gamble et~al.(1996)Gamble, Vajdos, Yoo, Worthylake, Houseweart,
+  Sundquist, and Hill}]{GambleTRet96}
+\bibinfo{author}{T.~Gamble}, \bibinfo{author}{F.~Vajdos},
+  \bibinfo{author}{S.~Yoo}, \bibinfo{author}{D.~Worthylake},
+  \bibinfo{author}{M.~Houseweart}, \bibinfo{author}{W.~Sundquist},
+  \bibinfo{author}{C.~Hill},
+\newblock \bibinfo{title}{Crystal structure of human cyclophilin {A} bound to
+  the amino-terminal domain of {HIV-1} capsid.},
+\newblock \bibinfo{journal}{Cell} \bibinfo{volume}{87} (\bibinfo{year}{1996})
+  \bibinfo{pages}{1285--1294}.
+%Type = Article
+\bibitem[{Worthylake et~al.(1999)Worthylake, Wang, Yoo, Sundquist, and
+  Hill}]{WorthylakeDKet99}
+\bibinfo{author}{D.~Worthylake}, \bibinfo{author}{H.~Wang},
+  \bibinfo{author}{S.~Yoo}, \bibinfo{author}{W.~Sundquist},
+  \bibinfo{author}{C.~Hill},
+\newblock \bibinfo{title}{Structures of the {HIV-1} capsid protein dimerization
+  domain at 2.6\aa\ resolution.},
+\newblock \bibinfo{journal}{Acta Crystallogr.,Sect.D} \bibinfo{volume}{55}
+  (\bibinfo{year}{1999}) \bibinfo{pages}{85--92}. \bibinfo{note}{DOI:
+  10.1107/S0907444998007689}.
+%Type = Article
+\bibitem[{Pornillos et~al.(2009)Pornillos, Ganser-Pornillos, Kelly, Hua,
+  Whitby, Stout, Sundquist, Hill, and Yeager}]{PornillosOet09}
+\bibinfo{author}{O.~Pornillos}, \bibinfo{author}{B.~Ganser-Pornillos},
+  \bibinfo{author}{B.~Kelly}, \bibinfo{author}{Y.~Hua},
+  \bibinfo{author}{F.~Whitby}, \bibinfo{author}{C.~Stout},
+  \bibinfo{author}{W.~Sundquist}, \bibinfo{author}{C.~Hill},
+  \bibinfo{author}{M.~Yeager},
+\newblock \bibinfo{title}{{X}-ray structures of the hexameric building block of
+  the {HIV} capsid.},
+\newblock \bibinfo{journal}{Cell} \bibinfo{volume}{137} (\bibinfo{year}{2009})
+  \bibinfo{pages}{1282--1292}. \bibinfo{note}{DOI: 10.1016/j.cell.2009.04.063}.
+%Type = Article
+\bibitem[{Mortuza et~al.(2008)Mortuza, Dodding, Goldstone, Haire, Stoye, and
+  Taylor}]{MortuzaGBet08}
+\bibinfo{author}{G.~Mortuza}, \bibinfo{author}{M.~Dodding},
+  \bibinfo{author}{D.~Goldstone}, \bibinfo{author}{L.~Haire},
+  \bibinfo{author}{J.~Stoye}, \bibinfo{author}{I.~Taylor},
+\newblock \bibinfo{title}{Structure of {B}-tropic {MLV} capsid {N}-terminal
+  domain.},
+\newblock \bibinfo{journal}{J. Mol. Biol.} \bibinfo{volume}{376}
+  (\bibinfo{year}{2008}) \bibinfo{pages}{1493--1508}.
+%Type = Article
+\bibitem[{Khorasanizadeh et~al.(1999)Khorasanizadeh, Campos-Olivas, Clark, and
+  Summers}]{KhorasanizadehSet99}
+\bibinfo{author}{S.~Khorasanizadeh}, \bibinfo{author}{R.~Campos-Olivas},
+  \bibinfo{author}{C.~Clark}, \bibinfo{author}{M.~Summers},
+\newblock \bibinfo{title}{Sequence-specific {1H, 13C and 15N} chemical shift
+  assignment and secondary structure of the {HTLV-I} capsid protein.},
+\newblock \bibinfo{journal}{J. Biomol. NMR} \bibinfo{volume}{14}
+  (\bibinfo{year}{1999}) \bibinfo{pages}{199--200}.
+%Type = Article
+\bibitem[{Mortuza et~al.(2009)Mortuza, Goldstone, Pashley, Haire, Palmarini,
+  Taylor, Stoye, and Taylor}]{MortuzaGBet09}
+\bibinfo{author}{G.~B. Mortuza}, \bibinfo{author}{D.~C. Goldstone},
+  \bibinfo{author}{C.~Pashley}, \bibinfo{author}{L.~F. Haire},
+  \bibinfo{author}{M.~Palmarini}, \bibinfo{author}{W.~R. Taylor},
+  \bibinfo{author}{J.~P. Stoye}, \bibinfo{author}{I.~A. Taylor},
+\newblock \bibinfo{title}{Structure of the capsid amino terminal domain from
+  the betaretrovirus, {J}aagsiekte sheep retrovirus.},
+\newblock \bibinfo{journal}{J. Molec. Biol.} \bibinfo{volume}{386}
+  (\bibinfo{year}{2009}) \bibinfo{pages}{1179--1192}.
+%Type = Article
+\bibitem[{Mortuza et~al.(2004)Mortuza, Haire, Stevens, Smerdon, Stoye, and
+  Taylor}]{MortuzaGBet04}
+\bibinfo{author}{G.~B. Mortuza}, \bibinfo{author}{L.~F. Haire},
+  \bibinfo{author}{A.~Stevens}, \bibinfo{author}{S.~J. Smerdon},
+  \bibinfo{author}{J.~P. Stoye}, \bibinfo{author}{I.~A. Taylor},
+\newblock \bibinfo{title}{High-resolution structure of a retroviral capsid
+  hexameric amino-terminal domain.},
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{431}
+  (\bibinfo{year}{2004}) \bibinfo{pages}{481--485}.
+%Type = Article
+\bibitem[{Macek et~al.(2009)Macek, Chmelik, Krizova, Kaderavek, Padrta, Zidek,
+  Wildova, Hadravova, Chaloupkova, Pichova, Ruml, Rumlova, and
+  Sklenar}]{MacekPet09}
+\bibinfo{author}{P.~Macek}, \bibinfo{author}{J.~Chmelik},
+  \bibinfo{author}{I.~Krizova}, \bibinfo{author}{P.~Kaderavek},
+  \bibinfo{author}{P.~Padrta}, \bibinfo{author}{L.~Zidek},
+  \bibinfo{author}{M.~Wildova}, \bibinfo{author}{R.~Hadravova},
+  \bibinfo{author}{R.~Chaloupkova}, \bibinfo{author}{I.~Pichova},
+  \bibinfo{author}{T.~Ruml}, \bibinfo{author}{M.~Rumlova},
+  \bibinfo{author}{V.~Sklenar},
+\newblock \bibinfo{title}{{NMR} structure of the {N}-terminal domain of capsid
+  protein from the mason-pfizer monkey virus},
+\newblock \bibinfo{journal}{J. Mol. Biol.} \bibinfo{volume}{392}
+  (\bibinfo{year}{2009}) \bibinfo{pages}{100--114}. \bibinfo{note}{DOI:
+  10.1016/j.jmb.2009.06.029}.
+%Type = Article
+\bibitem[{Goldstone et~al.(2010)Goldstone, Yap, Robertson, Haire, Taylor,
+  Katzourakis, Stoye, and Taylor}]{GoldstoneDCet10}
+\bibinfo{author}{D.~C. Goldstone}, \bibinfo{author}{M.~W. Yap},
+  \bibinfo{author}{L.~E. Robertson}, \bibinfo{author}{L.~F. Haire},
+  \bibinfo{author}{W.~R. Taylor}, \bibinfo{author}{A.~Katzourakis},
+  \bibinfo{author}{J.~P. Stoye}, \bibinfo{author}{I.~A. Taylor},
+\newblock \bibinfo{title}{Structural and functional analysis of prehistoric
+  lentiviruses uncovers an ancient molecular interface.},
+\newblock \bibinfo{journal}{Cell Host Microbe} \bibinfo{volume}{8}
+  (\bibinfo{year}{2010}) \bibinfo{pages}{248--259}.
+%Type = Article
+\bibitem[{Bailey et~al.(2009)Bailey, Hyun, Mitra, and Kingston}]{BaileyGDet09}
+\bibinfo{author}{G.~Bailey}, \bibinfo{author}{J.~Hyun},
+  \bibinfo{author}{A.~Mitra}, \bibinfo{author}{R.~Kingston},
+\newblock \bibinfo{title}{Proton-linked dimerization of a retroviral capsid
+  protein initiates capsid assembly},
+\newblock \bibinfo{journal}{Structure} \bibinfo{volume}{17}
+  (\bibinfo{year}{2009}) \bibinfo{pages}{737--748}. \bibinfo{note}{DOI:
+  10.1016/j.str.2009.03.010}.
+%Type = Article
+\bibitem[{Rippmann and Taylor(1991)}]{RippmannFet91a}
+\bibinfo{author}{F.~Rippmann}, \bibinfo{author}{W.~R. Taylor},
+\newblock \bibinfo{title}{Visualization of structural similarity in proteins},
+\newblock \bibinfo{journal}{J. Molec. Graph.} \bibinfo{volume}{9}
+  (\bibinfo{year}{1991}) \bibinfo{pages}{3--16}.
+%Type = Article
+\bibitem[{McLachlan(1984)}]{McLachlanAD84}
+\bibinfo{author}{A.~D. McLachlan},
+\newblock \bibinfo{title}{How alike are the shapes of two random chains?},
+\newblock \bibinfo{journal}{Biopolymers} \bibinfo{volume}{23}
+  (\bibinfo{year}{1984}) \bibinfo{pages}{1325--1331}.
+%Type = Article
+\bibitem[{Cohen and Sternberg(1980)}]{CohenFEet80d}
+\bibinfo{author}{F.~E. Cohen}, \bibinfo{author}{M.~J.~E. Sternberg},
+\newblock \bibinfo{title}{On the prediction of protein structure: the
+  significance of the root-mean-square deviation},
+\newblock \bibinfo{journal}{J. Molec. Biol.} \bibinfo{volume}{138}
+  (\bibinfo{year}{1980}) \bibinfo{pages}{321--333}.
+%Type = Article
+\bibitem[{Maiorov and Crippen(1994)}]{MaiorovVNet94}
+\bibinfo{author}{V.~N. Maiorov}, \bibinfo{author}{G.~M. Crippen},
+\newblock \bibinfo{title}{Significance of root-mean-square deviation in
+  comparing three-dimensional structures of globular proteins},
+\newblock \bibinfo{journal}{J. Mol. Biol.} \bibinfo{volume}{235}
+  (\bibinfo{year}{1994}) \bibinfo{pages}{625--634}.
+%Type = Book
+\bibitem[{Press et~al.(1986)Press, Flannery, Teukolsky, and
+  Vetterling}]{PressWHet86}
+\bibinfo{author}{W.~H. Press}, \bibinfo{author}{B.~P. Flannery},
+  \bibinfo{author}{S.~A. Teukolsky}, \bibinfo{author}{W.~T. Vetterling},
+  \bibinfo{title}{Numerical Recipes: The Art of Scientific Computing},
+  \bibinfo{publisher}{Cambridge Univ. Press (Cambridge, UK)},
+  \bibinfo{year}{1986}.
+%Type = Article
+\bibitem[{Brown et~al.(1996)Brown, Orengo, and Taylor}]{BrownNPet96}
+\bibinfo{author}{N.~P. Brown}, \bibinfo{author}{C.~A. Orengo},
+  \bibinfo{author}{W.~R. Taylor},
+\newblock \bibinfo{title}{A protein structure comparison methodology},
+\newblock \bibinfo{journal}{Computers Chem.} \bibinfo{volume}{20}
+  (\bibinfo{year}{1996}) \bibinfo{pages}{359--380}.
+%Type = Article
+\bibitem[{Asz\'{o}di and Taylor(1997)}]{AszodiAet97a}
+\bibinfo{author}{A.~Asz\'{o}di}, \bibinfo{author}{W.~R. Taylor},
+\newblock \bibinfo{title}{Hierarchical inertial projection: a fast distance
+  matrix embedding algorithm.},
+\newblock \bibinfo{journal}{Computers Chem.} \bibinfo{volume}{21}
+  (\bibinfo{year}{1997}) \bibinfo{pages}{13--23}.
+%Type = Article
+\bibitem[{Taylor et~al.(2001)Taylor, May, Brown, and Asz\'odi}]{TaylorWRet01b}
+\bibinfo{author}{W.~R. Taylor}, \bibinfo{author}{A.~C.~W. May},
+  \bibinfo{author}{N.~P. Brown}, \bibinfo{author}{A.~Asz\'odi},
+\newblock \bibinfo{title}{Protein structure: Geometry, topology and
+  classification},
+\newblock \bibinfo{journal}{Rep. Prog. Phys.} \bibinfo{volume}{64}
+  (\bibinfo{year}{2001}) \bibinfo{pages}{517--590}.
+%Type = Article
+\bibitem[{Taylor et~al.(2009)Taylor, Chelliah, Hollup, MacDonald, and
+  Jonassen}]{TaylorWRet09a}
+\bibinfo{author}{W.~R. Taylor}, \bibinfo{author}{V.~Chelliah},
+  \bibinfo{author}{S.~M. Hollup}, \bibinfo{author}{J.~T. MacDonald},
+  \bibinfo{author}{I.~Jonassen},
+\newblock \bibinfo{title}{Probing the ``dark matter'' of protein fold-space},
+\newblock \bibinfo{journal}{Structure} \bibinfo{volume}{17}
+  (\bibinfo{year}{2009}) \bibinfo{pages}{1244--1252}.
+%Type = Article
+\bibitem[{Asz\'{o}di and Taylor(1994)}]{AszodiAet94a}
+\bibinfo{author}{A.~Asz\'{o}di}, \bibinfo{author}{W.~R. Taylor},
+\newblock \bibinfo{title}{Folding polypeptide $\alpha$-carbon backbones by
+  distance geometry methods},
+\newblock \bibinfo{journal}{Biopolymers} \bibinfo{volume}{34}
+  (\bibinfo{year}{1994}) \bibinfo{pages}{489--506}.
+
+\end{thebibliography}

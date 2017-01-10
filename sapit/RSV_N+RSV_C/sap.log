@@ -1,0 +1,82 @@
+ file1 = RSV_N
+ prot1->Compound = 
+ file2 = RSV_C
+ prot2->Compound = 
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Cycle 1, 15 residues selected
+Cycle 2, 20 residues selected
+Cycle 3, 25 residues selected
+Cycle 4, 31 residues selected
+Cycle 5, 36 residues selected
+
+ score = 799.970520
+
+Percent sel on aln =   72.22
+Percent aln in sel =   53.06
+  G    1   0.0  16 P  
+ *P    2   0.5  17 K  
+**W    3   1.0  18 L* 
+ *A    4   0.3  19 I**
+  D    5   0.4  20 T* 
+ *I    6   0.1  21 R* 
+ *M    7   0.0  26 V**
+**Q    8   0.0  27 R  
+  G    9   0.0  28 T  
+  P   10   0.0  29 K* 
+  S   11   0.0  30 G* 
+ *E   12   0.0  31 L**
+  S   13   0.1  32 R* 
+ *F   14   0.0  33 S* 
+ *V   15  20.2  34 P  
+  D   16  29.4  35 I  
+**F   17  34.0  36 T**
+ *A   18  38.8  37 M* 
+  N   19  33.8  38 A  
+  R   20  31.4  39 E* 
+**L   21  46.7  40 V* 
+ *I   22  50.6  41 E* 
+  K   23  41.7  42 A* 
+ *A   24  41.1  43 L**
+**V   25  47.8  44 M**
+ *E   26   0.4  45 S  
+  G   27   5.8  46 S  
+ *S   28   0.1  47 P**
+  D   29   0.1  48 L**
+ *L   30   0.0  49 L**
+  P   31   0.0 129 L**
+  P   32  29.8 130 V* 
+  S   33   9.0 131 A* 
+  A   34  10.6 132 I**
+**R   35  34.9 133 T**
+ *A   36  45.5 134 A  
+ *P   37  33.4 135 S* 
+ *V   38  42.1 136 A**
+**I   39  44.4 137 L**
+**I   40  41.5 138 Q* 
+  D   41  32.9 139 A**
+**C   42  44.3 140 F* 
+**F   43  44.3 141 R  
+ *R   44  26.9 142 E* 
+ *V   72   1.2 143 V**
+ *L   73   0.6 144 A**
+  D   74   0.4 145 R  
+ *R   75   0.5 146 L  
+  Q   76   1.0 147 A  
+RSV_C Weighted RMSd =   1.565 over 49 atoms 33.309875 867.412476   6.1 68.308167 66.785423 70.944908 74.501503
+RSV_C Un-weighted RMSd =   1.210 over best 21 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   1.264 over best 23 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   2.761 over best 25 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   2.761 over best 25 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   2.761 over best 25 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   3.021 over best 26 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   3.653 over best 29 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   3.987 over best 32 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   4.304 over best 37 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   4.273 over best 40 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   4.358 over best 42 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   4.285 over best 45 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   4.329 over best 47 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   4.329 over best 47 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   4.329 over best 47 atoms ( 867.412476    6.1 )
+RSV_C Un-weighted RMSd =   4.441 over all 49 matched atoms 33.309875 867.412476    6.1 68.308167 66.785423 70.944908 74.501503

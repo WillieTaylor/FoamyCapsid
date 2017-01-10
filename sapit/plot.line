@@ -1,0 +1,2 @@
+gnuplot> plot [10:66][0:15]  'nat1rev2.rat' not, 'pdb1pdb2.dat' with lines not, 'pdb1pdb2.dat' not, 'nat1rve2.rat' not, 'nta1rev2.rat' not, 1.7*sqrt(x)*(1-exp(-x*x*0.005)) not,'nta1rve2.rat' not, 0.8*sqrt(x)*(1-exp(-x*x*0.005)) not, 'rev1nat2.rat' not, 'rev1nta2.rat' not,  'rve1nat2.rat' not, 'rve1nta2.rat' not
+

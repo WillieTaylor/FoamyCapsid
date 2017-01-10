@@ -1,0 +1,15 @@
+HIV.pdb HPFV-340.pdb HPFV-340.pdb Un-weighted RMSd = 6.070 over all 92 matched atoms 57.811611 1847.911377 16.3 42.065285
+HIV.pdb HTLV.pdb HTLV.pdb Un-weighted RMSd = 8.224 over all 120 matched atoms 65.665924 2025.968018 5.8 34.319194
+HIV.pdb JSRV.pdb JSRV.pdb Un-weighted RMSd = 4.189 over all 129 matched atoms 93.268501 6932.329102 12.4 55.199024
+HIV.pdb MLV.pdb MLV.pdb Un-weighted RMSd = 5.550 over all 129 matched atoms 88.564514 5359.666016 12.4 52.346961
+HIV.pdb RSV.pdb RSV.pdb Un-weighted RMSd = 5.115 over all 143 matched atoms 103.492935 6525.547363 9.8 48.941141
+HPFV-340.pdb HTLV.pdb HTLV.pdb Un-weighted RMSd = 9.048 over all 105 matched atoms 53.498089 1095.416382 12.4 12.488331
+HPFV-340.pdb JSRV.pdb JSRV.pdb Un-weighted RMSd = 13.735 over all 100 matched atoms 60.041649 1863.288818 7.0 8.151871
+HPFV-340.pdb MLV.pdb MLV.pdb Un-weighted RMSd = 6.974 over all 98 matched atoms 62.418728 1302.994385 12.2 18.044081
+HPFV-340.pdb RSV.pdb RSV.pdb Un-weighted RMSd = 6.011 over all 87 matched atoms 52.620659 1570.061768 6.9 41.866574
+HTLV.pdb JSRV.pdb JSRV.pdb Un-weighted RMSd = 7.261 over all 123 matched atoms 76.421028 3160.031982 12.2 43.938840
+HTLV.pdb MLV.pdb MLV.pdb Un-weighted RMSd = 7.755 over all 127 matched atoms 78.408180 3762.921875 15.0 47.006166
+HTLV.pdb RSV.pdb RSV.pdb Un-weighted RMSd = 7.643 over all 126 matched atoms 79.128937 3586.993408 11.9 44.020762
+JSRV.pdb MLV.pdb MLV.pdb Un-weighted RMSd = 4.859 over all 128 matched atoms 88.538239 5492.063477 13.3 45.959738
+JSRV.pdb RSV.pdb RSV.pdb Un-weighted RMSd = 1.568 over all 131 matched atoms 106.929733 16249.892578 22.9 83.312668
+MLV.pdb RSV.pdb RSV.pdb Un-weighted RMSd = 5.633 over all 130 matched atoms 92.303810 6254.596191 10.8 47.504366

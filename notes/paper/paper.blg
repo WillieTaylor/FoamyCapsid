@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: paper.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: intro.aux
+A level-1 auxiliary file: results.aux
+A level-1 auxiliary file: conclude.aux
+A level-1 auxiliary file: methods.aux
+The style file: latex/jtb.bst
+Database file #1: latex/newrefs.bib
+Database file #2: pdbrefs.bib
+Repeated entry---line 60 of file pdbrefs.bib
+ : @article{GoldstoneDCet10
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 76 of file pdbrefs.bib
+ : @article{MortuzaGBet04
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 84 of file pdbrefs.bib
+ : @article{MortuzaGBet09
+ :                       ,
+I'm skipping whatever remains of this entry
+You've used 30 entries,
+            2238 wiz_defined-function locations,
+            810 strings with 10851 characters,
+and the built_in function-call counts, 39325 in all, are:
+= -- 5860
+> -- 2265
+< -- 11
++ -- 4974
+- -- 1893
+* -- 2928
+:= -- 7562
+add.period$ -- 96
+call.type$ -- 30
+change.case$ -- 232
+chr.to.int$ -- 29
+cite$ -- 119
+duplicate$ -- 390
+empty$ -- 860
+format.name$ -- 330
+if$ -- 5702
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 31
+newline$ -- 159
+num.names$ -- 90
+pop$ -- 221
+preamble$ -- 1
+purify$ -- 233
+quote$ -- 0
+skip$ -- 337
+stack$ -- 0
+substring$ -- 2494
+swap$ -- 1494
+text.length$ -- 143
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 178
+warning$ -- 0
+while$ -- 258
+width$ -- 0
+write$ -- 403
+(There were 3 error messages)

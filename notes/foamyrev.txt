@@ -1,0 +1,56 @@
+Reviewer's Responses to Questions
+
+Part I - Summary
+Please use this section to discuss strengths/weaknesses of study, novelty/significance, general execution and scholarship.
+
+
+
+Reviewer #1: Taylor and colleagues present the NMR structure of a monomeric domain derived from the central region of PFV Gag. It folds into a two domain structure (NTD and CTD) composed of a 4 and a 5-helical bundle, respectively. They suggest that these Gag central domains are structurally related to the CA from orthoretroviruses. Although the central domain on its own is monomeric in solution, the CTD can form dimers. The NMR structure of the dimer shows that the dimerization is stabilized by same residues that form the interaction between NTD and CTD in the monomer. Mutagenesis of these residues within PFV reduces particle formation, RNA incorporation and infectivity. Cryo EM analyses are presented that reveal that the interactions stabilized by these interface residues are essential for capsid formation.
+Overall the data is of high technical quality and the results are concise and provide novel insight into the evolutionary relationship of spumaviruses and orthoretroviruses.
+
+Reviewer #2: In this paper Ball et al delves into the evolutionary relations between spuma and orthoretroviruses, the two major branches of Retroviridae. They show that the central region of spumavirus (PFV) Gag is a bi-domain structure containing the conserved folds of the N-terminal and C-terminal domains of orthoretroviral capsid proteins. They further examine the self-association properties of PFV Gag, and show that the C-terminal domain dimerizes with 1 uM affinity once uncoupled from the N-terminal domain. Functional analysis of self-association mutants reveal minor defects in particle release but major defects in core assembly and reverse transcription. Overall, the paper is a nice confirmation of the idea that spuma and orthoretroviruses are related and have diverged from a common ancestor.
+
+Reviewer #3: The manuscript by Neil et al is an interesting and useful addition to our understanding of the common structural themes involved in retroviral assembly. Overall, the experiments appear to be performed carefully and the results well presented. The suggestion that the Spumaretrovirus Gag central domain arose from a common double domain ancestor is based on a selective comparison of a small number of known structures, and perhaps not as strongly grounded as the rest of the data in the manuscript. Parts of the manuscript discussing this aspect could be deemphasized or clarified to reflect this.
+
+Specific comments:
+1) The alignments of PFV-NtDcen and PFV-CtDcen with CTD or NTD domains of orthoretroviral domains using SSM shows the weak structural similarity between the PFV domains and the corresponding orthoretroviral domains. This is highlighted by the highest scores for PFV-NtDcen : RSV-CTD and PFV-CtDcen : MLV-NTD alignments (Fig 2; Table S1). A more sophisticated comparison involving decoy models and the structural alignment program also fails to convincingly discriminate structural similarity between the PFV-NtDcen and -CtDcen domains with corresponding NTD and CTD domains of orthoretroviral capsids (Table 2). This analysis suggests that the PFV-CtDcen has comparable similarity to both NTD- and CTD- domains of HTLV-1, and a greater similarity to HML2 NTD. Only combining the Z-scores across all five viruses and then computing a difference-probability does a hint of similarity of corresponding NTD-NTD and CTD-CTD structures appear. This result obviously depends on the retroviral genera (based on available structures) included in this analysis. For example, table S1 showed that PFV-CtDcen had the highest alignment score with MLV-NTD. Thus, the assertion that PFV central domain as well as orthoretroviral capsid domains have evolved from a common, two domain ancestor is not as clear, as has been presented.
+
+2) In Fig 3A, the SV profile of PFV Gag CtDcen shows two species. These are attributed to monomer and dimer of PFV- CtDcen. The ability of the SV experiment to resolve the two species suggests a slow exchange rate. Why is it that the L410E/M413E sediments slower than the slower species in the WT sample, as in Fig 4C? Since a concentration-dependent SV study has been performed with the WT CtDcen, as described in the text, it would be useful to present the data. This might help determine the identity of the two species in the PFV Gag CtDcen SV experiment unambiguously. A SEC-MALS analysis of this construct would also be useful.
+
+3) One interesting result from these studies is that the two sub-domains, NTD and CTD, of PFV central domain interact rather strongly, such that they behave as a coupled body in solution. In isolation, the CTD domain dimerizes, utilizing the same region involved in its interaction with the NTD domain, leading the authors to suggest the possibility of a conformational switch in assembly, involving large scale reorientation of the two domains. Where does this putative interaction region map in the alignments with orthoretroviral CTDs? The authors do not speculate how the NTD surface of the NTD-CTD interface would behave, once the CTD is disengaged, as proposed. As an extension it is not clear how the PGQA/YEILGL motifs, which form a contiguous patch, diametrically opposite to the proposed CTD-CTD interaction surface, participate in formation of the hexameric lattice. If such a suggestion is being proposed, the authors could at least provide a graphical model encompassing all the available information, to explain this.
+
+4) Mutations in NTD-CTD interface did not influence particle production as severely as they did infectivity (Fig 5). Also, while it is not easy to judge the strength of the phenotype on the basis of a few particles, these mutations appear to disrupt core formation (Fig 6). The greater effect was on the relative content of genomic DNA in these mutant particles. It is therefore clear that the mutations at this interface have a multitude of complex, perhaps interrelated, effects. The conclusion is that the aberrant core formation leads to the loss of reverse transcription would be strengthened if some sort of semi-quantitation of EM results could be provided, to demonstrate the extent to which core formation has been compromised by these mutations.
+
+n summary, the paper presents interesting results on PFV central domain, and proposes an intriguing model for assembly, involving large NTD_CTD conformational changes. However, some of the suggestions as to the evolution from a common two domain ancestor would need more rigorous analysis to be more convincing.
+ 
+Part II – Major Issues: Key Experiments Required for Acceptance
+Please use this section to detail the key new experiments or modifications of existing experiments that should be absolutely required to validate study conclusions.
+
+Generally, there should be no more than 3 such required experiments or major modifications for a "Major Revision" recommendation. If more than 3 experiments are necessary to validate the study conclusions, then you are encouraged to recommend "Reject".
+
+
+
+Reviewer #1: (No Response)
+
+Reviewer #2: (1) The authors make a good case for the evolutionary conservation of structure/function of PFV and ortho Gag. However, they do not address two very important functional aspects of ortho CA/Gag structure and function with respect to PFV. (a) The MHR is a critical functional element in orthoretroviral Gag. Even though this is absent in PFV, I think it will benefit the field if the authors included a brief discussion of any structural or functional differences/similarities in this region, comparing their structure to the ortho structures. (b) Ctd dimerization via 'helix 9' of ortho CA proteins is critical for assembly. How does this dimer compare to the PFV Ctd dimer?
+(2) The structural comparisons with orthoretroviral CA protein structures did not seem straightforward, and the structural superpositions in Fig 2 (at least to this reviewer) indicate that PFV CtD superimposes better with the ortho CA NtD. Although I would agree that the structural similarities are there, I'm not sure if these analysis justify the assertion that the data "strongly support" the conclusions in page 10, par. 2. I agree with the statements, but I think the authors should make it clear that the evidence, especially for the 2nd sentence is really not that strong.
+(3) Also the authors should clarify that the helical connectivities between the PFV and ortho structures are the same. This is not obvious from Figure 2. It will be helpful to show a linear alignment - perhaps even with sequence - to show that the helical connectivities line up properly.
+
+Reviewer #3: (No Response)
+
+
+Part III – Minor Issues: Editorial and Data Presentation Modifications
+Please use this section for editorial suggestions as well as relatively minor modifications of existing data that would enhance clarity.
+
+
+
+Reviewer #1: Figure 1 should contain a schema of Gag
+Figure 2: The structural homology maybe better shown with ribbon or coil diagrams.
+The YxxLGL motif discussed on page 15-16 should be shown in the structure – add to Fig 1.
+Discussion: The speculation about the capsid structure and restriction by Trim5α should be reduced or eliminated in the absence of a higher order structure of PFV Gag.
+
+Reviewer #2: (1) Figs 1, 2, 4 - the NtD and Ctd should be labeled, as the ortho CA domains used for superpositions. In Figure 2D the connectivity between helices 8 and 9 of HIV-1 CA CtD is not shown. The authors should use a full-length structure for this superposition.
+(2) Fig 4 - It is not clear where the N-terminal ends of the subunits are - do the positions of the NtDs inferred from these structures make sense if the NtD is assumed to make additional homotypic interactions during assembly?
+
+Reviewer #3: (No Response)
+

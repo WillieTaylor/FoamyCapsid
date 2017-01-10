@@ -1,0 +1,77 @@
+Protein 1 is BLV_N
+found
+Protein 2 is foamC
+found
+Directory is BLV_NfoamC
+COMPND   
+SOURCE   
+ apct = 59.842518 bpct = 8.661417
+ n = 127
+ k = 907 iend = 1 jend = 122 cost = 1157.662720
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 59.842518 bpct = 8.661417
+ n = 127
+ k = 907 iend = 1 jend = 122 cost = 1157.662720
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ n = 94
+ k = 491 iend = 1 jend = 87 cost = 1509.756104
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ n = 94
+ k = 491 iend = 1 jend = 87 cost = 1509.756104
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 59.842518 bpct = 8.661417
+ a = 31 b = 32 c = 65 d = 66 e = 121 f = 125
+ ad = 7.791929 eb = 4.476216 cf = 9.663523
+ dsum = 21.931667 spare = 3
+ n = 127
+ k = 906 iend = 1 jend = 122 cost = 1130.328857
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 59.842518 bpct = 8.661417
+ a = 31 b = 32 c = 65 d = 66 e = 121 f = 125
+ ad = 7.791929 eb = 4.476216 cf = 9.663523
+ dsum = 21.931667 spare = 3
+ n = 127
+ k = 906 iend = 1 jend = 122 cost = 1130.328857
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ a = 14 b = 18 c = 44 d = 45 e = 86 f = 87
+ ad = 8.122690 eb = 5.592104 cf = 8.670487
+ dsum = 22.385281 spare = 3
+ n = 94
+ k = 491 iend = 1 jend = 86 cost = 1430.448486
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ a = 14 b = 18 c = 44 d = 45 e = 86 f = 87
+ ad = 8.122690 eb = 5.592104 cf = 8.670487
+ dsum = 22.385281 spare = 3
+ n = 94
+ k = 491 iend = 1 jend = 86 cost = 1430.448486
+ nout = 5
+127 residues in str1
+94 residues in str2
+nat1 vs rev2
+nat2 vs rev1
+nta1 vs rev2
+nta2 vs rev1
+nat1 vs rve2
+nat2 vs rve1
+nta1 vs rve2
+nta2 vs rve1
+pdb1 vs pdb2
+pdb2 vs pdb1

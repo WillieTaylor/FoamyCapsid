@@ -1,0 +1,77 @@
+Protein 1 is HML2_N
+found
+Protein 2 is foamN
+found
+Directory is HML2_NfoamN
+COMPND   
+SOURCE   
+ apct = 61.194031 bpct = 7.462687
+ n = 134
+ k = 1062 iend = 1 jend = 130 cost = 753.417847
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 61.194031 bpct = 7.462687
+ n = 134
+ k = 1062 iend = 1 jend = 130 cost = 753.417847
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 58.139534 bpct = 6.976744
+ n = 86
+ k = 411 iend = 3 jend = 82 cost = 1265.470459
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 58.139534 bpct = 6.976744
+ n = 86
+ k = 411 iend = 3 jend = 82 cost = 1265.470459
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 61.194031 bpct = 7.462687
+ a = 29 b = 31 c = 64 d = 65 e = 130 f = 134
+ ad = 10.058528 eb = 7.616421 cf = 9.757008
+ dsum = 27.431957 spare = 4
+ n = 134
+ k = 1050 iend = 1 jend = 129 cost = 915.636414
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 61.194031 bpct = 7.462687
+ a = 29 b = 31 c = 64 d = 65 e = 130 f = 134
+ ad = 10.058528 eb = 7.616421 cf = 9.757008
+ dsum = 27.431957 spare = 4
+ n = 134
+ k = 1050 iend = 1 jend = 129 cost = 915.636414
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 58.139534 bpct = 6.976744
+ a = 22 b = 26 c = 59 d = 60 e = 78 f = 79
+ ad = 7.207079 eb = 7.327272 cf = 8.721660
+ dsum = 23.256012 spare = 3
+ n = 86
+ k = 410 iend = 3 jend = 82 cost = 1275.121216
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 58.139534 bpct = 6.976744
+ a = 22 b = 26 c = 59 d = 60 e = 78 f = 79
+ ad = 7.207079 eb = 7.327272 cf = 8.721660
+ dsum = 23.256012 spare = 3
+ n = 86
+ k = 410 iend = 3 jend = 82 cost = 1275.121216
+ nout = 5
+135 residues in str1
+86 residues in str2
+nat1 vs rev2
+nat2 vs rev1
+nta1 vs rev2
+nta2 vs rev1
+nat1 vs rve2
+nat2 vs rve1
+nta1 vs rve2
+nta2 vs rve1
+pdb1 vs pdb2
+pdb2 vs pdb1

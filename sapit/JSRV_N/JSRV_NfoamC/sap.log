@@ -1,0 +1,114 @@
+ file1 = JSRV_N
+ prot1->Compound = 
+ file2 = foamC
+ prot2->Compound = 
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Cycle 1, 15 residues selected
+Cycle 2, 21 residues selected
+Cycle 3, 26 residues selected
+Cycle 4, 32 residues selected
+Cycle 5, 37 residues selected
+
+ score = 563.990967
+
+Percent sel on aln =   81.08
+Percent aln in sel =   37.04
+  F    1   0.0  13 S  
+  P    2   0.0  14 L**
+ *M    3   0.1  15 P* 
+  H    4   0.6  16 F  
+ *Q    5   1.6  17 K  
+**L    6  15.8  18 Q  
+ *G    7  16.9  19 L**
+  N    8  19.0  20 K  
+ *V    9  18.4  21 E  
+**I   10  17.3  22 L**
+ *K   11  15.4  23 K* 
+  G   12  14.5  24 I* 
+ *I   13  18.3  25 A* 
+**V   14  18.0  26 C* 
+  D   15  13.0  27 S* 
+  Q   16  13.6  28 Q  
+ *E   17   8.8  29 Y* 
+ *G   18  10.4  30 G  
+**V   19  14.8  31 P**
+**A   20  17.0  32 T* 
+ *T   21   6.6  35 F  
+**A   22   7.3  36 T**
+**Y   23   7.4  37 I**
+ *T   24   6.2  38 A  
+ *L   25   4.9  39 M* 
+ *G   26   5.9  40 I* 
+**M   27   5.4  41 E* 
+  M   28   5.8  42 N  
+  L   29   6.9  43 L* 
+ *S   30   6.7  44 G**
+  N   33   0.5  45 T  
+ *Y   34   0.0  46 Q* 
+  Q   35   0.7  47 A**
+  L   36   0.0  48 L**
+**V   37   0.3  49 P**
+ *S   38   7.5  50 P**
+  G   39   9.6  51 N**
+ *I   40   1.9  52 D* 
+**I   41   1.9  53 W**
+ *R   42   1.8  54 K* 
+  G   43   2.6  55 Q  
+ *Y   44   4.4  56 T**
+**L   45   3.4  57 A* 
+ *P   46   0.0  65 D* 
+ *G   47   0.0  66 Y* 
+ *Q   48  22.0  67 L* 
+  A   49  39.9  68 L  
+**V   50  67.3  69 W**
+**V   51  49.8  70 K* 
+  T   52  39.6  71 S  
+ *A   53  39.7  72 E* 
+**L   54  27.4  73 F**
+  Q   55  30.4  74 F* 
+  Q   56  24.5  75 E  
+  R   57  15.9  76 Q**
+**L   58  19.3  77 C**
+  D   59  19.5  78 A* 
+  Q   60  21.9  79 R  
+ *E   61   1.0  80 I* 
+  I   62   0.2  81 A**
+  D   63   0.6  82 D* 
+  N   64   0.1  83 V  
+  Q   65   0.1  84 N* 
+ *T   66   4.8 114 G  
+ *R   67   1.6 115 A* 
+ *A   68   1.3 116 Y**
+  E   69   2.5 117 A* 
+ *T   70   7.7 118 Q* 
+**F   71  42.2 119 I**
+ *I   72  18.8 120 S**
+  Q   73  14.4 121 N* 
+ *H   74  26.6 122 A* 
+**L   75  47.6 123 A**
+ *N   76  46.6 124 R**
+ *A   77  44.8 125 Q* 
+**V   78  51.8 126 A**
+**Y   79  41.1 127 W* 
+ *E   80  36.4 128 K* 
+  I   81  40.5 129 R* 
+ *L   82   0.1 130 L**
+**G   83   0.9 131 P  
+foamC Weighted RMSd =   4.373 over 81 atoms 55.233990 1180.402710   8.6 51.986050 50.093487 58.129444 64.634476
+foamC Un-weighted RMSd =   3.801 over best 33 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   4.351 over best 42 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   4.636 over best 53 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   4.876 over best 60 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   4.880 over best 64 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   4.828 over best 67 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   4.864 over best 68 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   4.869 over best 69 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   5.046 over best 71 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   5.146 over best 75 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   5.232 over best 78 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   5.281 over best 79 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   5.412 over best 81 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   5.412 over best 81 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   5.412 over best 81 atoms ( 1180.402710    8.6 )
+foamC Un-weighted RMSd =   5.412 over all 81 matched atoms 55.233990 1180.402710    8.6 51.986050 50.093487 58.129444 64.634476

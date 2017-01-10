@@ -1,0 +1,1622 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{47}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\textsf{#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem{LindemannDet11}
+\begin{barticle}
+\bauthor{\bsnm{Lindemann}, \binits{D.}},
+\bauthor{\bsnm{Rethwilm}, \binits{A.}}:
+\batitle{Foamy virus biology and its application for vector development}.
+\bjtitle{Viruses}
+\bvolume{3},
+\bfpage{561}--\blpage{585}
+(\byear{2011})
+\end{barticle}
+\endbibitem
+
+%%% 2
+\bibitem{MullersEet13}
+\begin{barticle}
+\bauthor{\bsnm{Müllers}, \binits{E.}}:
+\batitle{The foamy virus {Gag} proteins: what makes them different?}
+\bjtitle{Viruses}
+\bvolume{5},
+\bfpage{1023}--\blpage{1041}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 3
+\bibitem{FlugelRMet03}
+\begin{barticle}
+\bauthor{\bsnm{Flügel}, \binits{R.M.}},
+\bauthor{\bsnm{Pfrepper}, \binits{K.I.}}:
+\batitle{Proteolytic processing of foamy virus {Gag} and {Pol} proteins}.
+\bjtitle{Curr. Top. Microbiol. Immunol}
+\bvolume{277},
+\bfpage{63}--\blpage{88}
+(\byear{2003})
+\end{barticle}
+\endbibitem
+
+%%% 4
+\bibitem{GoldstoneDCet13}
+\begin{barticle}
+\bauthor{\bsnm{Goldstone}, \binits{D.C.}},
+\bauthor{\bsnm{Flower}, \binits{T.G.}},
+\bauthor{\bsnm{Ball}, \binits{N.J.}},
+\bauthor{\bsnm{Sanz-Ramos}, \binits{M.}},
+\bauthor{\bsnm{Yap}, \binits{M.W.}},
+\bauthor{\bsnm{Ogrodowicz}, \binits{R.W.}},
+\bauthor{\bsnm{Stanke}, \binits{N.}},
+\bauthor{\bsnm{Reh}, \binits{J.}},
+\bauthor{\bsnm{Lindemann}, \binits{D.}},
+\bauthor{\bsnm{Stoye}, \binits{J.P.}},
+\bauthor{\bsnm{Taylor}, \binits{I.A.}}:
+\batitle{A unique spumavirus {Gag} {N}-terminal domain with functional
+  properties of orthoretroviral matrix and capsid}.
+\bjtitle{PLoS pathogens}
+\bvolume{9},
+\bfpage{1003376}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 5
+\bibitem{BallNJet16}
+\begin{barticle}
+\bauthor{\bsnm{Ball}, \binits{N.J.}},
+\bauthor{\bsnm{Nicastro}, \binits{G.}},
+\bauthor{\bsnm{Dutta}, \binits{M.}},
+\bauthor{\bsnm{Pollard}, \binits{D.}},
+\bauthor{\bsnm{Goldstone}, \binits{D.C.}},
+\bauthor{\bsnm{Sanz-Ramos}, \binits{M.}},
+\bauthor{\bsnm{Ramos}, \binits{A.}},
+\bauthor{\bsnm{Müllers}, \binits{E.}},
+\bauthor{\bsnm{Stirnnagel}, \binits{K.}},
+\bauthor{\bsnm{Stanke}, \binits{N.}},
+\bauthor{\bsnm{Lindemann}, \binits{D.}},
+\bauthor{\bsnm{Stoye}, \binits{J.P.}},
+\bauthor{\bsnm{Taylor}, \binits{W.R.}},
+\bauthor{\bsnm{Rosenthal}, \binits{P.B.}},
+\bauthor{\bsnm{Taylor}, \binits{I.A.}}:
+\batitle{Structure of a spumaretrovirus gag central domain reveals an ancient
+  retroviral capsid}.
+\bjtitle{{PLoS} Path.}
+\bvolume{12},
+\bfpage{1005981}
+(\byear{2016}).
+\bcomment{doi:10.1371/journal.ppat.1005981}
+\end{barticle}
+\endbibitem
+
+%%% 6
+\bibitem{TaylorWR99a}
+\begin{barticle}
+\bauthor{\bsnm{Taylor}, \binits{W.R.}}:
+\batitle{Protein structure alignment using iterated double dynamic
+  programming}.
+\bjtitle{Prot. Sci}
+\bvolume{8},
+\bfpage{654}--\blpage{665}
+(\byear{1999})
+\end{barticle}
+\endbibitem
+
+%%% 7
+\bibitem{HolmLet93a}
+\begin{barticle}
+\bauthor{\bsnm{Holm}, \binits{L.}},
+\bauthor{\bsnm{Sander}, \binits{C.}}:
+\batitle{Protein-structure comparison by alignment of distance matrices}.
+\bjtitle{J. Molec. Biol.}
+\bvolume{233},
+\bfpage{123}--\blpage{138}
+(\byear{1993})
+\end{barticle}
+\endbibitem
+
+%%% 8
+\bibitem{ZhangWet15}
+\begin{barticle}
+\bauthor{\bsnm{Zhang}, \binits{W.}},
+\bauthor{\bsnm{Wu}, \binits{J.}},
+\bauthor{\bsnm{Ward}, \binits{M.D.}},
+\bauthor{\bsnm{Yang}, \binits{S.}},
+\bauthor{\bsnm{Chuang}, \binits{Y.A.}},
+\bauthor{\bsnm{Xiao}, \binits{M.}},
+\bauthor{\bsnm{Li}, \binits{R.}},
+\bauthor{\bsnm{Leahy}, \binits{D.J.}},
+\bauthor{\bsnm{Worley}, \binits{P.F.}}:
+\batitle{Structural basis of arc binding to synaptic proteins: implications for
+  cognitive disease}.
+\bjtitle{Neuron}
+\bvolume{86},
+\bfpage{490}--\blpage{500}
+(\byear{2015})
+\end{barticle}
+\endbibitem
+
+%%% 9
+\bibitem{TaylorWR99b}
+\begin{barticle}
+\bauthor{\bsnm{Taylor}, \binits{W.R.}}:
+\batitle{Protein structure domain identification}.
+\bjtitle{Prot. Engng.}
+\bvolume{12},
+\bfpage{203}--\blpage{216}
+(\byear{1999})
+\end{barticle}
+\endbibitem
+
+%%% 10
+\bibitem{TaylorWR06a}
+\begin{barticle}
+\bauthor{\bsnm{Taylor}, \binits{W.R.}}:
+\batitle{Decoy models for protein structure score normalisation}.
+\bjtitle{J. Molec. Biol.}
+\bvolume{357},
+\bfpage{676}--\blpage{699}
+(\byear{2006})
+\end{barticle}
+\endbibitem
+
+%%% 11
+\bibitem{LevittMet98}
+\begin{barticle}
+\bauthor{\bsnm{Levitt}, \binits{M.}},
+\bauthor{\bsnm{Gerstein}, \binits{M.}}:
+\batitle{A unified statistical framework for sequence comparison and structure
+  comparison}.
+\bjtitle{Proc Natl Acad Sci USA}
+\bvolume{95},
+\bfpage{5913}--\blpage{5920}
+(\byear{1998})
+\end{barticle}
+\endbibitem
+
+%%% 12
+\bibitem{CampillosMet06}
+\begin{barticle}
+\bauthor{\bsnm{Campillos}, \binits{M.}},
+\bauthor{\bsnm{Doerks}, \binits{T.}},
+\bauthor{\bsnm{Shah}, \binits{P.K.}},
+\bauthor{\bsnm{Bork}, \binits{P.}}:
+\batitle{Computational characterization of multiple gag-like human proteins}.
+\bjtitle{Trends in Genetics}
+\bvolume{22},
+\bfpage{285}--\blpage{589}
+(\byear{2006})
+\end{barticle}
+\endbibitem
+
+%%% 13
+\bibitem{ChowdhurySet06}
+\begin{barticle}
+\bauthor{\bsnm{Chowdhury}, \binits{S.}},
+\bauthor{\bsnm{Shepherd}, \binits{J.D.}},
+\bauthor{\bsnm{Okuno}, \binits{H.}},
+\bauthor{\bsnm{Lyford}, \binits{G.}},
+\bauthor{\bsnm{Petralia}, \binits{R.S.}},
+\bauthor{\bsnm{Plath}, \binits{N.}},
+\bauthor{\bsnm{Kuhl}, \binits{D.}},
+\bauthor{\bsnm{Huganir}, \binits{R.L.}},
+\bauthor{\bsnm{Worley}, \binits{P.F.}}:
+\batitle{{Arc/Arg3.1} interacts with the endocytic machinery to regulate {AMPA}
+  receptor trafficking}.
+\bjtitle{Neuron}
+\bvolume{52},
+\bfpage{445}--\blpage{459}
+(\byear{2006})
+\end{barticle}
+\endbibitem
+
+%%% 14
+\bibitem{ParkSet08}
+\begin{barticle}
+\bauthor{\bsnm{Park}, \binits{S.}},
+\bauthor{\bsnm{Park}, \binits{J.M.}},
+\bauthor{\bsnm{Kim}, \binits{S.}},
+\bauthor{\bsnm{Kim}, \binits{J.A.}},
+\bauthor{\bsnm{Shepherd}, \binits{J.D.}},
+\bauthor{\bsnm{Smith-Hicks}, \binits{C.L.}},
+\bauthor{\bsnm{Chowdhury}, \binits{S.}},
+\bauthor{\bsnm{Kaufmann}, \binits{W.}},
+\bauthor{\bsnm{Kuhl}, \binits{D.}},
+\bauthor{\bsnm{Ryazanov}, \binits{A.G.}},
+\bauthor{\bparticle{et} \bsnm{al.}}:
+\batitle{Elongation factor 2 and fragile {X} mental retardation protein control
+  the dynamic translation of {Arc/Arg3.1} essential for {mGluR-LTD}}.
+\bjtitle{Neuron}
+\bvolume{59},
+\bfpage{70}--\blpage{83}
+(\byear{2008})
+\end{barticle}
+\endbibitem
+
+%%% 15
+\bibitem{ShepherdJDet06}
+\begin{botherref}
+\oauthor{\bsnm{Shepherd}, \binits{J.D.}},
+\oauthor{\bsnm{Rumbaugh}, \binits{G.}},
+\oauthor{\bsnm{Wu}, \binits{J.}},
+\oauthor{\bsnm{Chowdhury}, \binits{S.}},
+\oauthor{\bsnm{Plath}, \binits{N.}},
+\oauthor{\bsnm{Kuhl}, \binits{D.}},
+\oauthor{\bsnm{Huganir}, \binits{R.L.}},
+\oauthor{\bsnm{Worley}, \binits{P.F.}}:
+Arc/arg3.1 mediates homeostatic synaptic scaling of {AMPA} receptors.
+Neuron 52, 475-484
+(2006)
+\end{botherref}
+\endbibitem
+
+%%% 16
+\bibitem{WaungMWet08}
+\begin{barticle}
+\bauthor{\bsnm{Waung}, \binits{M.W.}},
+\bauthor{\bsnm{Pfeiffer}, \binits{B.E.}},
+\bauthor{\bsnm{Nosyreva}, \binits{E.D.}},
+\bauthor{\bsnm{Ronesi}, \binits{J.A.}},
+\bauthor{\bsnm{Huber}, \binits{K.M.}}:
+\batitle{Rapid translation of {Arc/Arg3.1} selectively mediates
+  {mGluR}-dependent {LTD} through persistent increases in {AMPAR} endocytosis
+  rate}.
+\bjtitle{Neuron}
+\bvolume{59},
+\bfpage{84}--\blpage{97}
+(\byear{2008})
+\end{barticle}
+\endbibitem
+
+%%% 17
+\bibitem{NiereFet12}
+\begin{barticle}
+\bauthor{\bsnm{Niere}, \binits{F.}},
+\bauthor{\bsnm{Wilkerson}, \binits{J.R.}},
+\bauthor{\bsnm{Huber}, \binits{K.M.}}:
+\batitle{Evidence for a fragile x mental retardation protein-mediated
+  translational switch in metabotropic glutamate receptor-triggered arc
+  translation and long-term depression}.
+\bjtitle{J. Neurosci.}
+\bvolume{32},
+\bfpage{5924}--\blpage{5936}
+(\byear{2012})
+\end{barticle}
+\endbibitem
+
+%%% 18
+\bibitem{VolffJN09}
+\begin{barticle}
+\bauthor{\bsnm{Volff}, \binits{J.N.}}:
+\batitle{Cellular genes derived from {Gypsy/Ty3} retrotransposons in mammalian
+  genomes}.
+\bjtitle{Annals New York Acad. Sci.}
+\bvolume{1178},
+\bfpage{233}--\blpage{243}
+(\byear{2009})
+\end{barticle}
+\endbibitem
+
+%%% 19
+\bibitem{LlorensCet08}
+\begin{barticle}
+\bauthor{\bsnm{Llorens}, \binits{C.}},
+\bauthor{\bsnm{Fares}, \binits{M.A.}},
+\bauthor{\bsnm{Moya}, \binits{A.}}:
+\batitle{Relationships of gag-pol diversity between {Ty3/Gypsy} and
+  retroviridae {LTR} retroelements and the three kings hypothesis.}
+\bjtitle{BMC Evol. Biol.}
+\bvolume{8},
+\bfpage{276}
+(\byear{2008})
+\end{barticle}
+\endbibitem
+
+%%% 20
+\bibitem{HillCPet96}
+\begin{barticle}
+\bauthor{\bsnm{Hill}, \binits{C.P.}},
+\bauthor{\bsnm{Worthylake}, \binits{D.}},
+\bauthor{\bsnm{Bancroft}, \binits{D.P.}},
+\bauthor{\bsnm{Christensen}, \binits{A.M.}},
+\bauthor{\bsnm{Sundquist}, \binits{W.I.}}:
+\batitle{Crystal structures of the trimeric human immunodeficiency virus type 1
+  matrix protein: implications for membrane association and assembly}.
+\bjtitle{Proc. Natl. Acad. Sci. U.S.A.}
+\bvolume{93},
+\bfpage{3099}--\blpage{3104}
+(\byear{1996})
+\end{barticle}
+\endbibitem
+
+%%% 21
+\bibitem{PrchalJet12}
+\begin{barticle}
+\bauthor{\bsnm{Prchal}, \binits{J.}},
+\bauthor{\bsnm{Srb}, \binits{P.}},
+\bauthor{\bsnm{Hunter}, \binits{E.}},
+\bauthor{\bsnm{Ruml}, \binits{T.}},
+\bauthor{\bsnm{Hrabal}, \binits{R.}}:
+\batitle{The structure of myristoylated mason-pfizer monkey virus matrix
+  protein and the role of phosphatidylinositol-(4,5)-bisphosphate in its
+  membrane binding}.
+\bjtitle{J. Mol. Biol.}
+\bvolume{423},
+\bfpage{427}--\blpage{438}
+(\byear{2012})
+\end{barticle}
+\endbibitem
+
+%%% 22
+\bibitem{RaoZet95}
+\begin{barticle}
+\bauthor{\bsnm{Rao}, \binits{Z.}},
+\bauthor{\bsnm{Belyaev}, \binits{A.S.}},
+\bauthor{\bsnm{Fry}, \binits{E.}},
+\bauthor{\bsnm{Roy}, \binits{P.}},
+\bauthor{\bsnm{Jones}, \binits{I.M.}},
+\bauthor{\bsnm{Stuart}, \binits{D.I.}}:
+\batitle{Crystal structure of {SIV} matrix antigen and implications for virus
+  assembly}.
+\bjtitle{Nature}
+\bvolume{378},
+\bfpage{743}--\blpage{747}
+(\byear{1995})
+\end{barticle}
+\endbibitem
+
+%%% 23
+\bibitem{RiffelNet02}
+\begin{barticle}
+\bauthor{\bsnm{Riffel}, \binits{N.}},
+\bauthor{\bsnm{Harlos}, \binits{K.}},
+\bauthor{\bsnm{Iourin}, \binits{O.}},
+\bauthor{\bsnm{Rao}, \binits{Z.}},
+\bauthor{\bsnm{Kingsman}, \binits{A.}},
+\bauthor{\bsnm{Stuart}, \binits{D.I.}},
+\bauthor{\bsnm{Fry}, \binits{E.}}:
+\batitle{Atomic resolution structure of moloney murine leukemia virus matrix
+  protein and its relationship to other retroviral matrix proteins}.
+\bjtitle{Structure}
+\bvolume{10},
+\bfpage{1627}--\blpage{1636}
+(\byear{2002})
+\end{barticle}
+\endbibitem
+
+%%% 24
+\bibitem{SongSUet94}
+\begin{botherref}
+\oauthor{\bsnm{Song}, \binits{S.U.}},
+\oauthor{\bsnm{Gerasimova}, \binits{T.}},
+\oauthor{\bsnm{Kurkulos}, \binits{M.}},
+\oauthor{\bsnm{Boeke}, \binits{J.D.}},
+\oauthor{\bsnm{Corces}, \binits{V.G.}}:
+An env-like protein encoded by a drosophila retroelement: evidence that gypsy
+  is an infectious retrovirus.
+Gene Dev 8, 2046-2057
+(1994)
+\end{botherref}
+\endbibitem
+
+%%% 25
+\bibitem{TobalyJet01}
+\begin{botherref}
+\oauthor{\bsnm{Tobaly-Tapiero}, \binits{J.}},
+\oauthor{\bsnm{Bittoun}, \binits{P.}},
+\oauthor{\bsnm{Giron}, \binits{M.L.}},
+\oauthor{\bsnm{Neves}, \binits{M.}},
+\oauthor{\bsnm{Koken}, \binits{M.}},
+\oauthor{\bsnm{Saib}, \binits{A.}},
+\oauthor{\bparticle{de} \bsnm{The}, \binits{H.}}:
+Human foamy virus capsid formation requires an interaction domain in the
+  {N}-terminus of {Gag}.
+J Virol 75, 4367-4375
+(2001)
+\end{botherref}
+\endbibitem
+
+%%% 26
+\bibitem{ObalGet15}
+\begin{barticle}
+\bauthor{\bsnm{Obal}, \binits{G.}},
+\bauthor{\bsnm{Trajtenberg}, \binits{F.}},
+\bauthor{\bsnm{Carrion}, \binits{F.}},
+\bauthor{\bsnm{Tome}, \binits{L.}},
+\bauthor{\bsnm{Larrieux}, \binits{N.}},
+\bauthor{\bsnm{Zhang}, \binits{X.}},
+\bauthor{\bsnm{Pritsch}, \binits{O.}},
+\bauthor{\bsnm{Buschiazzo}, \binits{A.}}:
+\batitle{Conformational plasticity of a native retroviral capsid revealed by
+  {X}-ray crystallography.}
+\bjtitle{Science}
+\bvolume{349},
+\bfpage{95}--\blpage{98}
+(\byear{2015}).
+\bcomment{DOI: 10.1126/science.aaa5182}
+\end{barticle}
+\endbibitem
+
+%%% 27
+\bibitem{GambleTRet96}
+\begin{barticle}
+\bauthor{\bsnm{Gamble}, \binits{T.R.}},
+\bauthor{\bsnm{Vajdos}, \binits{F.F.}},
+\bauthor{\bsnm{Yoo}, \binits{S.}},
+\bauthor{\bsnm{Worthylake}, \binits{D.K.}},
+\bauthor{\bsnm{Houseweart}, \binits{M.}},
+\bauthor{\bsnm{Sundquist}, \binits{W.I.}},
+\bauthor{\bsnm{Hill}, \binits{C.P.}}:
+\batitle{Crystal structure of human cyclophilin {A} bound to the amino-terminal
+  domain of {HIV-1} capsid.}
+\bjtitle{Cell}
+\bvolume{87},
+\bfpage{1285}--\blpage{1294}
+(\byear{1996})
+\end{barticle}
+\endbibitem
+
+%%% 28
+\bibitem{WorthylakeDKet99}
+\begin{barticle}
+\bauthor{\bsnm{Worthylake}, \binits{D.K.}},
+\bauthor{\bsnm{Wang}, \binits{H.}},
+\bauthor{\bsnm{Yoo}, \binits{S.}},
+\bauthor{\bsnm{Sundquist}, \binits{W.I.}},
+\bauthor{\bsnm{Hill}, \binits{C.P.}}:
+\batitle{Structures of the {HIV-1} capsid protein dimerization domain at
+  2.6\aa\ resolution.}
+\bjtitle{Acta Crystallogr.,Sect.D}
+\bvolume{55},
+\bfpage{85}--\blpage{92}
+(\byear{1999}).
+\bcomment{DOI: 10.1107/S0907444998007689}
+\end{barticle}
+\endbibitem
+
+%%% 29
+\bibitem{PornillosOet09}
+\begin{barticle}
+\bauthor{\bsnm{Pornillos}, \binits{O.}},
+\bauthor{\bsnm{Ganser-Pornillos}, \binits{B.K.}},
+\bauthor{\bsnm{Kelly}, \binits{B.N.}},
+\bauthor{\bsnm{Hua}, \binits{Y.}},
+\bauthor{\bsnm{Whitby}, \binits{F.G.}},
+\bauthor{\bsnm{Stout}, \binits{C.D.}},
+\bauthor{\bsnm{Sundquist}, \binits{W.I.}},
+\bauthor{\bsnm{Hill}, \binits{C.P.}},
+\bauthor{\bsnm{Yeager}, \binits{M.}}:
+\batitle{{X}-ray structures of the hexameric building block of the {HIV}
+  capsid.}
+\bjtitle{Cell}
+\bvolume{137},
+\bfpage{1282}--\blpage{1292}
+(\byear{2009}).
+\bcomment{DOI: 10.1016/j.cell.2009.04.063}
+\end{barticle}
+\endbibitem
+
+%%% 30
+\bibitem{MortuzaGBet08}
+\begin{barticle}
+\bauthor{\bsnm{Mortuza}, \binits{G.B.}},
+\bauthor{\bsnm{Dodding}, \binits{M.P.}},
+\bauthor{\bsnm{Goldstone}, \binits{D.C.}},
+\bauthor{\bsnm{Haire}, \binits{L.F.}},
+\bauthor{\bsnm{Stoye}, \binits{J.P.}},
+\bauthor{\bsnm{Taylor}, \binits{I.A.}}:
+\batitle{Structure of {B}-tropic {MLV} capsid {N}-terminal domain.}
+\bjtitle{J. Mol. Biol.}
+\bvolume{376},
+\bfpage{1493}--\blpage{1508}
+(\byear{2008})
+\end{barticle}
+\endbibitem
+
+%%% 31
+\bibitem{KhorasanizadehSet99}
+\begin{barticle}
+\bauthor{\bsnm{Khorasanizadeh}, \binits{S.}},
+\bauthor{\bsnm{Campos-Olivas}, \binits{R.}},
+\bauthor{\bsnm{Clark}, \binits{C.A.}},
+\bauthor{\bsnm{Summers}, \binits{M.F.}}:
+\batitle{Sequence-specific {1H, 13C and 15N} chemical shift assignment and
+  secondary structure of the {HTLV-I} capsid protein.}
+\bjtitle{J. Biomol. NMR}
+\bvolume{14},
+\bfpage{199}--\blpage{200}
+(\byear{1999})
+\end{barticle}
+\endbibitem
+
+%%% 32
+\bibitem{MortuzaGBet09}
+\begin{barticle}
+\bauthor{\bsnm{Mortuza}, \binits{G.B.}},
+\bauthor{\bsnm{Goldstone}, \binits{D.C.}},
+\bauthor{\bsnm{Pashley}, \binits{C.}},
+\bauthor{\bsnm{Haire}, \binits{L.F.}},
+\bauthor{\bsnm{Palmarini}, \binits{M.}},
+\bauthor{\bsnm{Taylor}, \binits{W.R.}},
+\bauthor{\bsnm{Stoye}, \binits{J.P.}},
+\bauthor{\bsnm{Taylor}, \binits{I.A.}}:
+\batitle{Structure of the capsid amino terminal domain from the betaretrovirus,
+  {J}aagsiekte sheep retrovirus.}
+\bjtitle{J. Molec. Biol.}
+\bvolume{386},
+\bfpage{1179}--\blpage{1192}
+(\byear{2009})
+\end{barticle}
+\endbibitem
+
+%%% 33
+\bibitem{MortuzaGBet04}
+\begin{barticle}
+\bauthor{\bsnm{Mortuza}, \binits{G.B.}},
+\bauthor{\bsnm{Haire}, \binits{L.F.}},
+\bauthor{\bsnm{Stevens}, \binits{A.}},
+\bauthor{\bsnm{Smerdon}, \binits{S.J.}},
+\bauthor{\bsnm{Stoye}, \binits{J.P.}},
+\bauthor{\bsnm{Taylor}, \binits{I.A.}}:
+\batitle{High-resolution structure of a retroviral capsid hexameric
+  amino-terminal domain.}
+\bjtitle{Nature}
+\bvolume{431},
+\bfpage{481}--\blpage{485}
+(\byear{2004})
+\end{barticle}
+\endbibitem
+
+%%% 34
+\bibitem{MacekPet09}
+\begin{barticle}
+\bauthor{\bsnm{Macek}, \binits{P.}},
+\bauthor{\bsnm{Chmelik}, \binits{J.}},
+\bauthor{\bsnm{Krizova}, \binits{I.}},
+\bauthor{\bsnm{Kaderavek}, \binits{P.}},
+\bauthor{\bsnm{Padrta}, \binits{P.}},
+\bauthor{\bsnm{Zidek}, \binits{L.}},
+\bauthor{\bsnm{Wildova}, \binits{M.}},
+\bauthor{\bsnm{Hadravova}, \binits{R.}},
+\bauthor{\bsnm{Chaloupkova}, \binits{R.}},
+\bauthor{\bsnm{Pichova}, \binits{I.}},
+\bauthor{\bsnm{Ruml}, \binits{T.}},
+\bauthor{\bsnm{Rumlova}, \binits{M.}},
+\bauthor{\bsnm{Sklenar}, \binits{V.}}:
+\batitle{{NMR} structure of the {N}-terminal domain of capsid protein from the
+  mason-pfizer monkey virus}.
+\bjtitle{J. Mol. Biol.}
+\bvolume{392},
+\bfpage{100}--\blpage{114}
+(\byear{2009}).
+\bcomment{DOI: 10.1016/j.jmb.2009.06.029}
+\end{barticle}
+\endbibitem
+
+%%% 35
+\bibitem{GoldstoneDCet10}
+\begin{barticle}
+\bauthor{\bsnm{Goldstone}, \binits{D.C.}},
+\bauthor{\bsnm{Yap}, \binits{M.W.}},
+\bauthor{\bsnm{Robertson}, \binits{L.E.}},
+\bauthor{\bsnm{Haire}, \binits{L.F.}},
+\bauthor{\bsnm{Taylor}, \binits{W.R.}},
+\bauthor{\bsnm{Katzourakis}, \binits{A.}},
+\bauthor{\bsnm{Stoye}, \binits{J.P.}},
+\bauthor{\bsnm{Taylor}, \binits{I.A.}}:
+\batitle{Structural and functional analysis of prehistoric lentiviruses
+  uncovers an ancient molecular interface.}
+\bjtitle{Cell Host Microbe}
+\bvolume{8},
+\bfpage{248}--\blpage{259}
+(\byear{2010})
+\end{barticle}
+\endbibitem
+
+%%% 36
+\bibitem{BaileyGDet09}
+\begin{barticle}
+\bauthor{\bsnm{Bailey}, \binits{G.D.}},
+\bauthor{\bsnm{Hyun}, \binits{J.K.}},
+\bauthor{\bsnm{Mitra}, \binits{A.K.}},
+\bauthor{\bsnm{Kingston}, \binits{R.L.}}:
+\batitle{Proton-linked dimerization of a retroviral capsid protein initiates
+  capsid assembly}.
+\bjtitle{Structure}
+\bvolume{17},
+\bfpage{737}--\blpage{748}
+(\byear{2009}).
+\bcomment{DOI: 10.1016/j.str.2009.03.010}
+\end{barticle}
+\endbibitem
+
+%%% 37
+\bibitem{RippmannFet91a}
+\begin{barticle}
+\bauthor{\bsnm{Rippmann}, \binits{F.}},
+\bauthor{\bsnm{Taylor}, \binits{W.R.}}:
+\batitle{Visualization of structural similarity in proteins}.
+\bjtitle{J. Molec. Graph.}
+\bvolume{9},
+\bfpage{3}--\blpage{16}
+(\byear{1991})
+\end{barticle}
+\endbibitem
+
+%%% 38
+\bibitem{LevittMet77}
+\begin{barticle}
+\bauthor{\bsnm{Levitt}, \binits{M.}},
+\bauthor{\bsnm{Greer}, \binits{J.}}:
+\batitle{Automatic identification of secondary structure in globular proteins}.
+\bjtitle{J. Molec. Biol.}
+\bvolume{114},
+\bfpage{181}--\blpage{293}
+(\byear{1977})
+\end{barticle}
+\endbibitem
+
+%%% 39
+\bibitem{McLachlanAD84}
+\begin{barticle}
+\bauthor{\bsnm{McLachlan}, \binits{A.D.}}:
+\batitle{How alike are the shapes of two random chains?}
+\bjtitle{Biopolymers}
+\bvolume{23},
+\bfpage{1325}--\blpage{1331}
+(\byear{1984})
+\end{barticle}
+\endbibitem
+
+%%% 40
+\bibitem{CohenFEet80d}
+\begin{barticle}
+\bauthor{\bsnm{Cohen}, \binits{F.E.}},
+\bauthor{\bsnm{Sternberg}, \binits{M.J.E.}}:
+\batitle{On the prediction of protein structure: the significance of the
+  root-mean-square deviation}.
+\bjtitle{J. Molec. Biol.}
+\bvolume{138},
+\bfpage{321}--\blpage{333}
+(\byear{1980})
+\end{barticle}
+\endbibitem
+
+%%% 41
+\bibitem{MaiorovVNet94}
+\begin{barticle}
+\bauthor{\bsnm{Maiorov}, \binits{V.N.}},
+\bauthor{\bsnm{Crippen}, \binits{G.M.}}:
+\batitle{Significance of root-mean-square deviation in comparing
+  three-dimensional structures of globular proteins}.
+\bjtitle{J. Mol. Biol.}
+\bvolume{235},
+\bfpage{625}--\blpage{634}
+(\byear{1994})
+\end{barticle}
+\endbibitem
+
+%%% 42
+\bibitem{PressWHet86}
+\begin{bbook}
+\bauthor{\bsnm{Press}, \binits{W.H.}},
+\bauthor{\bsnm{Flannery}, \binits{B.P.}},
+\bauthor{\bsnm{Teukolsky}, \binits{S.A.}},
+\bauthor{\bsnm{Vetterling}, \binits{W.T.}}:
+\bbtitle{Numerical Recipes: The Art of Scientific Computing}.
+\bpublisher{Cambridge Univ. Press (Cambridge, UK)}, \blocation{???}
+(\byear{1986})
+\end{bbook}
+\endbibitem
+
+%%% 43
+\bibitem{BrownNPet96}
+\begin{barticle}
+\bauthor{\bsnm{Brown}, \binits{N.P.}},
+\bauthor{\bsnm{Orengo}, \binits{C.A.}},
+\bauthor{\bsnm{Taylor}, \binits{W.R.}}:
+\batitle{A protein structure comparison methodology}.
+\bjtitle{Computers Chem.}
+\bvolume{20},
+\bfpage{359}--\blpage{380}
+(\byear{1996})
+\end{barticle}
+\endbibitem
+
+%%% 44
+\bibitem{AszodiAet97a}
+\begin{barticle}
+\bauthor{\bsnm{Asz\'{o}di}, \binits{A.}},
+\bauthor{\bsnm{Taylor}, \binits{W.R.}}:
+\batitle{Hierarchical inertial projection: a fast distance matrix embedding
+  algorithm.}
+\bjtitle{Computers Chem.}
+\bvolume{21},
+\bfpage{13}--\blpage{23}
+(\byear{1997})
+\end{barticle}
+\endbibitem
+
+%%% 45
+\bibitem{TaylorWRet01b}
+\begin{barticle}
+\bauthor{\bsnm{Taylor}, \binits{W.R.}},
+\bauthor{\bsnm{May}, \binits{A.C.W.}},
+\bauthor{\bsnm{Brown}, \binits{N.P.}},
+\bauthor{\bsnm{Asz\'odi}, \binits{A.}}:
+\batitle{Protein structure: Geometry, topology and classification}.
+\bjtitle{Rep. Prog. Phys.}
+\bvolume{64},
+\bfpage{517}--\blpage{590}
+(\byear{2001})
+\end{barticle}
+\endbibitem
+
+%%% 46
+\bibitem{TaylorWRet09a}
+\begin{barticle}
+\bauthor{\bsnm{Taylor}, \binits{W.R.}},
+\bauthor{\bsnm{Chelliah}, \binits{V.}},
+\bauthor{\bsnm{Hollup}, \binits{S.M.}},
+\bauthor{\bsnm{MacDonald}, \binits{J.T.}},
+\bauthor{\bsnm{Jonassen}, \binits{I.}}:
+\batitle{Probing the ``dark matter'' of protein fold-space}.
+\bjtitle{Structure}
+\bvolume{17},
+\bfpage{1244}--\blpage{1252}
+(\byear{2009})
+\end{barticle}
+\endbibitem
+
+%%% 47
+\bibitem{AszodiAet94a}
+\begin{barticle}
+\bauthor{\bsnm{Asz\'{o}di}, \binits{A.}},
+\bauthor{\bsnm{Taylor}, \binits{W.R.}}:
+\batitle{Folding polypeptide $\alpha$-carbon backbones by distance geometry
+  methods}.
+\bjtitle{Biopolymers}
+\bvolume{34},
+\bfpage{489}--\blpage{506}
+(\byear{1994})
+\end{barticle}
+\endbibitem
+
+\end{thebibliography}
+
+\newcommand{\BMCxmlcomment}[1]{}
+
+\BMCxmlcomment{
+
+<refgrp>
+
+<bibl id="B1">
+  <title><p>Foamy virus biology and its application for vector
+  development</p></title>
+  <aug>
+    <au><snm>Lindemann</snm><fnm>D.</fnm></au>
+    <au><snm>Rethwilm</snm><fnm>A.</fnm></au>
+  </aug>
+  <source>Viruses</source>
+  <pubdate>2011</pubdate>
+  <volume>3</volume>
+  <fpage>561</fpage>
+  <lpage>-585</lpage>
+</bibl>
+
+<bibl id="B2">
+  <title><p>The foamy virus {Gag} proteins: what makes them
+  different?</p></title>
+  <aug>
+    <au><snm>Müllers</snm><fnm>E.</fnm></au>
+  </aug>
+  <source>Viruses</source>
+  <pubdate>2013</pubdate>
+  <volume>5</volume>
+  <fpage>1023</fpage>
+  <lpage>-1041</lpage>
+</bibl>
+
+<bibl id="B3">
+  <title><p>Proteolytic processing of foamy virus {Gag} and {Pol}
+  proteins</p></title>
+  <aug>
+    <au><snm>Flügel</snm><fnm>R.M.</fnm></au>
+    <au><snm>Pfrepper</snm><fnm>K.I.</fnm></au>
+  </aug>
+  <source>Curr. Top. Microbiol. Immunol</source>
+  <pubdate>2003</pubdate>
+  <volume>277</volume>
+  <fpage>63</fpage>
+  <lpage>-88</lpage>
+</bibl>
+
+<bibl id="B4">
+  <title><p>A unique spumavirus {Gag} {N}-terminal domain with functional
+  properties of orthoretroviral matrix and capsid</p></title>
+  <aug>
+    <au><snm>Goldstone</snm><fnm>D.C.</fnm></au>
+    <au><snm>Flower</snm><fnm>T.G.</fnm></au>
+    <au><snm>Ball</snm><fnm>N.J.</fnm></au>
+    <au><snm>Sanz Ramos</snm><fnm>M.</fnm></au>
+    <au><snm>Yap</snm><fnm>M.W.</fnm></au>
+    <au><snm>Ogrodowicz</snm><fnm>R.W.</fnm></au>
+    <au><snm>Stanke</snm><fnm>N.</fnm></au>
+    <au><snm>Reh</snm><fnm>J.</fnm></au>
+    <au><snm>Lindemann</snm><fnm>D.</fnm></au>
+    <au><snm>Stoye</snm><fnm>J.P.</fnm></au>
+    <au><snm>Taylor</snm><fnm>I.A.</fnm></au>
+  </aug>
+  <source>PLoS pathogens</source>
+  <pubdate>2013</pubdate>
+  <volume>9</volume>
+  <fpage>e1003376</fpage>
+</bibl>
+
+<bibl id="B5">
+  <title><p>Structure of a Spumaretrovirus Gag central domain reveals an
+  ancient retroviral capsid</p></title>
+  <aug>
+    <au><snm>Ball</snm><fnm>N.J.</fnm></au>
+    <au><snm>Nicastro</snm><fnm>G.</fnm></au>
+    <au><snm>Dutta</snm><fnm>M.</fnm></au>
+    <au><snm>Pollard</snm><fnm>D.</fnm></au>
+    <au><snm>Goldstone</snm><fnm>D.C.</fnm></au>
+    <au><snm>Sanz Ramos</snm><fnm>M.</fnm></au>
+    <au><snm>Ramos</snm><fnm>A.</fnm></au>
+    <au><snm>Müllers</snm><fnm>E.</fnm></au>
+    <au><snm>Stirnnagel</snm><fnm>K.</fnm></au>
+    <au><snm>Stanke</snm><fnm>N.</fnm></au>
+    <au><snm>Lindemann</snm><fnm>D.</fnm></au>
+    <au><snm>Stoye</snm><fnm>J.P.</fnm></au>
+    <au><snm>Taylor</snm><fnm>W.R.</fnm></au>
+    <au><snm>Rosenthal</snm><fnm>P.B.</fnm></au>
+    <au><snm>Taylor</snm><fnm>I.A</fnm></au>
+  </aug>
+  <source>{PLoS} Path.</source>
+  <pubdate>2016</pubdate>
+  <volume>12</volume>
+  <fpage>e1005981</fpage>
+  <note>doi:10.1371/journal.ppat.1005981</note>
+</bibl>
+
+<bibl id="B6">
+  <title><p>Protein structure alignment using iterated double dynamic
+  programming</p></title>
+  <aug>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+  </aug>
+  <source>Prot. Sci</source>
+  <pubdate>1999</pubdate>
+  <volume>8</volume>
+  <fpage>654</fpage>
+  <lpage>-665</lpage>
+</bibl>
+
+<bibl id="B7">
+  <title><p>Protein-structure comparison by alignment of distance
+  matrices</p></title>
+  <aug>
+    <au><snm>Holm</snm><fnm>L.</fnm></au>
+    <au><snm>Sander</snm><fnm>C.</fnm></au>
+  </aug>
+  <source>J. Molec. Biol.</source>
+  <pubdate>1993</pubdate>
+  <volume>233</volume>
+  <fpage>123</fpage>
+  <lpage>-138</lpage>
+</bibl>
+
+<bibl id="B8">
+  <title><p>Structural basis of arc binding to synaptic proteins: implications
+  for cognitive disease</p></title>
+  <aug>
+    <au><snm>Zhang</snm><fnm>W.</fnm></au>
+    <au><snm>Wu</snm><fnm>J.</fnm></au>
+    <au><snm>Ward</snm><fnm>M.D.</fnm></au>
+    <au><snm>Yang</snm><fnm>S.</fnm></au>
+    <au><snm>Chuang</snm><fnm>Y.A.</fnm></au>
+    <au><snm>Xiao</snm><fnm>M.</fnm></au>
+    <au><snm>Li</snm><fnm>R.</fnm></au>
+    <au><snm>Leahy</snm><fnm>D.J.</fnm></au>
+    <au><snm>Worley</snm><fnm>P.F.</fnm></au>
+  </aug>
+  <source>Neuron</source>
+  <pubdate>2015</pubdate>
+  <volume>86</volume>
+  <fpage>490</fpage>
+  <lpage>-500</lpage>
+</bibl>
+
+<bibl id="B9">
+  <title><p>Protein structure domain identification</p></title>
+  <aug>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+  </aug>
+  <source>Prot. Engng.</source>
+  <pubdate>1999</pubdate>
+  <volume>12</volume>
+  <fpage>203</fpage>
+  <lpage>-216</lpage>
+</bibl>
+
+<bibl id="B10">
+  <title><p>Decoy Models for Protein Structure Score Normalisation</p></title>
+  <aug>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+  </aug>
+  <source>J. Molec. Biol.</source>
+  <pubdate>2006</pubdate>
+  <volume>357</volume>
+  <fpage>676</fpage>
+  <lpage>-699</lpage>
+</bibl>
+
+<bibl id="B11">
+  <title><p>A unified statistical framework for sequence comparison and
+  structure comparison</p></title>
+  <aug>
+    <au><snm>Levitt</snm><fnm>M.</fnm></au>
+    <au><snm>Gerstein</snm><fnm>M.</fnm></au>
+  </aug>
+  <source>Proc Natl Acad Sci USA</source>
+  <pubdate>1998</pubdate>
+  <volume>95</volume>
+  <fpage>5913</fpage>
+  <lpage>-5920</lpage>
+</bibl>
+
+<bibl id="B12">
+  <title><p>Computational characterization of multiple Gag-like human
+  proteins</p></title>
+  <aug>
+    <au><snm>Campillos</snm><fnm>M.</fnm></au>
+    <au><snm>Doerks</snm><fnm>T.</fnm></au>
+    <au><snm>Shah</snm><fnm>P.K.</fnm></au>
+    <au><snm>Bork</snm><fnm>P.</fnm></au>
+  </aug>
+  <source>Trends in Genetics</source>
+  <pubdate>2006</pubdate>
+  <volume>22</volume>
+  <fpage>285</fpage>
+  <lpage>-589</lpage>
+</bibl>
+
+<bibl id="B13">
+  <title><p>{Arc/Arg3.1} interacts with the endocytic machinery to regulate
+  {AMPA} receptor trafficking</p></title>
+  <aug>
+    <au><snm>Chowdhury</snm><fnm>S.</fnm></au>
+    <au><snm>Shepherd</snm><fnm>J.D.</fnm></au>
+    <au><snm>Okuno</snm><fnm>H.</fnm></au>
+    <au><snm>Lyford</snm><fnm>G.</fnm></au>
+    <au><snm>Petralia</snm><fnm>R.S.</fnm></au>
+    <au><snm>Plath</snm><fnm>N.</fnm></au>
+    <au><snm>Kuhl</snm><fnm>D.</fnm></au>
+    <au><snm>Huganir</snm><fnm>R.L.</fnm></au>
+    <au><snm>Worley</snm><fnm>P.F.</fnm></au>
+  </aug>
+  <source>Neuron</source>
+  <pubdate>2006</pubdate>
+  <volume>52</volume>
+  <fpage>445</fpage>
+  <lpage>-459</lpage>
+</bibl>
+
+<bibl id="B14">
+  <title><p>Elongation factor 2 and fragile {X} mental retardation protein
+  control the dynamic translation of {Arc/Arg3.1} essential for
+  {mGluR-LTD}</p></title>
+  <aug>
+    <au><snm>Park</snm><fnm>S.</fnm></au>
+    <au><snm>Park</snm><fnm>J.M.</fnm></au>
+    <au><snm>Kim</snm><fnm>S.</fnm></au>
+    <au><snm>Kim</snm><fnm>J.A.</fnm></au>
+    <au><snm>Shepherd</snm><fnm>J.D.</fnm></au>
+    <au><snm>Smith Hicks</snm><fnm>C.L.</fnm></au>
+    <au><snm>Chowdhury</snm><fnm>S.</fnm></au>
+    <au><snm>Kaufmann</snm><fnm>W.</fnm></au>
+    <au><snm>Kuhl</snm><fnm>D.</fnm></au>
+    <au><snm>Ryazanov</snm><fnm>A.G.</fnm></au>
+    <au><cnm>al.</cnm></au>
+  </aug>
+  <source>Neuron</source>
+  <pubdate>2008</pubdate>
+  <volume>59</volume>
+  <fpage>70</fpage>
+  <lpage>-83</lpage>
+</bibl>
+
+<bibl id="B15">
+  <title><p>Arc/Arg3.1 mediates homeostatic synaptic scaling of {AMPA}
+  receptors</p></title>
+  <aug>
+    <au><snm>Shepherd</snm><fnm>J.D.</fnm></au>
+    <au><snm>Rumbaugh</snm><fnm>G.</fnm></au>
+    <au><snm>Wu</snm><fnm>J.</fnm></au>
+    <au><snm>Chowdhury</snm><fnm>S.</fnm></au>
+    <au><snm>Plath</snm><fnm>N.</fnm></au>
+    <au><snm>Kuhl</snm><fnm>D.</fnm></au>
+    <au><snm>Huganir</snm><fnm>R.L.</fnm></au>
+    <au><snm>Worley</snm><fnm>P.F.</fnm></au>
+  </aug>
+  <source>Neuron 52, 475-484</source>
+  <pubdate>2006</pubdate>
+</bibl>
+
+<bibl id="B16">
+  <title><p>Rapid translation of {Arc/Arg3.1} selectively mediates
+  {mGluR}-dependent {LTD} through persistent increases in {AMPAR} endocytosis
+  rate</p></title>
+  <aug>
+    <au><snm>Waung</snm><fnm>M.W.</fnm></au>
+    <au><snm>Pfeiffer</snm><fnm>B.E.</fnm></au>
+    <au><snm>Nosyreva</snm><fnm>E.D.</fnm></au>
+    <au><snm>Ronesi</snm><fnm>J.A.</fnm></au>
+    <au><snm>Huber</snm><fnm>K.M.</fnm></au>
+  </aug>
+  <source>Neuron</source>
+  <pubdate>2008</pubdate>
+  <volume>59</volume>
+  <fpage>84</fpage>
+  <lpage>-97</lpage>
+</bibl>
+
+<bibl id="B17">
+  <title><p>Evidence for a fragile X mental retardation protein-mediated
+  translational switch in metabotropic glutamate receptor-triggered Arc
+  translation and long-term depression</p></title>
+  <aug>
+    <au><snm>Niere</snm><fnm>F.</fnm></au>
+    <au><snm>Wilkerson</snm><fnm>J.R.</fnm></au>
+    <au><snm>Huber</snm><fnm>K.M.</fnm></au>
+  </aug>
+  <source>J. Neurosci.</source>
+  <pubdate>2012</pubdate>
+  <volume>32</volume>
+  <fpage>5924</fpage>
+  <lpage>-5936</lpage>
+</bibl>
+
+<bibl id="B18">
+  <title><p>Cellular genes derived from {Gypsy/Ty3} retrotransposons in
+  mammalian genomes</p></title>
+  <aug>
+    <au><snm>Volff</snm><fnm>J.N.</fnm></au>
+  </aug>
+  <source>Annals New York Acad. Sci.</source>
+  <pubdate>2009</pubdate>
+  <volume>1178</volume>
+  <fpage>233</fpage>
+  <lpage>-243</lpage>
+</bibl>
+
+<bibl id="B19">
+  <title><p>Relationships of gag-pol diversity between {Ty3/Gypsy} and
+  Retroviridae {LTR} retroelements and the three kings hypothesis.</p></title>
+  <aug>
+    <au><snm>Llorens</snm><fnm>C.</fnm></au>
+    <au><snm>Fares</snm><fnm>M.A.</fnm></au>
+    <au><snm>Moya</snm><fnm>A.</fnm></au>
+  </aug>
+  <source>BMC Evol. Biol.</source>
+  <pubdate>2008</pubdate>
+  <volume>8</volume>
+  <fpage>e276</fpage>
+</bibl>
+
+<bibl id="B20">
+  <title><p>Crystal structures of the trimeric human immunodeficiency virus
+  type 1 matrix protein: implications for membrane association and
+  assembly</p></title>
+  <aug>
+    <au><snm>Hill</snm><fnm>C.P.</fnm></au>
+    <au><snm>Worthylake</snm><fnm>D.</fnm></au>
+    <au><snm>Bancroft</snm><fnm>D.P.</fnm></au>
+    <au><snm>Christensen</snm><fnm>A.M.</fnm></au>
+    <au><snm>Sundquist</snm><fnm>W.I.</fnm></au>
+  </aug>
+  <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+  <pubdate>1996</pubdate>
+  <volume>93</volume>
+  <fpage>3099</fpage>
+  <lpage>-3104</lpage>
+</bibl>
+
+<bibl id="B21">
+  <title><p>The structure of myristoylated mason-pfizer monkey virus matrix
+  protein and the role of phosphatidylinositol-(4,5)-bisphosphate in its
+  membrane binding</p></title>
+  <aug>
+    <au><snm>Prchal</snm><fnm>J.</fnm></au>
+    <au><snm>Srb</snm><fnm>P.</fnm></au>
+    <au><snm>Hunter</snm><fnm>E.</fnm></au>
+    <au><snm>Ruml</snm><fnm>T.</fnm></au>
+    <au><snm>Hrabal</snm><fnm>R.</fnm></au>
+  </aug>
+  <source>J. Mol. Biol.</source>
+  <pubdate>2012</pubdate>
+  <volume>423</volume>
+  <fpage>427</fpage>
+  <lpage>-438</lpage>
+</bibl>
+
+<bibl id="B22">
+  <title><p>Crystal structure of {SIV} matrix antigen and implications for
+  virus assembly</p></title>
+  <aug>
+    <au><snm>Rao</snm><fnm>Z.</fnm></au>
+    <au><snm>Belyaev</snm><fnm>A.S.</fnm></au>
+    <au><snm>Fry</snm><fnm>E.</fnm></au>
+    <au><snm>Roy</snm><fnm>P.</fnm></au>
+    <au><snm>Jones</snm><fnm>I.M.</fnm></au>
+    <au><snm>Stuart</snm><fnm>D.I.</fnm></au>
+  </aug>
+  <source>Nature</source>
+  <pubdate>1995</pubdate>
+  <volume>378</volume>
+  <fpage>743</fpage>
+  <lpage>-747</lpage>
+</bibl>
+
+<bibl id="B23">
+  <title><p>Atomic resolution structure of Moloney murine leukemia virus matrix
+  protein and its relationship to other retroviral matrix proteins</p></title>
+  <aug>
+    <au><snm>Riffel</snm><fnm>N.</fnm></au>
+    <au><snm>Harlos</snm><fnm>K.</fnm></au>
+    <au><snm>Iourin</snm><fnm>O.</fnm></au>
+    <au><snm>Rao</snm><fnm>Z.</fnm></au>
+    <au><snm>Kingsman</snm><fnm>A.</fnm></au>
+    <au><snm>Stuart</snm><fnm>D.I.</fnm></au>
+    <au><snm>Fry</snm><fnm>E.</fnm></au>
+  </aug>
+  <source>Structure</source>
+  <pubdate>2002</pubdate>
+  <volume>10</volume>
+  <fpage>1627</fpage>
+  <lpage>-1636</lpage>
+</bibl>
+
+<bibl id="B24">
+  <title><p>An env-like protein encoded by a Drosophila retroelement: evidence
+  that gypsy is an infectious retrovirus</p></title>
+  <aug>
+    <au><snm>Song</snm><fnm>S.U.</fnm></au>
+    <au><snm>Gerasimova</snm><fnm>T.</fnm></au>
+    <au><snm>Kurkulos</snm><fnm>M.</fnm></au>
+    <au><snm>Boeke</snm><fnm>J.D.</fnm></au>
+    <au><snm>Corces</snm><fnm>V.G.</fnm></au>
+  </aug>
+  <source>Gene Dev 8, 2046-2057</source>
+  <pubdate>1994</pubdate>
+</bibl>
+
+<bibl id="B25">
+  <title><p>Human foamy virus capsid formation requires an interaction domain
+  in the {N}-terminus of {Gag}</p></title>
+  <aug>
+    <au><snm>Tobaly Tapiero</snm><fnm>J.</fnm></au>
+    <au><snm>Bittoun</snm><fnm>P.</fnm></au>
+    <au><snm>Giron</snm><fnm>M.L.</fnm></au>
+    <au><snm>Neves</snm><fnm>M.</fnm></au>
+    <au><snm>Koken</snm><fnm>M.</fnm></au>
+    <au><snm>Saib</snm><fnm>A.</fnm></au>
+    <au><snm>The</snm><fnm>H.</fnm></au>
+  </aug>
+  <source>J Virol 75, 4367-4375</source>
+  <pubdate>2001</pubdate>
+</bibl>
+
+<bibl id="B26">
+  <title><p>Conformational plasticity of a native retroviral capsid revealed by
+  {X}-ray crystallography.</p></title>
+  <aug>
+    <au><snm>Obal</snm><fnm>G.</fnm></au>
+    <au><snm>Trajtenberg</snm><fnm>F.</fnm></au>
+    <au><snm>Carrion</snm><fnm>F.</fnm></au>
+    <au><snm>Tome</snm><fnm>L.</fnm></au>
+    <au><snm>Larrieux</snm><fnm>N.</fnm></au>
+    <au><snm>Zhang</snm><fnm>X.</fnm></au>
+    <au><snm>Pritsch</snm><fnm>O.</fnm></au>
+    <au><snm>Buschiazzo</snm><fnm>A.</fnm></au>
+  </aug>
+  <source>Science</source>
+  <pubdate>2015</pubdate>
+  <volume>349</volume>
+  <fpage>95</fpage>
+  <lpage>-98</lpage>
+  <note>DOI: 10.1126/science.aaa5182</note>
+</bibl>
+
+<bibl id="B27">
+  <title><p>Crystal structure of human cyclophilin {A} bound to the
+  amino-terminal domain of {HIV-1} capsid.</p></title>
+  <aug>
+    <au><snm>Gamble</snm><fnm>T.R.</fnm></au>
+    <au><snm>Vajdos</snm><fnm>F.F.</fnm></au>
+    <au><snm>Yoo</snm><fnm>S.</fnm></au>
+    <au><snm>Worthylake</snm><fnm>D.K.</fnm></au>
+    <au><snm>Houseweart</snm><fnm>M.</fnm></au>
+    <au><snm>Sundquist</snm><fnm>W.I.</fnm></au>
+    <au><snm>Hill</snm><fnm>C.P.</fnm></au>
+  </aug>
+  <source>Cell</source>
+  <pubdate>1996</pubdate>
+  <volume>87</volume>
+  <fpage>1285</fpage>
+  <lpage>1294</lpage>
+</bibl>
+
+<bibl id="B28">
+  <title><p>Structures of the {HIV-1} capsid protein dimerization domain at
+  2.6\AA\ resolution.</p></title>
+  <aug>
+    <au><snm>Worthylake</snm><fnm>D.K.</fnm></au>
+    <au><snm>Wang</snm><fnm>H.</fnm></au>
+    <au><snm>Yoo</snm><fnm>S.</fnm></au>
+    <au><snm>Sundquist</snm><fnm>W.I.</fnm></au>
+    <au><snm>Hill</snm><fnm>C.P.</fnm></au>
+  </aug>
+  <source>Acta Crystallogr.,Sect.D</source>
+  <pubdate>1999</pubdate>
+  <volume>55</volume>
+  <fpage>85</fpage>
+  <lpage>-92</lpage>
+  <note>DOI: 10.1107/S0907444998007689</note>
+</bibl>
+
+<bibl id="B29">
+  <title><p>{X}-ray structures of the hexameric building block of the {HIV}
+  capsid.</p></title>
+  <aug>
+    <au><snm>Pornillos</snm><fnm>O.</fnm></au>
+    <au><snm>Ganser Pornillos</snm><fnm>B.K.</fnm></au>
+    <au><snm>Kelly</snm><fnm>B.N.</fnm></au>
+    <au><snm>Hua</snm><fnm>Y.</fnm></au>
+    <au><snm>Whitby</snm><fnm>F.G.</fnm></au>
+    <au><snm>Stout</snm><fnm>C.D.</fnm></au>
+    <au><snm>Sundquist</snm><fnm>W.I.</fnm></au>
+    <au><snm>Hill</snm><fnm>C.P.</fnm></au>
+    <au><snm>Yeager</snm><fnm>M.</fnm></au>
+  </aug>
+  <source>Cell</source>
+  <pubdate>2009</pubdate>
+  <volume>137</volume>
+  <fpage>1282</fpage>
+  <lpage>-1292</lpage>
+  <note>DOI: 10.1016/j.cell.2009.04.063</note>
+</bibl>
+
+<bibl id="B30">
+  <title><p>Structure of {B}-tropic {MLV} capsid {N}-terminal
+  domain.</p></title>
+  <aug>
+    <au><snm>Mortuza</snm><fnm>G.B.</fnm></au>
+    <au><snm>Dodding</snm><fnm>M.P.</fnm></au>
+    <au><snm>Goldstone</snm><fnm>D.C.</fnm></au>
+    <au><snm>Haire</snm><fnm>L.F.</fnm></au>
+    <au><snm>Stoye</snm><fnm>J.P.</fnm></au>
+    <au><snm>Taylor</snm><fnm>I.A.</fnm></au>
+  </aug>
+  <source>J. Mol. Biol.</source>
+  <pubdate>2008</pubdate>
+  <volume>376</volume>
+  <fpage>1493</fpage>
+  <lpage>-1508</lpage>
+</bibl>
+
+<bibl id="B31">
+  <title><p>Sequence-specific {1H, 13C and 15N} chemical shift assignment and
+  secondary structure of the {HTLV-I} capsid protein.</p></title>
+  <aug>
+    <au><snm>Khorasanizadeh</snm><fnm>S.</fnm></au>
+    <au><snm>Campos Olivas</snm><fnm>R.</fnm></au>
+    <au><snm>Clark</snm><fnm>C.A.</fnm></au>
+    <au><snm>Summers</snm><fnm>M.F.</fnm></au>
+  </aug>
+  <source>J. Biomol. NMR</source>
+  <pubdate>1999</pubdate>
+  <volume>14</volume>
+  <fpage>199</fpage>
+  <lpage>-200</lpage>
+</bibl>
+
+<bibl id="B32">
+  <title><p>Structure of the capsid amino terminal domain from the
+  Betaretrovirus, {J}aagsiekte sheep retrovirus.</p></title>
+  <aug>
+    <au><snm>Mortuza</snm><fnm>G. B.</fnm></au>
+    <au><snm>Goldstone</snm><fnm>D. C.</fnm></au>
+    <au><snm>Pashley</snm><fnm>C.</fnm></au>
+    <au><snm>Haire</snm><fnm>L. F.</fnm></au>
+    <au><snm>Palmarini</snm><fnm>M.</fnm></au>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+    <au><snm>Stoye</snm><fnm>J. P</fnm></au>
+    <au><snm>Taylor</snm><fnm>I. A</fnm></au>
+  </aug>
+  <source>J. Molec. Biol.</source>
+  <pubdate>2009</pubdate>
+  <volume>386</volume>
+  <fpage>1179</fpage>
+  <lpage>-1192</lpage>
+</bibl>
+
+<bibl id="B33">
+  <title><p>High-Resolution Structure of a Retroviral Capsid Hexameric
+  Amino-Terminal Domain.</p></title>
+  <aug>
+    <au><snm>Mortuza</snm><fnm>G. B.</fnm></au>
+    <au><snm>Haire</snm><fnm>L. F.</fnm></au>
+    <au><snm>Stevens</snm><fnm>A.</fnm></au>
+    <au><snm>Smerdon</snm><fnm>S. J.</fnm></au>
+    <au><snm>Stoye</snm><fnm>J. P.</fnm></au>
+    <au><snm>Taylor</snm><fnm>I. A.</fnm></au>
+  </aug>
+  <source>Nature</source>
+  <pubdate>2004</pubdate>
+  <volume>431</volume>
+  <fpage>481</fpage>
+  <lpage>-485</lpage>
+</bibl>
+
+<bibl id="B34">
+  <title><p>{NMR} structure of the {N}-terminal domain of capsid protein from
+  the mason-pfizer monkey virus</p></title>
+  <aug>
+    <au><snm>Macek</snm><fnm>P.</fnm></au>
+    <au><snm>Chmelik</snm><fnm>J.</fnm></au>
+    <au><snm>Krizova</snm><fnm>I.</fnm></au>
+    <au><snm>Kaderavek</snm><fnm>P.</fnm></au>
+    <au><snm>Padrta</snm><fnm>P.</fnm></au>
+    <au><snm>Zidek</snm><fnm>L.</fnm></au>
+    <au><snm>Wildova</snm><fnm>M.</fnm></au>
+    <au><snm>Hadravova</snm><fnm>R.</fnm></au>
+    <au><snm>Chaloupkova</snm><fnm>R.</fnm></au>
+    <au><snm>Pichova</snm><fnm>I.</fnm></au>
+    <au><snm>Ruml</snm><fnm>T.</fnm></au>
+    <au><snm>Rumlova</snm><fnm>M.</fnm></au>
+    <au><snm>Sklenar</snm><fnm>V.</fnm></au>
+  </aug>
+  <source>J. Mol. Biol.</source>
+  <pubdate>2009</pubdate>
+  <volume>392</volume>
+  <fpage>100</fpage>
+  <lpage>-114</lpage>
+  <note>DOI: 10.1016/j.jmb.2009.06.029</note>
+</bibl>
+
+<bibl id="B35">
+  <title><p>Structural and functional analysis of prehistoric lentiviruses
+  uncovers an ancient molecular interface.</p></title>
+  <aug>
+    <au><snm>Goldstone</snm><fnm>D. C.</fnm></au>
+    <au><snm>Yap</snm><fnm>M. W.</fnm></au>
+    <au><snm>Robertson</snm><fnm>L. E.</fnm></au>
+    <au><snm>Haire</snm><fnm>L. F.</fnm></au>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+    <au><snm>Katzourakis</snm><fnm>A.</fnm></au>
+    <au><snm>Stoye</snm><fnm>J. P</fnm></au>
+    <au><snm>Taylor</snm><fnm>I. A.</fnm></au>
+  </aug>
+  <source>Cell Host Microbe</source>
+  <pubdate>2010</pubdate>
+  <volume>8</volume>
+  <fpage>248</fpage>
+  <lpage>-259</lpage>
+</bibl>
+
+<bibl id="B36">
+  <title><p>Proton-linked dimerization of a retroviral capsid protein initiates
+  capsid assembly</p></title>
+  <aug>
+    <au><snm>Bailey</snm><fnm>G.D.</fnm></au>
+    <au><snm>Hyun</snm><fnm>J.K.</fnm></au>
+    <au><snm>Mitra</snm><fnm>A.K.</fnm></au>
+    <au><snm>Kingston</snm><fnm>R.L.</fnm></au>
+  </aug>
+  <source>Structure</source>
+  <pubdate>2009</pubdate>
+  <volume>17</volume>
+  <fpage>737</fpage>
+  <lpage>-748</lpage>
+  <note>DOI: 10.1016/j.str.2009.03.010</note>
+</bibl>
+
+<bibl id="B37">
+  <title><p>Visualization of structural similarity in proteins</p></title>
+  <aug>
+    <au><snm>Rippmann</snm><fnm>F.</fnm></au>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+  </aug>
+  <source>J. Molec. Graph.</source>
+  <pubdate>1991</pubdate>
+  <volume>9</volume>
+  <fpage>3</fpage>
+  <lpage>-16</lpage>
+</bibl>
+
+<bibl id="B38">
+  <title><p>Automatic identification of secondary structure in globular
+  proteins</p></title>
+  <aug>
+    <au><snm>Levitt</snm><fnm>M.</fnm></au>
+    <au><snm>Greer</snm><fnm>J.</fnm></au>
+  </aug>
+  <source>J. Molec. Biol.</source>
+  <pubdate>1977</pubdate>
+  <volume>114</volume>
+  <fpage>181</fpage>
+  <lpage>-293</lpage>
+</bibl>
+
+<bibl id="B39">
+  <title><p>How Alike are the Shapes of Two Random Chains?</p></title>
+  <aug>
+    <au><snm>McLachlan</snm><fnm>A. D.</fnm></au>
+  </aug>
+  <source>Biopolymers</source>
+  <pubdate>1984</pubdate>
+  <volume>23</volume>
+  <fpage>1325</fpage>
+  <lpage>-1331</lpage>
+</bibl>
+
+<bibl id="B40">
+  <title><p>On the prediction of protein structure: the significance of the
+  root-mean-square deviation</p></title>
+  <aug>
+    <au><snm>Cohen</snm><fnm>F. E.</fnm></au>
+    <au><snm>Sternberg</snm><fnm>M. J. E.</fnm></au>
+  </aug>
+  <source>J. Molec. Biol.</source>
+  <pubdate>1980</pubdate>
+  <volume>138</volume>
+  <fpage>321</fpage>
+  <lpage>-333</lpage>
+</bibl>
+
+<bibl id="B41">
+  <title><p>Significance of root-mean-square deviation in comparing
+  three-dimensional structures of globular proteins</p></title>
+  <aug>
+    <au><snm>Maiorov</snm><fnm>V. N.</fnm></au>
+    <au><snm>Crippen</snm><fnm>G. M.</fnm></au>
+  </aug>
+  <source>J. Mol. Biol.</source>
+  <pubdate>1994</pubdate>
+  <volume>235</volume>
+  <fpage>625</fpage>
+  <lpage>-634</lpage>
+</bibl>
+
+<bibl id="B42">
+  <title><p>Numerical Recipes: The Art of Scientific Computing</p></title>
+  <aug>
+    <au><snm>Press</snm><fnm>W. H.</fnm></au>
+    <au><snm>Flannery</snm><fnm>B. P.</fnm></au>
+    <au><snm>Teukolsky</snm><fnm>S. A.</fnm></au>
+    <au><snm>Vetterling</snm><fnm>W. T.</fnm></au>
+  </aug>
+  <publisher>Cambridge Univ. Press (Cambridge, UK)</publisher>
+  <pubdate>1986</pubdate>
+</bibl>
+
+<bibl id="B43">
+  <title><p>A protein structure comparison methodology</p></title>
+  <aug>
+    <au><snm>Brown</snm><fnm>N. P.</fnm></au>
+    <au><snm>Orengo</snm><fnm>C. A.</fnm></au>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+  </aug>
+  <source>Computers Chem.</source>
+  <pubdate>1996</pubdate>
+  <volume>20</volume>
+  <fpage>359</fpage>
+  <lpage>-380</lpage>
+</bibl>
+
+<bibl id="B44">
+  <title><p>Hierarchical Inertial Projection: a fast distance matrix embedding
+  algorithm.</p></title>
+  <aug>
+    <au><snm>Asz\'{o}di</snm><fnm>A.</fnm></au>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+  </aug>
+  <source>Computers Chem.</source>
+  <pubdate>1997</pubdate>
+  <volume>21</volume>
+  <fpage>13</fpage>
+  <lpage>-23</lpage>
+</bibl>
+
+<bibl id="B45">
+  <title><p>Protein Structure: Geometry, Topology and
+  Classification</p></title>
+  <aug>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+    <au><snm>May</snm><fnm>A. C. W.</fnm></au>
+    <au><snm>Brown</snm><fnm>N. P.</fnm></au>
+    <au><snm>Asz\'odi</snm><fnm>A.</fnm></au>
+  </aug>
+  <source>Rep. Prog. Phys.</source>
+  <pubdate>2001</pubdate>
+  <volume>64</volume>
+  <fpage>517</fpage>
+  <lpage>-590</lpage>
+</bibl>
+
+<bibl id="B46">
+  <title><p>Probing the ``dark matter'' of protein fold-space</p></title>
+  <aug>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+    <au><snm>Chelliah</snm><fnm>V.</fnm></au>
+    <au><snm>Hollup</snm><fnm>S. M.</fnm></au>
+    <au><snm>MacDonald</snm><fnm>J. T.</fnm></au>
+    <au><snm>Jonassen</snm><fnm>I.</fnm></au>
+  </aug>
+  <source>Structure</source>
+  <pubdate>2009</pubdate>
+  <volume>17</volume>
+  <fpage>1244</fpage>
+  <lpage>-1252</lpage>
+</bibl>
+
+<bibl id="B47">
+  <title><p>Folding polypeptide $\alpha$-carbon backbones by distance geometry
+  methods</p></title>
+  <aug>
+    <au><snm>Asz\'{o}di</snm><fnm>A.</fnm></au>
+    <au><snm>Taylor</snm><fnm>W. R.</fnm></au>
+  </aug>
+  <source>Biopolymers</source>
+  <pubdate>1994</pubdate>
+  <volume>34</volume>
+  <fpage>489</fpage>
+  <lpage>-506</lpage>
+</bibl>
+
+</refgrp>
+} % end of \BMCxmlcomment

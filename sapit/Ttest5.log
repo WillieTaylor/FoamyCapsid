@@ -1,0 +1,20 @@
+wtaylor@wt:~/ianpdbs/sapit$ main/stest comb5NN 30 10
+ argv[1] = comb5NN damp = 30.000000
+ in1 = 5 maln = 65 naln = 85 mean1 = 0.607359 stdv1 = 0.096980 in2 = 2559 mean2 = 1.320953 stdv2 = 0.204689
+Avg: 6.07e-01 < 1.32e+00 Tprob=9.47e-15 **
+StD: 9.70e-02 = 2.05e-01 Fprob=7.52e-02 
+wtaylor@wt:~/ianpdbs/sapit$ main/stest comb5NC 30 10
+ argv[1] = comb5NC damp = 30.000000
+ in1 = 5 maln = 70 naln = 90 mean1 = 0.444484 stdv1 = 0.051439 in2 = 2116 mean2 = 1.285011 stdv2 = 0.223153
+Avg: 4.44e-01 < 1.29e+00 Tprob=1.49e-06 **
+StD: 5.14e-02 < 2.23e-01 Fprob=5.27e-03 **
+wtaylor@wt:~/ianpdbs/sapit$ main/stest comb5CN 30 10
+ argv[1] = comb5CN damp = 30.000000
+ in1 = 5 maln = 61 naln = 81 mean1 = 0.607863 stdv1 = 0.109509 in2 = 978 mean2 = 1.256396 stdv2 = 0.182302
+Avg: 6.08e-01 < 1.26e+00 Tprob=5.31e-15 **
+StD: 1.10e-01 = 1.82e-01 Fprob=1.63e-01 
+wtaylor@wt:~/ianpdbs/sapit$ main/stest comb5CC 30 10
+ argv[1] = comb5CC damp = 30.000000
+ in1 = 5 maln = 63 naln = 83 mean1 = 0.606966 stdv1 = 0.128568 in2 = 1059 mean2 = 1.305991 stdv2 = 0.173999
+Avg: 6.07e-01 < 1.31e+00 Tprob=1.32e-18 **
+StD: 1.29e-01 = 1.74e-01 Fprob=2.98e-01 

@@ -1,0 +1,60 @@
+BLV_N/BLV_NfoamN
+ damp = 30.000000 margin = 10
+ n = 251 mean = 1.315207 stdv = 0.170234 y = 0.550254 mean-y = 0.764954 n = 251 better = 0 b = 0.000000 z = 4.493551
+BLV_N/BLV_NfoamC
+ damp = 30.000000 margin = 10
+ n = 184 mean = 1.234132 stdv = 0.227439 y = 0.399576 mean-y = 0.834556 n = 184 better = 0 b = 0.000000 z = 3.669370
+BLV_C/BLV_CfoamN
+ damp = 30.000000 margin = 10
+ n = 154 mean = 1.268382 stdv = 0.202504 y = 0.579920 mean-y = 0.688462 n = 154 better = 0 b = 0.000000 z = 3.399738
+BLV_C/BLV_CfoamC
+ damp = 30.000000 margin = 10
+ n = 204 mean = 1.305845 stdv = 0.185196 y = 0.556341 mean-y = 0.749504 n = 204 better = 0 b = 0.000000 z = 4.047075
+HIV1_N/HIV1_NfoamN
+ damp = 30.000000 margin = 10
+ n = 312 mean = 1.387546 stdv = 0.219740 y = 0.573903 mean-y = 0.813643 n = 312 better = 0 b = 0.000000 z = 3.702746
+HIV1_N/HIV1_NfoamC
+ damp = 30.000000 margin = 10
+ n = 213 mean = 1.304811 stdv = 0.244515 y = 0.402160 mean-y = 0.902651 n = 213 better = 0 b = 0.000000 z = 3.691602
+HIV1_C/HIV1_CfoamN
+ damp = 30.000000 margin = 10
+ n = 157 mean = 1.229855 stdv = 0.169134 y = 0.593804 mean-y = 0.636051 n = 157 better = 0 b = 0.000000 z = 3.760632
+HIV1_C/HIV1_CfoamC
+ damp = 30.000000 margin = 10
+ n = 174 mean = 1.291238 stdv = 0.174192 y = 0.705527 mean-y = 0.585711 n = 174 better = 0 b = 0.000000 z = 3.362449
+HML2_N/HML2_NfoamN
+ damp = 30.000000 margin = 10
+ n = 264 mean = 1.265025 stdv = 0.225198 y = 0.777153 mean-y = 0.487873 n = 264 better = 2 b = 0.007576 z = 2.166418
+HML2_N/HML2_NfoamC
+ damp = 30.000000 margin = 10
+ n = 196 mean = 1.337005 stdv = 0.195668 y = 0.438086 mean-y = 0.898919 n = 196 better = 0 b = 0.000000 z = 4.594095
+HML2_C/HML2_CfoamN
+ damp = 30.000000 margin = 10
+ n = 185 mean = 1.269326 stdv = 0.177262 y = 0.732750 mean-y = 0.536576 n = 185 better = 0 b = 0.000000 z = 3.027011
+HML2_C/HML2_CfoamC
+ damp = 30.000000 margin = 10
+ n = 184 mean = 1.291423 stdv = 0.157803 y = 0.676068 mean-y = 0.615355 n = 184 better = 0 b = 0.000000 z = 3.899511
+HTLV_N/HTLV_NfoamN
+ damp = 30.000000 margin = 10
+ n = 400 mean = 1.324345 stdv = 0.181467 y = 0.592956 mean-y = 0.731389 n = 400 better = 0 b = 0.000000 z = 4.030429
+HTLV_N/HTLV_NfoamC
+ damp = 30.000000 margin = 10
+ n = 328 mean = 1.283603 stdv = 0.205965 y = 0.457005 mean-y = 0.826598 n = 328 better = 0 b = 0.000000 z = 4.013291
+HTLV_C/HTLV_CfoamN
+ damp = 30.000000 margin = 10
+ n = 156 mean = 1.267269 stdv = 0.151450 y = 0.684654 mean-y = 0.582614 n = 156 better = 0 b = 0.000000 z = 3.846900
+HTLV_C/HTLV_CfoamC
+ damp = 30.000000 margin = 10
+ n = 163 mean = 1.259457 stdv = 0.201546 y = 0.693736 mean-y = 0.565720 n = 163 better = 0 b = 0.000000 z = 2.806904
+RSV_N/RSV_NfoamN
+ damp = 30.000000 margin = 10
+ n = 204 mean = 1.299841 stdv = 0.242518 y = 0.542528 mean-y = 0.757312 n = 204 better = 0 b = 0.000000 z = 3.122707
+RSV_N/RSV_NfoamC
+ damp = 30.000000 margin = 10
+ n = 239 mean = 1.285199 stdv = 0.214446 y = 0.525590 mean-y = 0.759609 n = 239 better = 0 b = 0.000000 z = 3.542199
+RSV_C/RSV_CfoamN
+ damp = 30.000000 margin = 10
+ n = 155 mean = 1.226569 stdv = 0.207357 y = 0.448186 mean-y = 0.778383 n = 155 better = 0 b = 0.000000 z = 3.753835
+RSV_C/RSV_CfoamC
+ damp = 30.000000 margin = 10
+ n = 235 mean = 1.300217 stdv = 0.179102 y = 0.403158 mean-y = 0.897059 n = 235 better = 0 b = 0.000000 z = 5.008660

@@ -1,0 +1,4 @@
+combineCC 72	D = 0.0684, p-value = 0.0001485
+combineCN 74	D = 0.0521, p-value = 0.02371
+combineNC 80	D = 0.043, p-value = 0.001747
+combineNN 79	D = 0.0409, p-value = 0.0001453

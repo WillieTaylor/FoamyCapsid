@@ -1,0 +1,77 @@
+Protein 1 is HIV1_N
+found
+Protein 2 is HIV1_C
+found
+Directory is HIV1_NHIV1_C
+COMPND   
+SOURCE   
+ apct = 55.172413 bpct = 13.793103
+ n = 145
+ k = 1238 iend = 1 jend = 138 cost = 1211.240234
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 55.172413 bpct = 13.793103
+ n = 145
+ k = 1238 iend = 1 jend = 138 cost = 1211.240234
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 56.944443 bpct = 2.777778
+ n = 72
+ k = 296 iend = 3 jend = 71 cost = 727.731506
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 56.944443 bpct = 2.777778
+ n = 72
+ k = 296 iend = 3 jend = 71 cost = 727.731506
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 55.172413 bpct = 13.793103
+ a = 32 b = 34 c = 64 d = 65 e = 140 f = 144
+ ad = 8.367901 eb = 10.132524 cf = 10.222251
+ dsum = 28.722675 spare = 4
+ n = 145
+ k = 1226 iend = 1 jend = 140 cost = 1257.307373
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 55.172413 bpct = 13.793103
+ a = 32 b = 34 c = 64 d = 65 e = 140 f = 144
+ ad = 8.367901 eb = 10.132524 cf = 10.222251
+ dsum = 28.722675 spare = 4
+ n = 145
+ k = 1226 iend = 1 jend = 140 cost = 1257.307373
+ nout = 8
+COMPND   
+SOURCE   
+ apct = 56.944443 bpct = 2.777778
+ a = 11 b = 15 c = 50 d = 51 e = 68 f = 70
+ ad = 10.647132 eb = 6.699996 cf = 10.520047
+ dsum = 27.867176 spare = 4
+ n = 72
+ k = 295 iend = 3 jend = 71 cost = 713.105408
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 56.944443 bpct = 2.777778
+ a = 11 b = 15 c = 50 d = 51 e = 68 f = 70
+ ad = 10.647132 eb = 6.699996 cf = 10.520047
+ dsum = 27.867176 spare = 4
+ n = 72
+ k = 295 iend = 3 jend = 71 cost = 713.105408
+ nout = 5
+145 residues in str1
+72 residues in str2
+nat1 vs rev2
+nat2 vs rev1
+nta1 vs rev2
+nta2 vs rev1
+nat1 vs rve2
+nat2 vs rve1
+nta1 vs rve2
+nta2 vs rve1
+pdb1 vs pdb2
+pdb2 vs pdb1

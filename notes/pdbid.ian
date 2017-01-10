@@ -1,0 +1,42 @@
+Notes on CA structures for WT
+
+N-terminal orthoretroviral CA domains
+1) Ortho-HIV1_NtD.pdb – (Lentivirus) Taken from HIV-Cyp structure. PDB code 1AK4.
+
+2) Ortho_HML2_NtD.pdb – (Betaretrovirus) crystal structure of NtD of human endogenous virus HML2, our unpublished structure.
+
+3) Ortho_HTLV_NtD.pdb – (Deltaretrovirus) NMR structure of HTLV CA-NtD. Resolution a bit poor and N-terminal beta hairpin not correctly modelled. PDB code 1G03.
+
+4) Ortho_JSRV_NtD.pdb – (Betaretrovirus) Our X-ray structure of CA-NtD from JSRV. PDB code 2V4X
+
+5) Ortho_MLV_NtD – (gammaretrovirus) one monomer taken from our X-ray structure of N-MLV. PDB code 1U7K
+
+6) Ortho_MPMV_NtD – (betaretrovirus) NMR structure of CA NtD domain from MPMV. PDB code 2KGF
+
+7) Ortho_RSV_NtD.pdb – (alpharetrovirus) One Ntd Monomer taken from RSV CA –NtD crystal dimer. PDB code 1EM9
+
+8) Ortho_BLV_NtD.pdb – (Deltaretrovirus) One NtD monomer taken from a BLV NtD crystal dimer. PDB code 4PH2
+
+9) Ortho_RELIC_NtD.pdb – (Lentivirus, ancient) One Ntd monomer Taken from our X-ray structure of a RELIK crystal dimer. PDB code 2XGU.
+
+10) ortho_PSIV_NtD.pdb – (Lentivirus, ancient) Ntd monomer in our X-ray crystal structure of PSIV. PDB code 2XGU.
+
+
+C-terminal orthoretroviral CA domains
+1) Ortho_HIV1_CtD – (Lentivirus) One CtD monomer taken from an HIV1 crystal dimer crystal. PDB code 1A43
+
+2) Ortho_RSV_CtD.pdb – (Alpharetrovirus) One Ctd Monomer taken from RSV CtD crystal dimer. PDB code 3G1I. This dimer was neural pH. There are other forms at high and low pH.
+
+3) BLV_CA_CtD.pdb – (Deltaretrovirus) One CtD monomer taken from a BLV CtD crystal trimer. PDB code 4PH1.
+
+4) Ortho_HML2_CtD.pdb – (Betaretrovirus) Our NMR structure of CtD of human endogenous virus HML2, our unpublished structure.
+
+Orthoretroviral CA domains
+1) Ortho_HIV1_CA_hex_P6.pdb – (Lentivirus) One CA monomer out of a P6 disk. PDB code 3H47.
+
+2) Ortho_HIV1_CA_hex_P212121 – (Lentivirus) One CA monomer extracted out of a hexameric disk. PDB code 3H4E.
+
+3) Ortho_HTLV_CA.pdb _ (Deltaretrovirus) NMR structure of HTLV CA. PDB code 1QRJ.
+
+4) Ortho_BLV_CA_Hex_P65.pdb. – (Deltaretrovirus) One CA monomer extracted out of a hexameric disk. PDB code 4PH0.
+

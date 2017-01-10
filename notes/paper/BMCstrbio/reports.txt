@@ -1,0 +1,33 @@
+Reviewer reports:
+
+Reviewer 1: The authors report a method to compare structural similarities between proteins using an example application between genes from the foamy viruses and HIV viruses. The assignment of structural
+similarity to evolutionary divergent proteins is an extremely difficult problem and can inform functional similarities.
+
+The authors describe a novel statistical approach to evaluate structural similarities. The manuscript is clear and well written. Some minor comments below.
+
+* I feel that Figure 2 could be improved immensely. Instead of a screenshot, it would be clearer as a table without the redundant "PDB MOLECULE:" columns. Also, the descriptions of the proteins are currently truncated eg "ACTIVITY-REGULATED CYTOSKELETON-ASSOC....". It would be better to be more descriptive.
+
+* It would be extremely useful to annotate the positions of the helices on the sequence alignment shown in Figure 5. I also feel that including sequence homologs of the foamy virus would strengthen the proposed structural conservation.
+
+* How does the proposed sequence alignment, based on the superposition shown in Figure 12, differ from that shown in Figure 5? Does your method give a different alignment or is it simply a more robust statistical evaluation?
+  
+* Page 8 line 42 suggested spelt incorrectly.
+
+* Table 2 legend - combination spelt incorrectly. 
+
+
+
+
+Reviewer 2: MAJOR:
+
+(1) The authors claim that the distributions of alpha are Gaussian (page 6: "The distributions were found to be a good ﬁt to unskewed Gaussians and so were treated as normal distributions (rather than extreme value distributions that have also been considered previously as a model for random structure comparison scores"). I don't see how the validity of the normal approximation can be justified. The distribution shown In Fig.9A is totally different from normal - it has two peaks to the left and right of the center. Distribution shown in Fig.9B is also very different from normal - it is asymmetric with a heavy tail. Using the assumption of normal distribution requires at least an approximately symmetric bell-shaped distribution, which is not the case here. In the case of Fig.9B the inverse extreme value distribution potentially could be used to approximate the background and calculate the p-value. Another possibility is to use log-transformation of the raw values to make the
+distribution more symmetric. Distribution shown in Fig.9A will be harder to transform. The authors may try to use the fraction of the random comparisons that have values of alpha equal to or smaller than the observed value as a substitute for p-value. This does not require distribution fitting, but would require a much larger number of random decoys than the one currently used in the manuscript.
+(2) The authors do not use a correction for multiple tests in DALI search and some other applications. With  the z-score cutoff of just 2 the lack of correction will result in many false-positives. Fig.6 shows that even decoys can get high z-score of about 4.5.
+(3) Applying the t-test to two pooled distributions, each of which may combine different populations, does not seem to be a valid approach.
+
+MINOR:
+
+(1) Conclusions section is too long - almost 2 pages. The conclusions should be short and concise.
+(2) Explain the reversal and regeneration on page 12 "Reversed structure decoys".
+(3) Where did s=30 come from on page 13?
+(4) All data must be made available as manuscript supplement. Otherwise the results cannot be reproduced/validated.

@@ -1,0 +1,77 @@
+Protein 1 is JSRV_N
+found
+Protein 2 is foamC
+found
+Directory is JSRV_NfoamC
+COMPND   
+SOURCE   
+ apct = 60.305344 bpct = 7.633588
+ n = 131
+ k = 992 iend = 1 jend = 128 cost = 776.591797
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 60.305344 bpct = 7.633588
+ n = 131
+ k = 992 iend = 1 jend = 128 cost = 776.591797
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ n = 94
+ k = 491 iend = 1 jend = 87 cost = 1509.756104
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ n = 94
+ k = 491 iend = 1 jend = 87 cost = 1509.756104
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 60.305344 bpct = 7.633588
+ a = 30 b = 32 c = 64 d = 65 e = 127 f = 131
+ ad = 10.639573 eb = 7.422441 cf = 10.815653
+ dsum = 28.877666 spare = 4
+ n = 131
+ k = 976 iend = 1 jend = 127 cost = 983.613342
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 60.305344 bpct = 7.633588
+ a = 30 b = 32 c = 64 d = 65 e = 127 f = 131
+ ad = 10.639573 eb = 7.422441 cf = 10.815653
+ dsum = 28.877666 spare = 4
+ n = 131
+ k = 976 iend = 1 jend = 127 cost = 983.613342
+ nout = 7
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ a = 14 b = 18 c = 44 d = 45 e = 86 f = 87
+ ad = 8.122690 eb = 5.592104 cf = 8.670487
+ dsum = 22.385281 spare = 3
+ n = 94
+ k = 491 iend = 1 jend = 86 cost = 1430.448486
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 72.340424 bpct = 0.000000
+ a = 14 b = 18 c = 44 d = 45 e = 86 f = 87
+ ad = 8.122690 eb = 5.592104 cf = 8.670487
+ dsum = 22.385281 spare = 3
+ n = 94
+ k = 491 iend = 1 jend = 86 cost = 1430.448486
+ nout = 5
+132 residues in str1
+94 residues in str2
+nat1 vs rev2
+nat2 vs rev1
+nta1 vs rev2
+nta2 vs rev1
+nat1 vs rve2
+nat2 vs rve1
+nta1 vs rve2
+nta2 vs rve1
+pdb1 vs pdb2
+pdb2 vs pdb1

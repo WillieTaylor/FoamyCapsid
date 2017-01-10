@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: paper.aux
+The style file: model1-num-names.bst
+Database file #1: newrefs.bib
+Database file #2: pdbrefs.bib
+Repeated entry---line 60 of file pdbrefs.bib
+ : @article{GoldstoneDCet10
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 76 of file pdbrefs.bib
+ : @article{MortuzaGBet04
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 84 of file pdbrefs.bib
+ : @article{MortuzaGBet09
+ :                       ,
+I'm skipping whatever remains of this entry
+Database file #3: jonrefs.bib
+Repeated entry---line 9 of file jonrefs.bib
+ : @article{CampillosMet06
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 15 of file jonrefs.bib
+ : @article{LlorensCet08
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 37 of file jonrefs.bib
+ : @article{ZhangWet15
+ :                    ,
+I'm skipping whatever remains of this entry
+You've used 46 entries,
+            2616 wiz_defined-function locations,
+            966 strings with 14954 characters,
+and the built_in function-call counts, 34018 in all, are:
+= -- 2485
+> -- 1980
+< -- 15
++ -- 751
+- -- 693
+* -- 4580
+:= -- 5187
+add.period$ -- 52
+call.type$ -- 46
+change.case$ -- 466
+chr.to.int$ -- 46
+cite$ -- 46
+duplicate$ -- 1920
+empty$ -- 1864
+format.name$ -- 837
+if$ -- 5944
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 506
+newline$ -- 234
+num.names$ -- 184
+pop$ -- 408
+preamble$ -- 1
+purify$ -- 461
+quote$ -- 0
+skip$ -- 432
+stack$ -- 0
+substring$ -- 1628
+swap$ -- 2014
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 411
+warning$ -- 0
+while$ -- 218
+width$ -- 0
+write$ -- 607
+(There were 6 error messages)

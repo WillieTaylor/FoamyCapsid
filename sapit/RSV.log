@@ -1,0 +1,77 @@
+Protein 1 is RSV_N
+found
+Protein 2 is RSV_C
+found
+Directory is RSV_NRSV_C
+COMPND   
+SOURCE   
+ apct = 59.863945 bpct = 6.122449
+ n = 147
+ k = 1248 iend = 1 jend = 143 cost = 955.258423
+ nout = 10
+COMPND   
+SOURCE   
+ apct = 59.863945 bpct = 6.122449
+ n = 147
+ k = 1248 iend = 1 jend = 143 cost = 955.258423
+ nout = 10
+COMPND   
+SOURCE   
+ apct = 60.526318 bpct = 2.631579
+ n = 76
+ k = 326 iend = 3 jend = 73 cost = 901.224060
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 60.526318 bpct = 2.631579
+ n = 76
+ k = 326 iend = 3 jend = 73 cost = 901.224060
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 59.863945 bpct = 6.122449
+ a = 9 b = 10 c = 47 d = 49 e = 122 f = 126
+ ad = 11.768057 eb = 6.547443 cf = 7.800678
+ dsum = 26.116179 spare = 4
+ n = 147
+ k = 1250 iend = 1 jend = 143 cost = 951.477600
+ nout = 10
+COMPND   
+SOURCE   
+ apct = 59.863945 bpct = 6.122449
+ a = 9 b = 10 c = 47 d = 49 e = 122 f = 126
+ ad = 11.768057 eb = 6.547443 cf = 7.800678
+ dsum = 26.116179 spare = 4
+ n = 147
+ k = 1250 iend = 1 jend = 143 cost = 951.477600
+ nout = 10
+COMPND   
+SOURCE   
+ apct = 60.526318 bpct = 2.631579
+ a = 13 b = 15 c = 50 d = 51 e = 72 f = 76
+ ad = 9.889194 eb = 8.928839 cf = 10.436290
+ dsum = 29.254322 spare = 4
+ n = 76
+ k = 330 iend = 3 jend = 74 cost = 839.798889
+ nout = 5
+COMPND   
+SOURCE   
+ apct = 60.526318 bpct = 2.631579
+ a = 13 b = 15 c = 50 d = 51 e = 72 f = 76
+ ad = 9.889194 eb = 8.928839 cf = 10.436290
+ dsum = 29.254322 spare = 4
+ n = 76
+ k = 330 iend = 3 jend = 74 cost = 839.798889
+ nout = 5
+147 residues in str1
+76 residues in str2
+nat1 vs rev2
+nat2 vs rev1
+nta1 vs rev2
+nta2 vs rev1
+nat1 vs rve2
+nat2 vs rve1
+nta1 vs rve2
+nta2 vs rve1
+pdb1 vs pdb2
+pdb2 vs pdb1

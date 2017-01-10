@@ -1,0 +1,7 @@
+BLV6_C+N damp = 30.000000 margin = 10 n = 144 mean = 1.269846 stdv = 0.167814 y = 0.763161 mean-y = 0.506686 z = 3.019336
+BLV_C+N damp = 30.000000 margin = 10 n = 154 mean = 1.268382 stdv = 0.202504 y = 0.579920 mean-y = 0.688462 z = 3.399738
+HIV1_C+N damp = 30.000000 margin = 10 n = 157 mean = 1.229855 stdv = 0.169134 y = 0.593804 mean-y = 0.636051 z = 3.760632
+HIV6_C+N damp = 30.000000 margin = 10 n = 179 mean = 1.314433 stdv = 0.168393 y = 0.779728 mean-y = 0.534705 z = 3.175344
+HML2_C+N damp = 30.000000 margin = 10 n = 185 mean = 1.269326 stdv = 0.177262 y = 0.732750 mean-y = 0.536576 z = 3.027011
+HTLV_C+N damp = 30.000000 margin = 10 n = 156 mean = 1.267269 stdv = 0.151450 y = 0.684654 mean-y = 0.582614 z = 3.846900
+RSV_C+N damp = 30.000000 margin = 10 n = 155 mean = 1.226569 stdv = 0.207357 y = 0.448186 mean-y = 0.778383 z = 3.753835
